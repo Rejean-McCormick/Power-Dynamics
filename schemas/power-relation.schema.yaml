@@ -1,0 +1,67 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Power Relation
+type: object
+required:
+- holder
+- domain
+- capability
+properties:
+  holder:
+    type: string
+  target:
+    type:
+    - string
+    - 'null'
+  domain:
+    type: string
+  mode:
+    type: array
+    items:
+      enum:
+      - over
+      - to
+      - with
+      - through
+  capability:
+    type: string
+  resource_basis:
+    type: array
+    items:
+      type: string
+  mechanism:
+    type: string
+  scope:
+    type: object
+    properties:
+      domain:
+        type: string
+      temporal:
+        type: string
+      geographic:
+        type: string
+  beneficiaries:
+    type: array
+    items:
+      type: string
+  dependencies_created:
+    type: array
+    items:
+      type: string
+  conversion_paths:
+    type: array
+    items:
+      type: string
+  constraints:
+    type: array
+    items:
+      type: string
+  contestability:
+    type: string
+  exit_options:
+    type: array
+    items:
+      type: string
+  uncertainties:
+    type: array
+    items:
+      type: string

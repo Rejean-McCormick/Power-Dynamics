@@ -1,0 +1,35 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Branch Lineage
+type: object
+required:
+- branch_id
+- version
+properties:
+  branch_id:
+    type: string
+  version:
+    type: string
+  parents:
+    type: array
+    items:
+      type: string
+  changes:
+    type: array
+    items:
+      type: string
+  evidence_added:
+    type: array
+    items:
+      type: string
+  assumptions_changed:
+    type: array
+    items:
+      type: string
+  compatibility:
+    type: array
+    items:
+      type: string
+  unresolved_disagreements:
+    type: array
+    items:
+      type: string

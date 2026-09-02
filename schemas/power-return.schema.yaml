@@ -1,0 +1,27 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Power Return
+type: object
+required:
+- action
+- returned_assets
+properties:
+  action:
+    type: string
+  returned_assets:
+    type: object
+    additionalProperties:
+      type: array
+      items:
+        type: string
+  recipients:
+    type: array
+    items:
+      type: string
+  portability:
+    type: string
+  reinvestment_paths:
+    type: array
+    items:
+      type: string
+  distribution_effect:
+    type: string

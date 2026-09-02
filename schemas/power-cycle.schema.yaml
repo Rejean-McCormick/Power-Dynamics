@@ -1,0 +1,36 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Power Cycle
+type: object
+required:
+- inputs
+- capability
+- outcome
+properties:
+  inputs:
+    type: array
+    items:
+      type: string
+  latent_capacity:
+    type: string
+  capability:
+    type: string
+  exercise:
+    type: string
+  outcome:
+    type: string
+  returns:
+    type: array
+    items:
+      type: string
+  reinvestment_paths:
+    type: array
+    items:
+      type: string
+  compounding_effects:
+    type: array
+    items:
+      type: string
+  decay_risks:
+    type: array
+    items:
+      type: string
