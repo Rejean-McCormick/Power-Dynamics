@@ -2,10 +2,26 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "5.0"
+version: "5.1"
 title: "Changelog"
 ---
 # Changelog
+
+## 5.1 — Power Routing and Sharing
+
+- Made **“What makes kOA immensely powerful?”** answerable directly from the first section of the README.
+- Formalized the Power Show multiplier as **Breadth × Composition × Closure × Memory × Compounding × Replication**.
+- Added **Power Routing**, **Power Redirection**, **Power Sharing**, **Power Devolution**, **Self-Binding**, **Narrative Self-Binding**, **Protocolization**, **Ownership Decoupling**, and **Capability Commons**.
+- Added a new front-stage sequence: `Generate → Compose → Compound → Route → Share → Bind → Contest → Fork → Evolve`.
+- Added [`showcase/11-power-routing-and-sharing.md`](showcase/11-power-routing-and-sharing.md).
+- Added [`framework/09-power-routing-and-sharing.md`](framework/09-power-routing-and-sharing.md).
+- Added [`constitution/power-redirection-sharing.md`](constitution/power-redirection-sharing.md).
+- Added [`assessment/power-routing-audit.md`](assessment/power-routing-audit.md).
+- Added [`cases/ethical-fiction-self-binding.md`](cases/ethical-fiction-self-binding.md), grounded in S02's explicit living ethical code and anti-monopoly / anti-domination principles.
+- Added [`koa/koali-protocolization.md`](koa/koali-protocolization.md) to record the architect-confirmed intention that Koali become duplicable, shareable, branchable, and plural rather than a terminal personal credibility property.
+- Added `USER-CONFIRMED-DESIGN` as an epistemic label so current design intent is not misrepresented as source-derived or implemented fact.
+- Expanded the component power matrix with a **Power-routing / sharing mechanisms** column.
+- Reframed founder decentering as conversion of founder-specific assets into ecosystem capability, not merely founder limitation.
 
 ## 5.0 — kOA Power Show
 

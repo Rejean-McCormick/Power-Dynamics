@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "5.0"
+version: "5.1"
 title: "Power Constitution"
 source_basis:
   - S16
@@ -60,3 +60,5 @@ The architecture must therefore make emerging power legible before it becomes te
 - **founder decentering without requiring founder erasure**.
 
 Useful centers are compatible with this model. The issue is not centrality itself but whether the rest of the system remains practically capable without permanent submission to that center.
+
+- [`power-redirection-sharing.md`](power-redirection-sharing.md) — redirecting leverage before it becomes terminal and sharing capability through protocolization, plurality, and devolution.

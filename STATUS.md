@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "5.0"
+version: "5.1"
 title: "Repository Status"
 source_basis:
   - S01
@@ -15,13 +15,13 @@ source_basis:
 ---
 # Repository Status
 
-Version 5.0 restores the repository's original **kOA Power Show** purpose while preserving the analytical rigor developed in versions 2–4.
+Version 5.1 extends the repository's original **kOA Power Show** purpose by adding **power routing and sharing** as a first-class layer while preserving the analytical rigor developed in versions 2–5.
 
 ## Presentation architecture
 
 The main reading order is now:
 
-> **Power Show → Capability Generation → Composition → Compounding → Emerging Power Relations → Constitutional Governance → Evolution**
+> **Power Show → Capability Generation → Composition → Compounding → Power Routing / Sharing → Emerging Power Relations → Constitutional Governance → Evolution**
 
 The three-axis analytical model remains the theoretical engine:
 
@@ -35,6 +35,9 @@ The distinction is intentional: the Power Show is the **front stage**; the ontol
 - `Know → Choose → Act → Remember → Know better` as a closed capability loop;
 - a broad capability spectrum covering epistemic, semantic, cognitive, collective, network, credibility, decision, operational, mnemonic, economic, technical, infrastructural, distribution, federation, exit, forking, and evolutionary capability;
 - generated collective puissance through composition;
+- deliberate power routing across capability, authority, returns, and optionality;
+- narrative self-binding and protocolization as power-sharing mechanisms;
+- Koali ownership decoupling / plural distributions as an architect-confirmed design direction;
 - returns, reinvestment, and compounding;
 - `Resource → Potential → Capacity → Puissance → Power Relation → Effect → Return` as the precision ontology;
 - pre-political power across meaning, knowledge, visibility, credibility, agenda, deliberation, execution, and memory;
@@ -64,7 +67,11 @@ The following are synthesized concepts and should not be represented as verbatim
 - Branch Mobility;
 - Evolutionary Governance;
 - Reservoir / Release / Flow / Mediation as a mobilization model;
-- Power Balance Sheet.
+- Power Balance Sheet;
+- Power Routing / Power Redirection;
+- Narrative Self-Binding;
+- Protocolization as power sharing;
+- Ownership Decoupling.
 
 ## Important technical-evidence gap
 

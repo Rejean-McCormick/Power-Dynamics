@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "5.0"
+version: "5.1"
 title: "Technical Evidence Map"
 source_basis:
   - S13
@@ -42,3 +42,17 @@ A normative statement such as “EkoH is non-sovereign” is not sufficient tech
 ## Mobilization / mediation evidence
 
 Also inspect release permissions, publication gates, queueing, rate limits, ranking, recommendation, translation, summarization, distribution dependencies, analytics feedback, alternative channels, moderation controls, update keys, and bottlenecks.
+
+
+## Koali protocolization / ownership-decoupling evidence
+
+To validate the current design intention that Koali be duplicable, shareable, branchable, and plural, collect:
+
+- common-kernel / protocol specification;
+- distribution identity and versioning;
+- evidence / history portability;
+- policy interchange contracts;
+- alternative distribution discovery;
+- fork / branch procedure;
+- registry and signing governance;
+- trademark / brand separation from protocol implementation.

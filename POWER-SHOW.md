@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "kOA"
-version: "5.0"
+version: "5.1"
 title: "The kOA Power Show"
 source_basis:
   - S02
@@ -22,7 +22,25 @@ kOA is not one application. It is a composable knowledge-to-action architecture.
 
 ## The headline
 
-> **kOA turns dispersed human, informational, technical, institutional, and computational resources into cumulative collective puissance.**
+> **kOA turns dispersed human, informational, technical, institutional, and computational resources into cumulative collective puissance — then preserves enough of the returns to make the next cycle stronger.**
+
+
+## The six multipliers
+
+kOA becomes immensely powerful through six interacting properties:
+
+1. **Breadth** — it covers many capability domains instead of optimizing only one.
+2. **Composition** — those capabilities can reinforce one another across explicit seams.
+3. **Closure** — it connects knowing to choosing, choosing to acting, acting to memory, and memory to the next cycle.
+4. **Memory** — successful and failed action can leave reusable artifacts, provenance, reasons, tools, and institutional learning.
+5. **Compounding** — returns from one cycle can lower the cost and increase the quality of later cycles.
+6. **Replication** — capability can move beyond one person, one team, one deployment, or one institution through portability, federation, documentation, and branching.
+
+> **Breadth × Composition × Closure × Memory × Compounding × Replication**
+
+The architecture is powerful not only because each factor can be large, but because **the factors multiply**. Knowledge that cannot be discovered is weak. A decision that cannot be executed is weak. Execution that is not remembered is wasteful. Memory that cannot be reused is inert. Replication without interoperability fragments. kOA attempts to keep the whole chain live.
+
+A seventh property governs the political direction of that strength: **outward routing**. The system is designed to make more of the resulting capability usable by others instead of treating central ownership as the measure of success.
 
 It seeks to make people and groups better able to:
 
@@ -145,6 +163,50 @@ Federation
 
 The ambition is not to centralize all capability. It is to let capability scale **without requiring total sovereignty to scale with it**.
 
+
+
+## Power routing: strength without hoarding
+
+The Power Show is incomplete if it only asks **how much capability kOA can generate**.
+
+It must also ask:
+
+> **Who receives the capability, authority, optionality, returns, and leverage created by the system?**
+
+Power Dynamics calls the deliberate answer **power routing**.
+
+```text
+Generate
+→ compose
+→ compound
+→ identify new leverage
+→ route it deliberately
+→ share capability
+→ bind authority
+→ preserve counterpower
+→ keep alternatives viable
+```
+
+This creates a second multiplication effect: kOA can be powerful **because it equips others**, not only because a central operator becomes powerful.
+
+### Examples of deliberate redirection
+
+| Source of leverage | Concentrating default | Redirection mechanism | Intended destination |
+|---|---|---|---|
+| Narrative / symbolic attention | founder or persona becomes unquestionable center | publish explicit ethics, self-critique, anti-monopoly principles, architecture-first references | public principles, critical readers, procedures, shared interpretation |
+| Founder technical mastery | permanent dependence on one architect | documentation, schemas, protocolization, reproducible deployments | maintainers, institutions, branches, independent operators |
+| Credibility infrastructure | one owner defines standing for everyone | duplicable / shareable Koali distributions around interoperability | communities, domains, alternative distributions |
+| Expertise | expertise becomes rule | bounded advisory layers and baseline separation | public judgment without expert sovereignty |
+| Knowledge validation | one institution owns truth | provenance, reader policies, lineage, competing Kristals | inspectable and plural epistemic capability |
+| Infrastructure | operator becomes unavoidable | self-hosting, capsules, portability, federation, substitution | local operators and communities |
+| Money | capital becomes political authority | democratic allocation rules | members / participants rather than proportional wealth |
+| Branch dominance | incumbent becomes final | effective forkability + branch mobility | viable alternatives capable of coexistence or replacement |
+
+The key idea is not that all power disappears. It is that **the architecture can redirect where it accumulates and who can reuse it**.
+
+> **A system can create immense puissance while deliberately refusing to own all of the consequences of that puissance.**
+
+
 ## Why this creates a power problem
 
 If kOA succeeds, its useful functions can also become consequential gates:
@@ -195,3 +257,4 @@ The compressed doctrine is:
 - [`showcase/04-compounding-engine.md`](showcase/04-compounding-engine.md) — how returns increase future capability.
 - [`showcase/07-component-power-matrix.md`](showcase/07-component-power-matrix.md) — capability and power by kOA component.
 - [`showcase/08-governance-after-capability.md`](showcase/08-governance-after-capability.md) — how successful capability becomes a constitutional problem.
+- [`showcase/11-power-routing-and-sharing.md`](showcase/11-power-routing-and-sharing.md) — how kOA redirects, shares, and devolves the leverage it creates.

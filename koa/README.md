@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "kOA"
-version: "5.0"
+version: "5.1"
 title: "kOA as a Capability and Power Ecology"
 source_basis:
   - S13
@@ -46,3 +46,5 @@ Power Dynamics then asks:
 - **multilingual layer** — semantic access and distribution across languages.
 
 The primary system map is [`system-map.md`](system-map.md). The broader showcase is [`../POWER-SHOW.md`](../POWER-SHOW.md).
+
+- [`koali-protocolization.md`](koali-protocolization.md) — Koali as a power-sharing test: from personal property toward plural interoperable distributions.

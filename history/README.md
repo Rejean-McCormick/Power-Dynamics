@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "5.0"
+version: "5.1"
 title: "Genealogy of the Power Model"
 source_basis:
   - S01

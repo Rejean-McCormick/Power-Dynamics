@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "5.0"
+version: "5.1"
 title: "Capability Show Profile"
 ---
 # Capability Show Profile
@@ -58,3 +58,17 @@ Separate:
 - open questions.
 
 The goal is to make the **Power Show falsifiable and inspectable**, not merely impressive.
+
+
+## Power routing
+
+A strong capability claim should now also state:
+
+- who gains the capability;
+- what new relational leverage may arise;
+- whether the mechanism redirects any leverage away from a central operator;
+- who receives the returns;
+- what can be duplicated, shared, self-hosted, forked, or independently maintained;
+- which rights remain centralized and why.
+
+This prevents the Power Show from confusing **a powerful ecosystem** with **a powerful owner of the ecosystem**.

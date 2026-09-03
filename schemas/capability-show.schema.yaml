@@ -2,9 +2,9 @@ $schema: https://json-schema.org/draft/2020-12/schema
 title: Capability Show Profile
 type: object
 required:
-  - capability_name
-  - baseline_limitation
-  - generated_puissance
+- capability_name
+- baseline_limitation
+- generated_puissance
 properties:
   capability_name:
     type: string
@@ -53,10 +53,39 @@ properties:
     items: {}
   maturity:
     type:
-      - string
-      - 'null'
+    - string
+    - 'null'
   technical_evidence_confidence:
     type:
-      - string
-      - 'null'
+    - string
+    - 'null'
+  power_routing:
+    type: object
+    description: Where capability, authority, returns, and optionality are routed.
+    properties:
+      capability_recipients:
+        type: array
+        items:
+          type: string
+      authority_recipients:
+        type: array
+        items:
+          type: string
+      return_recipients:
+        type: array
+        items:
+          type: string
+      optionality_recipients:
+        type: array
+        items:
+          type: string
+      redirection_mechanisms:
+        type: array
+        items:
+          type: string
+      retained_central_rights:
+        type: array
+        items:
+          type: string
+    additionalProperties: false
 additionalProperties: true

@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "5.0"
+version: "5.1"
 title: "Governance After Capability"
 source_basis:
   - S16
@@ -28,6 +28,17 @@ Generate puissance
 → keep alternatives viable
 → let governance itself evolve
 ```
+
+## Governance can redirect power before constraining it
+
+The constitutional architecture has two jobs:
+
+1. **redirect useful leverage toward distributed capability where possible;**
+2. **preserve counterpower where concentration still occurs.**
+
+Examples include protocolizing founder knowledge, making Koali plural and reproducible, publishing ethical constraints in narrative, separating expertise from sovereignty, and turning central infrastructure into self-hostable local capability.
+
+See [`11-power-routing-and-sharing.md`](11-power-routing-and-sharing.md) and [`../constitution/power-redirection-sharing.md`](../constitution/power-redirection-sharing.md).
 
 ## Four core counterpowers
 

@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "5.0"
+version: "5.1"
 title: "Framework"
 source_basis:
   - S01
@@ -29,3 +29,5 @@ Recommended order:
 7. [`06-stock-capacity-flow-return.md`](06-stock-capacity-flow-return.md) — accumulated resources, mobilization, effects, and returns.
 8. [`07-imperfection-and-plurality.md`](07-imperfection-and-plurality.md) — why measurement and dominance remain provisional.
 9. [`08-constitutional-thesis.md`](08-constitutional-thesis.md) — why strong capability requires non-terminal governance.
+
+- [`09-power-routing-and-sharing.md`](09-power-routing-and-sharing.md) — where generated leverage is deliberately routed, shared, devolved, or self-bound.

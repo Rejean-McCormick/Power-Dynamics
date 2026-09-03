@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "5.0"
+version: "5.1"
 title: "Assessment"
 source_basis:
 ---
@@ -37,3 +37,5 @@ Assessment is qualitative-first. The repository does not assume that power, comp
 ## Power Show instrument
 
 Use [`capability-show-profile.md`](capability-show-profile.md) when the primary task is to demonstrate what a system makes possible before conducting the full power audit. The machine-readable companion is [`../schemas/capability-show.schema.yaml`](../schemas/capability-show.schema.yaml).
+
+- [`power-routing-audit.md`](power-routing-audit.md) — trace where capability, authority, returns, and optionality are routed.

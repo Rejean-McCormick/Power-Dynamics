@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "5.0"
+version: "5.1"
 title: "Case Studies"
 source_basis:
 ---
@@ -34,3 +34,5 @@ Notable cases include:
 - brand, merchandise, and affiliation;
 - AI hidden sovereignty;
 - KingCoin as a legacy stress test.
+
+- [`ethical-fiction-self-binding.md`](ethical-fiction-self-binding.md) — publishing ethical limits inside a narrative as a form of symbolic self-binding.

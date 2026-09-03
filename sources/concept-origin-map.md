@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "5.0"
+version: "5.1"
 title: "Concept Origin Map"
 source_basis:
 ---
@@ -38,3 +38,9 @@ source_basis:
 | Recognition loop risk | S15, S28 + synthesis | NEW-CONCEPT |
 | Founder decentering | S18, S25 + synthesis | ANALYTICAL-RECONSTRUCTION |
 | Strong distributed puissance / weak sovereignty | S16, S18, S21 + synthesis | NEW-CONCEPT |
+
+| Power Routing / Power Redirection | S02, S14–S17, S19, S21, S22, S25 + synthesis | NEW-CONCEPT |
+| Power Sharing / Power Devolution | federation, advisory separation, democratic allocation + synthesis | NEW-CONCEPT |
+| Narrative self-binding | S02, S19, S21, S22 + synthesis | ANALYTICAL-RECONSTRUCTION |
+| Protocolization as power sharing | founder decentering + interoperability / reproducibility principles | NEW-CONCEPT |
+| Ownership decoupling | Koali architect-confirmed design + protocol commons principles | USER-CONFIRMED-DESIGN / synthesis |

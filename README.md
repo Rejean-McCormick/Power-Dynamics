@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "5.0"
+version: "5.1"
 title: "Power Dynamics"
 source_basis:
   - S01
@@ -29,6 +29,57 @@ The repository therefore has two deliberate faces:
 2. **Power Dynamics** — the analytical framework used to explain how resources become effective capability, how capability becomes relational power, and how the resulting ecology evolves over time.
 
 The theory exists to make the show intelligible. The show exists to make the theory concrete.
+
+
+## What makes kOA immensely powerful?
+
+> **kOA closes and compounds the full lifecycle of collective capability.**
+
+Its strength is not one feature. It comes from combining many forms of puissance that normally remain separated — semantic, epistemic, cognitive, network, credibility, decision, operational, mnemonic, economic, technical, infrastructural, distribution, federation, exit, and evolutionary capability — and making them feed one another.
+
+The shortest expression is:
+
+> **Breadth × Composition × Closure × Memory × Compounding × Replication**
+
+```text
+Distributed resources
+→ structured meaning and knowledge
+→ discovery and credibility
+→ better judgment
+→ governed coordination
+→ execution
+→ results
+→ reusable memory / tools / evidence / network / infrastructure
+→ greater future capability
+→ repeat
+```
+
+This is why kOA is more than a bundle of applications. **It can make a collective progressively more capable because it has acted before.**
+
+## Where does that power go?
+
+Power Dynamics now treats this as a first-class design question.
+
+> **Generating puissance is only half the architecture. The other half is routing it.**
+
+kOA includes mechanisms intended to redirect capability, leverage, decision-rights, returns, and interpretive authority away from terminal ownership and toward users, communities, protocols, branches, maintainers, local operators, and publicly contestable rules.
+
+Examples include:
+
+- **narrative self-binding** — publishing ethical limits inside the same fiction and symbolic channels that generate attention and affiliation;
+- **protocolization** — converting founder knowledge and control into specifications, documentation, interoperable contracts, and independently reproducible systems;
+- **Koali plurality and ownership decoupling** — designing credibility infrastructure so useful distributions can be duplicated, shared, varied, and operated without remaining the exclusive property of one founder or one implementation;
+- **advice without sovereignty** — routing expertise and credibility toward informed advice rather than automatic political authority;
+- **portable knowledge and competing Kristals** — routing epistemic capacity toward inspectable artifacts and plural representations rather than a single owner of truth;
+- **federation, self-hosting, capsules, substitution, and forkability** — converting central infrastructural capability into local autonomy and credible exit;
+- **democratic allocation mechanisms** — allowing economic resources to fund common action without automatically buying more political standing;
+- **branch mobility** — turning disagreement into the practical capacity to build, demonstrate, support, and replace alternatives.
+
+The resulting sequence is:
+
+> **Generate → Compose → Compound → Route → Share → Bind → Contest → Fork → Evolve**
+
+See [`showcase/11-power-routing-and-sharing.md`](showcase/11-power-routing-and-sharing.md) and [`constitution/power-redirection-sharing.md`](constitution/power-redirection-sharing.md).
 
 ## Start with the Power Show
 

@@ -2,14 +2,14 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "5.0"
+version: "5.1"
 title: "Repository Tree"
 ---
 # Repository Tree
 
-The v5 reading hierarchy is intentionally different from the filesystem hierarchy:
+The v5.1 reading hierarchy is intentionally different from the filesystem hierarchy:
 
-> **Power Show → Theory → Dynamics / Domains → kOA → Constitution → Branch Ecology → Assessment / Cases → Sources**
+> **Power Show → Power Routing / Sharing → Theory → Dynamics / Domains → kOA → Constitution → Branch Ecology → Assessment / Cases → Sources**
 
 The filesystem keeps analytical layers modular while [`POWER-SHOW.md`](POWER-SHOW.md) and [`showcase/`](showcase/) provide the front-facing guided path.
 
@@ -34,6 +34,7 @@ Power-Dynamics/
 │   ├── analysis-method.md
 │   ├── branch-comparison.md
 │   ├── capability-show-profile.md
+│   ├── power-routing-audit.md
 │   ├── constitutional-tests.md
 │   ├── dependency-exit-audit.md
 │   ├── flow-conversion-capture-audit.md
@@ -52,6 +53,7 @@ Power-Dynamics/
 │   ├── ai-hidden-sovereignty.md
 │   ├── bootstrap-koa.md
 │   ├── brand-merchandise-affiliation.md
+│   ├── ethical-fiction-self-binding.md
 │   ├── competing-kristals.md
 │   ├── desjardins-stacking.md
 │   ├── founder-identity-optionality.md
@@ -70,6 +72,7 @@ Power-Dynamics/
 │   ├── federation-subsidiarity.md
 │   ├── founder-decentering.md
 │   ├── non-domination-terminality.md
+│   ├── power-redirection-sharing.md
 │   ├── README.md
 │   └── revocability-exit-portability.md
 ├── domains/
@@ -97,6 +100,7 @@ Power-Dynamics/
 │   ├── 06-stock-capacity-flow-return.md
 │   ├── 07-imperfection-and-plurality.md
 │   ├── 08-constitutional-thesis.md
+│   ├── 09-power-routing-and-sharing.md
 │   └── README.md
 ├── history/
 │   ├── central-correction-to-nondomination.md
@@ -110,6 +114,7 @@ Power-Dynamics/
 │   ├── founder-power.md
 │   ├── know-choose-act-remember.md
 │   ├── koali-ekoh.md
+│   ├── koali-protocolization.md
 │   ├── konnaxion.md
 │   ├── kristal.md
 │   ├── multilingualism.md
@@ -141,6 +146,7 @@ Power-Dynamics/
 │   ├── ontology.schema.yaml
 │   ├── power-relation.schema.yaml
 │   ├── power-return.schema.yaml
+│   ├── power-routing.schema.yaml
 │   └── system-profile.schema.yaml
 ├── showcase/
 │   ├── 01-capability-spectrum.md
@@ -153,8 +159,10 @@ Power-Dynamics/
 │   ├── 08-governance-after-capability.md
 │   ├── 09-why-this-is-not-just-software.md
 │   ├── 10-counterpower-and-optionality.md
+│   ├── 11-power-routing-and-sharing.md
 │   └── README.md
 └── sources/
+    ├── architect-confirmed-design-notes.md
     ├── concept-origin-map.md
     ├── corpus-map.md
     ├── epistemic-rules.md

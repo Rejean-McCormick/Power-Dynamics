@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "kOA"
-version: "5.0"
+version: "5.1"
 title: "kOA Power Show"
 source_basis:
   - S13
@@ -36,3 +36,5 @@ Only after that does it ask what relations of power emerge around successful cap
 10. [`10-counterpower-and-optionality.md`](10-counterpower-and-optionality.md) — verification, contestation, substitution, exit, forkability, and strategic optionality as positive capability.
 
 The analytical machinery that supports these pages lives in [`../framework/`](../framework/), [`../dynamics/`](../dynamics/), [`../puissance/`](../puissance/), [`../relations/`](../relations/), and [`../constitution/`](../constitution/).
+
+11. [`11-power-routing-and-sharing.md`](11-power-routing-and-sharing.md) — where the power created by kOA is deliberately redirected, shared, devolved, or self-bound.

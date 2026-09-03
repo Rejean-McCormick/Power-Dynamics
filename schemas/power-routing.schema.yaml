@@ -1,0 +1,69 @@
+$schema: "https://json-schema.org/draft/2020-12/schema"
+title: "Power Routing Record"
+type: object
+required:
+  - source_locus
+  - generated_puissance
+  - routing_dimensions
+properties:
+  source_locus:
+    type: string
+  generated_puissance:
+    type: array
+    items:
+      type: string
+  concentration_vector:
+    type: array
+    items:
+      type: string
+  routing_dimensions:
+    type: object
+    properties:
+      capability:
+        type: array
+        items: {type: string}
+      authority:
+        type: array
+        items: {type: string}
+      returns:
+        type: array
+        items: {type: string}
+      optionality:
+        type: array
+        items: {type: string}
+      interpretation:
+        type: array
+        items: {type: string}
+      visibility:
+        type: array
+        items: {type: string}
+    additionalProperties: false
+  redirection_mechanisms:
+    type: array
+    items:
+      type: string
+  retained_central_rights:
+    type: array
+    items:
+      type: string
+  transferred_or_shared_rights:
+    type: array
+    items:
+      type: string
+  self_binding:
+    type: array
+    items:
+      type: string
+  exit_and_substitution:
+    type: array
+    items:
+      type: string
+  implementation_evidence:
+    type: array
+    items:
+      type: string
+  failure_modes:
+    type: array
+    items:
+      type: string
+additionalProperties: false

@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "5.0"
+version: "5.1"
 title: "Canonical Glossary"
 source_basis:
   - S01
@@ -425,3 +425,26 @@ Earlier drafts used several useful but broader expressions. They remain meaningf
 **Instance capture ≠ system capture** — failure or capture of one node should not automatically make alternatives non-viable.
 
 **Architecture is governance before governance is written** — schemas, defaults, registries, identity systems, workflows, interfaces, and deployment topology already assign and constrain possibilities before formal policy text is applied.
+
+
+## Power routing and sharing
+
+**Power routing** — explicit design of where generated capability, authority, returns, optionality, visibility, and interpretive leverage are allowed to accumulate.
+
+**Power redirection** — deliberate change in the default destination or conversion path of leverage, such as expertise → advice rather than sovereignty or infrastructure → local autonomy rather than operator dependency.
+
+**Power sharing** — creation of conditions under which multiple actors can effectively use a capability or participate in a right without requiring exclusive ownership by one actor.
+
+**Power devolution** — durable transfer of effective control from a central locus toward local, plural, or lower-level loci.
+
+**Self-binding** — public, procedural, contractual, or technical constraints adopted by an actor or institution that make later exercises of power more legible, contestable, or limited.
+
+**Narrative self-binding** — use of the same narrative or symbolic channel that creates attention and affiliation to publish ethical limits, anti-domination principles, attribution rules, revision norms, or other constraints on symbolic power.
+
+**Protocolization** — conversion of tacit or founder-centric capability into explicit contracts, schemas, specifications, artifacts, tests, and reproducible behavior that others can implement independently.
+
+**Ownership decoupling** — separation of a useful function from exclusive ownership of the implementation, brand, registry, or operator that first instantiated it.
+
+**Capability commons** — a body of reusable capability that multiple actors can access, reproduce, improve, or instantiate without requiring one terminal owner of the function.
+
+**Architect-confirmed design** — a current design intention confirmed in the working process but not yet supported by a canonical source document or direct implementation evidence. It must be labeled separately from source-derived or deployed claims.

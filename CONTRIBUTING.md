@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "5.0"
+version: "5.1"
 title: "Contributing"
 ---
 # Contributing
@@ -52,3 +52,8 @@ Do not rewrite disagreement into artificial consensus. Preserve divergence and s
 ## Metrics
 
 Avoid false precision. Prefer multidimensional assessment to universal scores when constructs are not directly measurable.
+
+
+## Architect-confirmed design claims
+
+When a current design intention has been confirmed by the project architect but is not yet documented in the canonical corpus or implementation evidence, label it `USER-CONFIRMED-DESIGN` and state what technical evidence is still required.
