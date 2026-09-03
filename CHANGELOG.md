@@ -2,10 +2,25 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "5.1"
+version: "6.0"
 title: "Changelog"
 ---
 # Changelog
+
+
+## 6.0 — Power Surface
+
+- Re-centered the repo on an immediate answer to **why kOA is immensely powerful**.
+- Added `POWER-SURFACE.md` and `POWER-ROUTING.md` as top-level maps.
+- Added `showcase/00-why-koa-is-immensely-powerful.md`.
+- Split political, economic, and monetary power into distinct domains.
+- Added 14 detailed domain profiles.
+- Added cross-domain conversion theory and maps.
+- Added explicit political/economic/monetary Power Show page.
+- Added Power Surface Audit plus `power-domain` and `power-surface` schemas.
+- Integrated ethical fiction, Koali protocolization, democratic allocation, self-hosting, and branch mobility into a single power-routing architecture.
+- Strengthened Power Conversion Firewalls in the front-stage narrative.
+- Preserved legacy KingCoin as a power-stacking stress test rather than current doctrine.
 
 ## 5.1 — Power Routing and Sharing
 

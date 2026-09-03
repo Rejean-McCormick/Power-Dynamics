@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "kOA"
-version: "5.1"
+version: "6.0"
 title: "The Composition Engine"
 source_basis:
   - S13

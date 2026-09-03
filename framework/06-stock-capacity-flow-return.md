@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "5.1"
+version: "6.0"
 title: "Stock, Capacity, Flow, and Return"
 source_basis:
   - S13

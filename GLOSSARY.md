@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "5.1"
+version: "6.0"
 title: "Canonical Glossary"
 source_basis:
   - S01
@@ -69,6 +69,12 @@ The repository deliberately keeps **puissance** in French even inside English pr
 **Capability surface** — a function or interface through which a system increases what actors can effectively do. A capability surface can later become a power surface if control over it changes other actors’ effective possibilities.
 
 **Power surface** — a function, interface, registry, role, default, gate, workflow, standard, or infrastructure boundary through which control can shape other actors’ access, standing, visibility, allocation, timing, interpretation, or ability to act.
+
+**Power surface map** — cross-domain inventory of the capability surfaces, relational power surfaces, controllers, conversion paths, counterpowers, and routing mechanisms of a system.
+
+**Cross-domain power conversion** — transformation through which a resource, capability, or relational advantage in one domain becomes leverage in another domain.
+
+**Conversion path** — explicit sequence connecting a source domain to a destination domain through a mechanism such as funding, ranking, certification, standardization, ownership, or dependency.
 
 **Capability-to-power transition** — the point at which successful puissance becomes relationally consequential for other actors. This transition is central to the repository: the same function can be empowering as capability and politically consequential as a controlled gate.
 
@@ -258,17 +264,31 @@ The repository deliberately keeps **puissance** in French even inside English pr
 
 **Mnemonic power** — relational power created when control of collective memory shapes future interpretation, precedent, options, or institutional learning.
 
+## Political and constitutional terms
+
+**Political puissance** — effective ability to participate in, shape, organize, or carry collective judgment, agenda formation, decision, amendment, representation, or public action.
+
+**Political power** — relational power to shape political standing, agenda, mandates, decision rights, representation, legitimacy, veto, amendment, or binding collective outcomes.
+
+**Constitutional power** — power to define, amend, interpret, or enforce the rules by which other powers are authorized, limited, contested, or transferred.
+
+**Decision power** — relational power to determine or materially condition which collective option becomes binding or operative.
+
 ## Economic, monetary, and allocation terms
 
 **Economic resource** — money, property, goods, productive assets, contractual rights, or other material means.
 
 **Economic puissance** — effective ability to mobilize economic resources for action.
 
+**Economic power** — relational power created when control or mobilization of scarce economic resources materially changes others’ access, bargaining position, dependency, allocation, or effective options.
+
 **Liquidity** — ease and speed with which an asset can be converted into usable resources without excessive loss.
 
 **Liquidity puissance** — effective ability to make resources rapidly usable.
 
 **Allocation power** — relational power to determine which people, projects, institutions, or goals receive resources.
+
+**Monetary puissance** — effective ability to create, access, move, settle, convert, intermediate, or finance value through monetary and credit infrastructure.
 
 **Monetary power** — relational power associated with control over units, rails, issuance, settlement, reserves, access, or conditions of exchange.
 

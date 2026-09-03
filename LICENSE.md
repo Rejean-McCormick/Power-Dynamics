@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "SOURCE-DERIVED"
 scope: "GENERAL"
-version: "5.1"
+version: "6.0"
 title: "License"
 source_basis:
   - S01

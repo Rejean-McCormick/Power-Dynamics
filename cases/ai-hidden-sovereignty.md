@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "5.1"
+version: "6.0"
 title: "AI and Hidden Sovereignty"
 source_basis:
   - S16

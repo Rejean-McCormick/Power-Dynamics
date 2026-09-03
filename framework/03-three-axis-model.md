@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "5.1"
+version: "6.0"
 title: "Three-Axis Model"
 source_basis:
   - S18
@@ -19,7 +19,7 @@ Every Power Dynamics analysis should locate a phenomenon on three axes.
 
 ## Axis 2 — Dynamic
 
-Formation, mobilization, composition, conversion, return, reinvestment, compounding, concentration, stacking, capture, counterpower, diversification, branch evolution, decay, transfer, succession.
+Formation, mobilization, composition, conversion, return, reinvestment, compounding, concentration, stacking, capture, counterpower, diversification, branch evolution, decay, transfer, succession, routing, sharing, devolution.
 
 ## Axis 3 — Domain
 

@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "5.1"
+version: "6.0"
 title: "Contributing"
 ---
 # Contributing
@@ -14,12 +14,14 @@ Contributions should preserve both faces of the repository:
 
 ## Before adding a concept
 
-Ask four questions:
+Ask six questions:
 
 1. **What becomes possible?** What practical capability does the mechanism create or amplify?
 2. **What is its ontological state?** Resource, potential, capacity, puissance, power relation, effect, or return?
 3. **What dynamic is occurring?** Formation, mobilization, composition, conversion, reinvestment, capture, diversification, decay, transfer, etc.?
-4. **In which domain does it occur?**
+4. **In which domain does it occur?** Keep political, economic, and monetary domains distinct where relevant.
+5. **What can it convert into?** Name important cross-domain conversion paths and firewalls.
+6. **Where does the power go?** Identify the destinations of capability, authority, returns, and optionality.
 
 Avoid shorthand such as `money = power`, `expertise = authority`, or `brand = legitimacy`. Trace the mechanism.
 
@@ -32,6 +34,8 @@ A new showcase claim should state:
 - what new puissance becomes available;
 - how it composes with other capabilities;
 - what power relations can emerge if the capability becomes consequential;
+- how the capability or leverage is routed;
+- what cross-domain conversions are possible;
 - what counterpowers or scope limits apply.
 
 Do not turn aspirational capability into an unsupported deployment claim. Use the repository's maturity and claim-type labels.

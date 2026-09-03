@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "NEW-CONCEPT"
 scope: "GENERAL"
-version: "5.1"
+version: "6.0"
 title: "Power Routing Audit"
 source_basis:
   - S02

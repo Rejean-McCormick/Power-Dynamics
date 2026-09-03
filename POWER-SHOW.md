@@ -2,259 +2,263 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "kOA"
-version: "5.1"
+version: "6.0"
 title: "The kOA Power Show"
 source_basis:
   - S02
+  - S10
   - S13
+  - S14
   - S15
   - S16
+  - S17
   - S18
   - S21
+  - S22
   - S25
   - S26
 ---
 # The kOA Power Show
 
-**The fastest way to understand Power Dynamics is to ask what kOA can make possible.**
+The first purpose of this repository is simple:
 
-kOA is not one application. It is a composable knowledge-to-action architecture. Its distinctive claim is that multiple capabilities that normally live in separate systems can reinforce one another while remaining governable as separate functions.
+> **Show all the ways kOA can make people, groups, organizations, institutions, and federations more capable.**
 
-## The headline
+Then ask what happens when those capabilities become socially consequential.
 
-> **kOA turns dispersed human, informational, technical, institutional, and computational resources into cumulative collective puissance — then preserves enough of the returns to make the next cycle stronger.**
+## The one-paragraph answer
 
+kOA is immensely powerful because it can connect **meaning, knowledge, AI, discovery, credibility, networks, deliberation, political choice, economic allocation, coordination, execution, memory, infrastructure, federation, and institutional evolution** inside a recursive loop. The result is not merely more information. It is the possibility of turning distributed resources into collective agency, preserving the returns of action, reinvesting them, reproducing the capability elsewhere, and routing important forms of leverage away from terminal ownership.
 
-## The six multipliers
+> **Breadth × Composition × Closure × Memory × Compounding × Replication × Routing**
 
-kOA becomes immensely powerful through six interacting properties:
+## 1. Breadth — many forms of puissance
 
-1. **Breadth** — it covers many capability domains instead of optimizing only one.
-2. **Composition** — those capabilities can reinforce one another across explicit seams.
-3. **Closure** — it connects knowing to choosing, choosing to acting, acting to memory, and memory to the next cycle.
-4. **Memory** — successful and failed action can leave reusable artifacts, provenance, reasons, tools, and institutional learning.
-5. **Compounding** — returns from one cycle can lower the cost and increase the quality of later cycles.
-6. **Replication** — capability can move beyond one person, one team, one deployment, or one institution through portability, federation, documentation, and branching.
+kOA can generate or amplify:
 
-> **Breadth × Composition × Closure × Memory × Compounding × Replication**
+- semantic puissance;
+- epistemic puissance;
+- cognitive / AI-mediated puissance;
+- information and distribution puissance;
+- attention / discoverability puissance;
+- credibility / reputation puissance;
+- network and affiliation puissance;
+- collective puissance;
+- political / deliberative / decision puissance;
+- economic and allocation puissance;
+- monetary / liquidity capability where monetary infrastructure exists;
+- administrative and operational puissance;
+- technical and infrastructural puissance;
+- narrative / symbolic / brand puissance;
+- mnemonic and temporal puissance;
+- federation, exit, substitution, fork, and evolutionary puissance.
 
-The architecture is powerful not only because each factor can be large, but because **the factors multiply**. Knowledge that cannot be discovered is weak. A decision that cannot be executed is weak. Execution that is not remembered is wasteful. Memory that cannot be reused is inert. Replication without interoperability fragments. kOA attempts to keep the whole chain live.
+See [`POWER-SURFACE.md`](POWER-SURFACE.md).
 
-A seventh property governs the political direction of that strength: **outward routing**. The system is designed to make more of the resulting capability usable by others instead of treating central ownership as the measure of success.
-
-It seeks to make people and groups better able to:
-
-**know, understand, verify, structure meaning, discover, connect, establish credibility, deliberate, choose, coordinate, execute, remember, learn, fund, replicate, refuse dependency, fork, and evolve.**
-
-The important word is **compose**.
-
-A knowledge artifact is useful. A collaboration network is useful. A decision tool is useful. A workflow engine is useful. Institutional memory is useful. AI assistance is useful. Portability is useful.
-
-When these remain interoperable and feed one another, the output is not merely a list of tools. It is a **capability loop**.
-
-## The capability loop
+## 2. Composition — the whole can exceed the sum
 
 ```text
-Contribute
-   ↓
-Resolve meaning
-   ↓
-Structure knowledge
-   ↓
-Discover people / evidence / alternatives
-   ↓
-Interpret credibility
-   ↓
-Deliberate and choose
-   ↓
-Route governed work
-   ↓
-Coordinate action
-   ↓
-Produce outcomes
-   ↓
-Preserve experience and reasons
-   ↓
-Reuse the memory
-   ↓
-Begin the next cycle with more capability
+SemantiK / SenTient  → meaning
+Kristal              → knowledge + provenance + memory
+Konnaxion            → discovery + network + circulation
+Koali / EkoH         → credibility legibility
+SmartVote            → comparative judgment + decision support
+Orgo                 → operational execution
+AI                    → cognitive amplification
+Capsules / federation→ replication + substitution
+Brand / narrative    → transmission + affiliation
+Economic rails       → funding + material capability
+
+                  ↓ compose ↓
+
+      coordinated collective puissance
 ```
 
-Compressed:
+A capable population is not automatically a capable collective. Composition creates the ability to use distributed capabilities **together**.
+
+## 3. Closure — knowledge reaches action
 
 > **Know → Choose → Act → Remember → Know better**
 
-## What kind of puissance can kOA create?
-
-| Family | kOA contribution | Practical effect |
-|---|---|---|
-| Epistemic | Kristals, provenance, structured evidence | know and reuse more reliably |
-| Semantic | SemantiK / SenTient, explicit categories and relations | make meaning inspectable and evolvable |
-| Cognitive | human reasoning + governed AI assistance | increase analysis and synthesis throughput |
-| Collective | Konnaxion, shared artifacts, coordination | turn distributed people into a capable group |
-| Network | discovery, association, expertise visibility | reach collaborators and opportunities |
-| Credibility | Koali / EkoH signals | make demonstrated contribution more legible |
-| Decision | SmartVote, baseline + advisory readings | compare and choose without silently replacing political equality |
-| Operational | Orgo | turn decisions into routed, owned, reviewable work |
-| Mnemonic | Kristal + operational records + lineage | make experience reusable across time |
-| Distribution | Konnaxion, multilingualism, portable artifacts | move knowledge across communities and institutions |
-| Technical | open components, schemas, deterministic artifacts | build, audit, modify, and reproduce |
-| Infrastructural | shared protocols and services | lower the cost of future collective action |
-| Federation | Capsules, local deployment, interoperability | replicate the whole without requiring one host |
-| Exit | portability, substitution, self-hosting | refuse terminal dependency |
-| Evolutionary | forks, branches, competing Kristals | improve rules and representations without final authority |
-
-## The multiplication effect
-
-The power show is not additive only.
+Many systems stop at one stage. kOA attempts to connect the stages.
 
 ```text
-knowledge × discoverability × credibility × coordination × execution × memory
-```
-
-If any factor is near zero, a great deal of latent capability can remain inert. kOA attempts to reduce those breaks in the chain.
-
-Examples:
-
-- knowledge without discoverability may never reach the person who needs it;
-- expertise without legibility may remain invisible;
-- a good decision without execution remains symbolic;
-- execution without memory repeats old costs;
-- memory without provenance can become unreliable;
-- portability without interoperability can fragment;
-- AI without governance can silently acquire agenda or interpretive power.
-
-## The compounding effect
-
-The architecture becomes more interesting when outputs return as inputs:
-
-```text
-Action
+knowledge
+→ judgment
+→ decision
+→ governed work
+→ execution
 → result
-→ evidence
-→ experience
-→ reusable knowledge
-→ credibility
-→ network
-→ tools / infrastructure
-→ lower future coordination cost
-→ greater future puissance
+→ memory
 ```
 
-This is why a system can become more capable because it has acted before.
+This turns intelligence into agency.
 
-## From one person to a federation
+## 4. Memory — the past remains usable
 
-kOA's capability model can operate at several scales:
+kOA can preserve:
+
+- evidence;
+- provenance;
+- definitions;
+- decisions;
+- reasons;
+- workflows;
+- failures;
+- outcomes;
+- contribution history;
+- branch lineage.
+
+Without memory, a collective repeatedly pays the cost of rediscovery. With memory, past action becomes infrastructure for future action.
+
+## 5. Compounding — action creates future capability
 
 ```text
-Individual
-→ better knowledge, tools, memory, optionality
-
-Group
-→ shared knowledge, coordination, decision, execution
-
-Organization
-→ roles, workflows, institutional memory, authority, auditability
-
-Federation
-→ autonomous organizations + shared contracts + portability + branchability
+Puissance
+→ Action
+→ Result
+→ Return
+→ Asset
+→ Reinvestment
+→ Greater Future Puissance
 ```
 
-The ambition is not to centralize all capability. It is to let capability scale **without requiring total sovereignty to scale with it**.
+Returns can include knowledge, code, tools, data, credibility, network, reputation, money, infrastructure, access, and optionality.
 
+This is the **compounding engine**.
 
-
-## Power routing: strength without hoarding
-
-The Power Show is incomplete if it only asks **how much capability kOA can generate**.
-
-It must also ask:
-
-> **Who receives the capability, authority, optionality, returns, and leverage created by the system?**
-
-Power Dynamics calls the deliberate answer **power routing**.
+## 6. Cross-domain conversion — one capability unlocks another
 
 ```text
-Generate
-→ compose
-→ compound
-→ identify new leverage
-→ route it deliberately
-→ share capability
-→ bind authority
-→ preserve counterpower
-→ keep alternatives viable
+knowledge → credibility → visibility → opportunity
+money → infrastructure → reach → influence
+brand → affiliation → revenue → development
+network → collaborators → execution → results
+memory → lower coordination cost → faster action
 ```
 
-This creates a second multiplication effect: kOA can be powerful **because it equips others**, not only because a central operator becomes powerful.
+Conversion is one reason kOA can become extremely powerful. It is also one reason it can become dangerous.
 
-### Examples of deliberate redirection
+> **Functional Control → Cross-Domain Power**
 
-| Source of leverage | Concentrating default | Redirection mechanism | Intended destination |
-|---|---|---|---|
-| Narrative / symbolic attention | founder or persona becomes unquestionable center | publish explicit ethics, self-critique, anti-monopoly principles, architecture-first references | public principles, critical readers, procedures, shared interpretation |
-| Founder technical mastery | permanent dependence on one architect | documentation, schemas, protocolization, reproducible deployments | maintainers, institutions, branches, independent operators |
-| Credibility infrastructure | one owner defines standing for everyone | duplicable / shareable Koali distributions around interoperability | communities, domains, alternative distributions |
-| Expertise | expertise becomes rule | bounded advisory layers and baseline separation | public judgment without expert sovereignty |
-| Knowledge validation | one institution owns truth | provenance, reader policies, lineage, competing Kristals | inspectable and plural epistemic capability |
-| Infrastructure | operator becomes unavoidable | self-hosting, capsules, portability, federation, substitution | local operators and communities |
-| Money | capital becomes political authority | democratic allocation rules | members / participants rather than proportional wealth |
-| Branch dominance | incumbent becomes final | effective forkability + branch mobility | viable alternatives capable of coexistence or replacement |
+See [`framework/10-cross-domain-power-conversion.md`](framework/10-cross-domain-power-conversion.md).
 
-The key idea is not that all power disappears. It is that **the architecture can redirect where it accumulates and who can reuse it**.
+## 7. Political power — before, during, and after the vote
 
-> **A system can create immense puissance while deliberately refusing to own all of the consequences of that puissance.**
+kOA touches:
 
+> **Meaning → Knowledge → Visibility → Credibility → Agenda → Deliberation → Decision → Execution → Memory**
 
-## Why this creates a power problem
+That means political power is not confined to SmartVote or formal governance. Semantic definitions, search, ranking, credibility, workflow, and memory can all shape political possibility.
 
-If kOA succeeds, its useful functions can also become consequential gates:
+## 8. Economic power — resources become action
 
-- discovery can become ranking power;
-- credibility signals can become standing power;
-- standards can become compatibility power;
-- workflows can become administrative power;
-- identity can become access power;
-- memory can become precedent power;
-- AI can become hidden interpretive power;
-- brand can become affiliation and attention power;
-- infrastructure can become dependency power.
+kOA can help convert:
 
-That is why the second half of Power Dynamics is constitutional.
+```text
+money / property / funding / labor / infrastructure
+→ usable economic capacity
+→ projects / services / coordination / production
+```
 
-> **The project does not merely ask how to create more capability. It asks how to create enormous capability without allowing its coordination layers to become arbitrary or terminal sovereigns.**
+It can also route economic resources through democratic allocation mechanisms rather than allowing wealth to automatically buy more political standing.
 
-## The constitutional answer
+## 9. Monetary power — control of exchange rails
 
-The architecture therefore emphasizes:
+Monetary power concerns issuance, liquidity, settlement, payment rails, reserves, credit, debt conditions, and transaction access.
 
-- scoped authority;
-- separation of functions;
-- power-conversion firewalls;
-- verification;
-- contestation;
-- substitution;
-- exit;
-- revocability;
-- portability;
-- federation;
-- branch mobility;
-- stable kernels with evolving branches.
+The legacy KingCoin material shows why this domain is so constitutionally sensitive: monetary control can stack with taxation, allocation, sanctions, and administration into highly terminal power.
 
-The compressed doctrine is:
+The evolved doctrine is therefore not “centralize monetary power well,” but:
 
-> **Strong puissance. Weak sovereignty.**
->
-> **Plurality without fragmentation.**
->
-> **Improvement without final authority.**
+> **If powerful monetary functions exist, keep their authority scoped, contestable, separable, and substitutable.**
 
-## Continue
+## 10. Scaling — individual to federation
 
-- [`showcase/01-capability-spectrum.md`](showcase/01-capability-spectrum.md) — the full capability spectrum.
-- [`showcase/03-composition-engine.md`](showcase/03-composition-engine.md) — how components multiply one another.
-- [`showcase/04-compounding-engine.md`](showcase/04-compounding-engine.md) — how returns increase future capability.
-- [`showcase/07-component-power-matrix.md`](showcase/07-component-power-matrix.md) — capability and power by kOA component.
-- [`showcase/08-governance-after-capability.md`](showcase/08-governance-after-capability.md) — how successful capability becomes a constitutional problem.
-- [`showcase/11-power-routing-and-sharing.md`](showcase/11-power-routing-and-sharing.md) — how kOA redirects, shares, and devolves the leverage it creates.
+```text
+individual
+→ team
+→ organization
+→ institution
+→ federation
+```
+
+At each scale, kOA can add shared knowledge, coordination, decision, execution, memory, and infrastructure.
+
+The design target is:
+
+> **Capability can scale without sovereignty scaling at the same rate.**
+
+## 11. Replication — capability can leave the center
+
+Self-hosting, capsules, portability, federation, and branchability can transform:
+
+```text
+use a central service
+```
+
+into:
+
+```text
+possess / reproduce / operate the function locally
+```
+
+That is a major transfer of effective possibility.
+
+## 12. Power routing — kOA can equip others instead of only itself
+
+The project includes mechanisms intended to redirect the power it creates:
+
+```text
+expertise → advice, not sovereignty
+money → funding, not more votes
+narrative → mobilization + ethical self-binding
+Koali → plural distributions, not terminal personal ownership
+Kristal → portable knowledge, not one owner of truth
+infrastructure → self-hosting / federation, not captivity
+dominance → branch mobility, not final authority
+```
+
+This is why **power sharing** is part of the Power Show, not merely a later defensive layer.
+
+## 13. The constitutional paradox
+
+The stronger the Power Show becomes, the more necessary constitutional design becomes.
+
+```text
+more knowledge capability
+→ more validation power
+
+more discovery capability
+→ more agenda power
+
+more credibility capability
+→ more standing power
+
+more workflow capability
+→ more administrative power
+
+more infrastructure capability
+→ more dependency power
+```
+
+Therefore:
+
+> **The constitution exists because the Power Show succeeds.**
+
+## 14. The mature doctrine
+
+> **Generate immense puissance.**  
+> **Compose it.**  
+> **Close the loop.**  
+> **Preserve the returns.**  
+> **Compound future capability.**  
+> **Make cross-domain conversions visible.**  
+> **Route capability outward.**  
+> **Block automatic conversion into unrelated sovereignty.**  
+> **Preserve verification, contestation, substitution, exit, and forkability.**  
+> **Allow the whole system to evolve.**
+
+In compressed form:
+
+> **Strong distributed puissance. Weak sovereignty.**

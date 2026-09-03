@@ -2,43 +2,33 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "5.1"
+version: "6.0"
 title: "Repository Tree"
 ---
 # Repository Tree
 
-The v5.1 reading hierarchy is intentionally different from the filesystem hierarchy:
+The v6 reading hierarchy is intentionally different from the filesystem hierarchy:
 
-> **Power Show → Power Routing / Sharing → Theory → Dynamics / Domains → kOA → Constitution → Branch Ecology → Assessment / Cases → Sources**
-
-The filesystem keeps analytical layers modular while [`POWER-SHOW.md`](POWER-SHOW.md) and [`showcase/`](showcase/) provide the front-facing guided path.
+> **Why kOA is powerful → Power Surface → Composition → Compounding → Conversion → Routing → Constitution → Evolution → Audit**
 
 ```text
-Power-Dynamics/
-├── .gitignore
-├── CHANGELOG.md
-├── CONTRIBUTING.md
-├── GLOSSARY.md
-├── LICENSE.md
-├── POWER-SHOW.md
-├── PRINCIPLES.md
-├── README.md
-├── STATUS.md
-├── TREE.md
+Power-Dynamics-v6/
 ├── .github/
-│   ├── PULL_REQUEST_TEMPLATE.md
-│   └── ISSUE_TEMPLATE/
-│       ├── concept-proposal.md
-│       └── power-audit.md
+│   ├── ISSUE_TEMPLATE/
+│   │   ├── concept-proposal.md
+│   │   ├── power-audit.md
+│   │   └── power-surface-audit.md
+│   └── PULL_REQUEST_TEMPLATE.md
 ├── assessment/
 │   ├── analysis-method.md
 │   ├── branch-comparison.md
 │   ├── capability-show-profile.md
-│   ├── power-routing-audit.md
 │   ├── constitutional-tests.md
 │   ├── dependency-exit-audit.md
 │   ├── flow-conversion-capture-audit.md
 │   ├── power-balance-sheet.md
+│   ├── power-routing-audit.md
+│   ├── power-surface-audit.md
 │   ├── README.md
 │   ├── system-profile.md
 │   └── temporal-evolution.md
@@ -53,9 +43,9 @@ Power-Dynamics/
 │   ├── ai-hidden-sovereignty.md
 │   ├── bootstrap-koa.md
 │   ├── brand-merchandise-affiliation.md
-│   ├── ethical-fiction-self-binding.md
 │   ├── competing-kristals.md
 │   ├── desjardins-stacking.md
+│   ├── ethical-fiction-self-binding.md
 │   ├── founder-identity-optionality.md
 │   ├── kingcoin-legacy-stress-test.md
 │   ├── media-and-state.md
@@ -76,6 +66,20 @@ Power-Dynamics/
 │   ├── README.md
 │   └── revocability-exit-portability.md
 ├── domains/
+│   ├── 01-political-constitutional.md
+│   ├── 02-economic-allocation.md
+│   ├── 03-monetary-credit.md
+│   ├── 04-epistemic-semantic.md
+│   ├── 05-information-attention-media.md
+│   ├── 06-credibility-reputation.md
+│   ├── 07-network-affiliation.md
+│   ├── 08-administrative-operational.md
+│   ├── 09-technical-infrastructural.md
+│   ├── 10-narrative-symbolic-brand.md
+│   ├── 11-cognitive-ai.md
+│   ├── 12-mnemonic-temporal.md
+│   ├── 13-evolutionary-counterpower.md
+│   ├── 14-property-territorial.md
 │   └── README.md
 ├── dynamics/
 │   ├── 01-formation.md
@@ -89,6 +93,7 @@ Power-Dynamics/
 │   ├── 09-decay-dissipation-and-loss.md
 │   ├── 10-transfer-succession-and-inheritance.md
 │   ├── 11-externalities-and-scale.md
+│   ├── 12-routing-sharing-and-devolution.md
 │   └── README.md
 ├── framework/
 │   ├── 00-field-definition.md
@@ -101,6 +106,7 @@ Power-Dynamics/
 │   ├── 07-imperfection-and-plurality.md
 │   ├── 08-constitutional-thesis.md
 │   ├── 09-power-routing-and-sharing.md
+│   ├── 10-cross-domain-power-conversion.md
 │   └── README.md
 ├── history/
 │   ├── central-correction-to-nondomination.md
@@ -144,11 +150,14 @@ Power-Dynamics/
 │   ├── dynamic-event.schema.yaml
 │   ├── mobilization-flow.schema.yaml
 │   ├── ontology.schema.yaml
+│   ├── power-domain.schema.yaml
 │   ├── power-relation.schema.yaml
 │   ├── power-return.schema.yaml
 │   ├── power-routing.schema.yaml
+│   ├── power-surface.schema.yaml
 │   └── system-profile.schema.yaml
 ├── showcase/
+│   ├── 00-why-koa-is-immensely-powerful.md
 │   ├── 01-capability-spectrum.md
 │   ├── 02-individual-to-federation.md
 │   ├── 03-composition-engine.md
@@ -160,13 +169,28 @@ Power-Dynamics/
 │   ├── 09-why-this-is-not-just-software.md
 │   ├── 10-counterpower-and-optionality.md
 │   ├── 11-power-routing-and-sharing.md
+│   ├── 12-cross-domain-power-surface.md
+│   ├── 13-political-economic-monetary-power.md
+│   ├── 14-power-conversion-and-routing-map.md
 │   └── README.md
-└── sources/
-    ├── architect-confirmed-design-notes.md
-    ├── concept-origin-map.md
-    ├── corpus-map.md
-    ├── epistemic-rules.md
-    ├── README.md
-    ├── source-status.md
-    └── technical-evidence-map.md
+├── sources/
+│   ├── architect-confirmed-design-notes.md
+│   ├── concept-origin-map.md
+│   ├── corpus-map.md
+│   ├── epistemic-rules.md
+│   ├── README.md
+│   ├── source-status.md
+│   └── technical-evidence-map.md
+├── .gitignore
+├── CHANGELOG.md
+├── CONTRIBUTING.md
+├── GLOSSARY.md
+├── LICENSE.md
+├── POWER-ROUTING.md
+├── POWER-SHOW.md
+├── POWER-SURFACE.md
+├── PRINCIPLES.md
+├── README.md
+├── STATUS.md
+└── TREE.md
 ```

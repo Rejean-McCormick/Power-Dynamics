@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "5.1"
+version: "6.0"
 title: "Power Dynamics: Dynamic Processes"
 source_basis:
   - S01
@@ -18,7 +18,7 @@ The Power Show answers **what kOA can make possible**. This directory explains *
 
 The main dynamic sequence is:
 
-> **Formation → Mobilization → Composition → Conversion → Effects → Returns → Reinvestment → Compounding → Concentration / Contestation → Diversification / Evolution → Decay / Transfer**
+> **Formation → Mobilization → Composition → Conversion → Effects → Returns → Reinvestment → Compounding → Concentration / Contestation → Diversification / Evolution → Decay / Transfer → Routing / Sharing**
 
 ## 1. Formation
 How resources become potential, capacity, and eventually effectively mobilizable puissance.
@@ -52,5 +52,8 @@ How resources, authority, keys, mandates, memory, and stewardship move across ac
 
 ## 11. Externalities and scale
 How a useful mechanism can acquire systemic power because adoption, network effects, standards, or infrastructure dependence grow around it.
+
+## 12. Routing, sharing, and devolution
+How newly generated capability, authority, returns, and optionality are deliberately directed away from default concentration and toward participants, communities, protocols, local operators, or viable alternatives.
 
 The sequence is recursive rather than linear. Returns from one cycle become resources for another.

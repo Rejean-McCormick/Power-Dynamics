@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "5.1"
+version: "6.0"
 title: "What Power Dynamics Studies"
 source_basis:
   - S01
@@ -43,6 +43,9 @@ That makes it useful for studying how many forms of capability can compose:
 - cognitive;
 - network;
 - reputational;
+- political / constitutional;
+- economic / allocation;
+- monetary / credit / liquidity;
 - deliberative;
 - operational;
 - mnemonic;
@@ -60,7 +63,7 @@ The canonical ontology is:
 
 The dynamic lifecycle is:
 
-> **Formation → Mobilization → Composition → Conversion → Action / Relation → Return → Reinvestment → Compounding → Concentration / Contestation → Diversification / Evolution → Decay / Transfer**
+> **Formation → Mobilization → Composition → Conversion → Action / Relation → Return → Reinvestment → Compounding → Concentration / Contestation → Diversification / Evolution → Decay / Transfer → Routing / Sharing**
 
 A return can be money, knowledge, code, reputation, network access, credibility, standards, infrastructure, memory, data, legitimacy, dependency, or optionality. These returns can increase or reduce future capability.
 
@@ -78,6 +81,8 @@ Power Dynamics studies:
 - concentration and capture;
 - counterpower;
 - plurality and branch evolution;
-- decay, succession, and transfer.
+- decay, succession, and transfer;
+- routing, sharing, and devolution;
+- cross-domain political, economic, and monetary conversion.
 
 The normative question is not whether a system has power. Any sufficiently useful collective infrastructure will create consequential relations. The question is whether those relations remain **legible, scoped, contestable, substitutable, revocable, portable, and non-terminal**.

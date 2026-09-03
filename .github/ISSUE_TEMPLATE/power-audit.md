@@ -28,11 +28,19 @@ Holder → affected actor → mechanism → effect on effective possibility:
 
 ## Returns and reinvestment
 
+## Domain surface
+
+Political / economic / monetary / epistemic / semantic / information / credibility / network / administrative / technical / narrative / cognitive / mnemonic / evolutionary:
+
 ## Conversion pathways
 
 ## Stacking / concentration / capture
 
 ## Dependency
+
+## Power routing
+
+Capability / authority / returns / optionality destinations:
 
 ## Counterpowers
 

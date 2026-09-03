@@ -1,0 +1,57 @@
+$schema: "https://json-schema.org/draft/2020-12/schema"
+title: "Power Domain Profile"
+type: object
+required:
+  - domain_id
+  - domain_name
+  - resources
+  - puissance
+  - power_relations
+properties:
+  domain_id:
+    type: string
+  domain_name:
+    type: string
+  resources:
+    type: array
+    items:
+      type: string
+  capacities:
+    type: array
+    items:
+      type: string
+  puissance:
+    type: array
+    items:
+      type: string
+  power_relations:
+    type: array
+    items:
+      type: string
+  controllers:
+    type: array
+    items:
+      type: string
+  conversion_out:
+    type: array
+    items:
+      type: object
+      required: [destination_domain, mechanism]
+      properties:
+        destination_domain:
+          type: string
+        mechanism:
+          type: string
+        resulting_leverage:
+          type: string
+  counterpowers:
+    type: array
+    items:
+      type: string
+  maturity:
+    type: string
+  evidence_required:
+    type: array
+    items:
+      type: string
+additionalProperties: true

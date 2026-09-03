@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "5.1"
+version: "6.0"
 title: "Power Ecology"
 source_basis:
   - S13
@@ -66,8 +66,14 @@ Power Dynamics therefore asks:
 
 ## kOA as a designed ecology
 
-kOA deliberately distributes capability across semantic, epistemic, social, decision, operational, mnemonic, technical, and federative layers. The design challenge is to obtain the **composition gain** without allowing one layer to silently convert its useful function into total cross-domain authority.
+kOA deliberately distributes capability across semantic, epistemic, cognitive, social, political, economic, administrative, operational, mnemonic, technical, and federative layers. The design challenge is to obtain the **composition gain** without allowing one layer to silently convert its useful function into total cross-domain authority.
 
 The constitutional aspiration is therefore:
 
 > **Maximum composable capability; minimum terminal sovereignty.**
+
+## Routing ecology
+
+A power ecology is shaped not only by where capability emerges but by where it is deliberately sent. kOA therefore tracks four routing dimensions: **capability, authority, returns, and optionality**.
+
+A regenerative ecology routes useful returns toward broader future capability while keeping high-leverage authority scoped and contestable.

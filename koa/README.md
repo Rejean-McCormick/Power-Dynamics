@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "kOA"
-version: "5.1"
+version: "6.0"
 title: "kOA as a Capability and Power Ecology"
 source_basis:
   - S13
@@ -48,3 +48,10 @@ Power Dynamics then asks:
 The primary system map is [`system-map.md`](system-map.md). The broader showcase is [`../POWER-SHOW.md`](../POWER-SHOW.md).
 
 - [`koali-protocolization.md`](koali-protocolization.md) — Koali as a power-sharing test: from personal property toward plural interoperable distributions.
+
+## Power-surface reading
+
+kOA should also be read across domains rather than only by component. The same component can generate epistemic, political, economic, administrative, narrative, or infrastructural effects through conversion.
+
+See [`../POWER-SURFACE.md`](../POWER-SURFACE.md) and [`../domains/README.md`](../domains/README.md).
+

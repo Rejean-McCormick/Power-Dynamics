@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "USER-CONFIRMED-DESIGN"
 scope: "kOA"
-version: "5.1"
+version: "6.0"
 title: "Architect-Confirmed Design Notes"
 source_basis:
 ---

@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "kOA"
-version: "5.1"
+version: "6.0"
 title: "The kOA Capability Spectrum"
 source_basis:
   - S13
@@ -54,6 +54,10 @@ Make evidence of contribution, expertise, reliability, or domain-bounded compete
 
 Compare alternatives, preserve baseline equality, add advisory expertise without silently replacing the baseline, and make reasons inspectable.
 
+## Political and constitutional puissance
+
+Form agendas, organize public standing, deliberate, decide, authorize, amend, contest mandates, and connect collective judgment to binding action without reducing politics to the final vote.
+
 ## Coordination puissance
 
 Sequence actors and information so that many partial capabilities produce coherent action.
@@ -66,9 +70,17 @@ Route work, create ownership, set escalation paths, manage time windows, review 
 
 Preserve reasons, provenance, decisions, actions, failures, outcomes, versions, and lineage so future action begins with memory rather than amnesia.
 
-## Economic and allocation puissance
+## Economic puissance
 
-Mobilize, pool, direct, or govern resources. Economic contribution can support collective action without automatically purchasing political authority.
+Mobilize money, property, funding, labor, contracts, productive assets, and infrastructure for action. Economic resources become power when their control materially changes others' options or bargaining positions.
+
+## Allocation puissance
+
+Pool, prioritize, and direct resources toward people, projects, institutions, or goals. Economic contribution can support collective action without automatically purchasing political authority.
+
+## Monetary and liquidity puissance
+
+Create, access, move, settle, convert, intermediate, or finance value through payment, credit, liquidity, settlement, or currency infrastructure. Monetary capability is distinct from general economic capability and carries unusually high dependency risk when rails become unavoidable.
 
 ## Technical puissance
 

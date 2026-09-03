@@ -1,0 +1,49 @@
+$schema: "https://json-schema.org/draft/2020-12/schema"
+title: "Power Surface Map"
+type: object
+required:
+  - system
+  - domains
+properties:
+  system:
+    type: string
+  domains:
+    type: array
+    items:
+      $ref: "power-domain.schema.yaml"
+  high_leverage_conversions:
+    type: array
+    items:
+      type: object
+      required: [source_domain, destination_domain, mechanism]
+      properties:
+        source_domain:
+          type: string
+        destination_domain:
+          type: string
+        mechanism:
+          type: string
+        firewall:
+          type: string
+        terminality_risk:
+          type: string
+  stacking_nodes:
+    type: array
+    items:
+      type: string
+  routing_destinations:
+    type: object
+    properties:
+      capability:
+        type: array
+        items: {type: string}
+      authority:
+        type: array
+        items: {type: string}
+      returns:
+        type: array
+        items: {type: string}
+      optionality:
+        type: array
+        items: {type: string}
+additionalProperties: true

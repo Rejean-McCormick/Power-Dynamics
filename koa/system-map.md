@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "kOA"
-version: "5.1"
+version: "6.0"
 title: "kOA System Map"
 source_basis:
   - S13
@@ -71,3 +71,27 @@ Each capability surface can also become a power surface:
 | brand | attention / affiliation / legitimacy-by-association |
 
 The constitutional problem is therefore not whether kOA should be powerful. Its purpose is to generate capability. The problem is whether the relations created by successful capability remain **scoped, inspectable, contestable, substitutable, and evolvable**.
+
+## Cross-domain overlay
+
+The same system can be read as a multi-domain power surface:
+
+```text
+Semantics / knowledge
+→ credibility / discoverability
+→ political judgment
+→ allocation
+→ administrative execution
+→ returns / memory
+→ economic + institutional compounding
+```
+
+Cross-cutting economic, political, and monetary questions should therefore be audited separately:
+
+- **political** — who gains standing, agenda, mandate, and decision influence?
+- **economic** — who controls or receives scarce resources and returns?
+- **monetary** — who controls exchange rails, liquidity, credit, settlement, or transaction access where those functions exist?
+- **routing** — who receives capability, authority, returns, and optionality?
+
+See [`../POWER-SURFACE.md`](../POWER-SURFACE.md).
+

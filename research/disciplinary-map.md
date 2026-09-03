@@ -2,7 +2,7 @@
 maturity: "OPEN-QUESTION"
 claim_type: "EXTERNAL-RESEARCH"
 scope: "GENERAL"
-version: "5.1"
+version: "6.0"
 title: "Disciplines That Study Power"
 source_basis:
 ---
