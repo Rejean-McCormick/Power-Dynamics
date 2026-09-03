@@ -2,34 +2,27 @@ $schema: https://json-schema.org/draft/2020-12/schema
 title: Branch Comparison
 type: object
 required:
-- branch_a
-- branch_b
+- branches
 - dimensions
 properties:
-  branch_a:
-    type: string
-  branch_b:
-    type: string
+  branches:
+    type: array
+    minItems: 2
   shared_problem:
-    type: string
+    type:
+    - string
+    - 'null'
   dimensions:
     type: object
-    additionalProperties:
-      type: object
-      properties:
-        a: {}
-        b: {}
-        evidence:
-          type: array
-          items:
-            type: string
   unique_contributions:
     type: object
-  tradeoffs:
-    type: array
-    items:
-      type: string
   complementarity:
-    type: string
+    type:
+    - string
+    - object
+    - 'null'
+  dominance_factors:
+    type: object
   no_global_winner_required:
     type: boolean
+additionalProperties: true

@@ -1,3 +1,11 @@
+---
+maturity: "CURRENT-CORE"
+claim_type: "ANALYTICAL-RECONSTRUCTION"
+scope: "GENERAL"
+version: "4.0"
+title: "Corpus Map"
+source_basis:
+---
 # Corpus Map
 
 The repository uses stable source IDs. Source IDs identify provenance; they do not imply endorsement or current status.

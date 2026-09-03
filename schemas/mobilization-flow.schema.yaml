@@ -1,0 +1,31 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Mobilization Flow
+type: object
+properties:
+  reservoir:
+    type:
+    - string
+    - object
+    - 'null'
+  release_controller:
+    type:
+    - string
+    - 'null'
+  release_conditions:
+    type: array
+  throughput:
+    type:
+    - string
+    - number
+    - 'null'
+  channels:
+    type: array
+  mediation:
+    type: array
+  amplification:
+    type: array
+  bottlenecks:
+    type: array
+  affected_actors:
+    type: array
+additionalProperties: true

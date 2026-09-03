@@ -1,19 +1,16 @@
 ---
-title: "Bootstrap: Building kOA with Limited External Support"
-maturity: CURRENT-CORE
-claim_type: ANALYTICAL-RECONSTRUCTION
-scope: GENERAL
-version: 2.0
+maturity: "CURRENT-CORE"
+claim_type: "ANALYTICAL-RECONSTRUCTION"
+scope: "GENERAL"
+version: "4.0"
+title: "Bootstrapping kOA"
 source_basis:
   - S25
-  - S24
 ---
-# Bootstrap: Building kOA with Limited External Support
+# Bootstrapping kOA
 
-The supplied corpus describes kOA as independently developed and self-sustained. The bootstrap case illustrates power regeneration.
+The two-year bootstrap case illustrates conversion of temporary personal resources into persistent assets.
 
-Initial inputs can be modeled as founder time, existing skill, personal resources, access to AI tools and learning capacity. Those temporary resources were converted into persistent assets: code, documentation, concepts, architecture, websites, brand, workflows and experience.
+`time + skill + AI + personal resources → code + architecture + documentation + methods + experience + brand → lower future development cost → greater technical/cognitive/organizational puissance → more systems built`
 
-Each asset lowered the cost or increased the reach of later work. In this sense, temporary personal power was crystallized into reusable technical and epistemic capital.
-
-The next transition to analyze is from **founder-powered** to **system-powered**: can these assets become usable by outside maintainers, institutions and branches without continued founder centrality?
+The later question is whether these assets become ecosystem resources or remain founder-dependent bottlenecks.

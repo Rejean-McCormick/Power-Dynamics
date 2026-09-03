@@ -1,23 +1,13 @@
 ---
-title: "Disciplinary Map"
-maturity: CURRENT-CORE
-claim_type: ANALYTICAL-RECONSTRUCTION
-scope: GENERAL
-version: 2.0
+maturity: "OPEN-QUESTION"
+claim_type: "EXTERNAL-RESEARCH"
+scope: "GENERAL"
+version: "4.0"
+title: "Disciplines That Study Power"
+source_basis:
 ---
-# Disciplinary Map
+# Disciplines That Study Power
 
-Power Dynamics sits at the intersection of political theory, sociology of power, political economy, organizational theory, information systems, STS, social epistemology, network science, cybernetics, platform governance and constitutional design.
+Power Dynamics is interdisciplinary. Relevant fields include political science and political theory, sociology, sociology of organizations, political economy, institutional economics, law, public administration, organizational theory, network science, game theory, social choice, media and communication, information science, knowledge management, social epistemology, science and technology studies, infrastructure studies, platform governance, cybernetics, systems theory, complexity science, anthropology, social psychology, finance, and monetary studies.
 
-Each field sees a different slice:
-
-- political theory: authority, legitimacy, freedom and non-domination;
-- sociology: status, institutions, reproduction and symbolic capital;
-- political economy: wealth, ownership, debt and resource allocation;
-- organizational theory: roles, uncertainty, workflow and resource dependency;
-- STS / infrastructure studies: standards, classifications and hidden infrastructural power;
-- social epistemology: expertise, testimony, credibility and epistemic injustice;
-- network science: centrality, brokers and diffusion;
-- cybernetics / systems theory: feedback, control, adaptation and compounding loops.
-
-The distinctive ambition of Power Dynamics is to connect these into a single lifecycle model of capability formation, conversion, return and evolution.
+The distinctive ambition of this repo is to connect **capability formation, relational power, feedback, conversion, and constitutional evolution** across these domains.

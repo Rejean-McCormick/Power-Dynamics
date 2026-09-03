@@ -1,114 +1,146 @@
 ---
+maturity: "CURRENT-CORE"
+claim_type: "ANALYTICAL-RECONSTRUCTION"
+scope: "GENERAL"
+version: "4.0"
 title: "Power Dynamics"
-maturity: CURRENT-CORE
-claim_type: ANALYTICAL-RECONSTRUCTION
-scope: GENERAL
-version: 2.0
 source_basis:
   - S01
   - S02
+  - S10
   - S13
+  - S15
   - S16
   - S18
   - S21
+  - S22
   - S25
   - S26
 ---
-
 # Power Dynamics
 
-**A systems theory of power as effective possibility, cumulative capability, and evolvable governance.**
+**A systems theory of effective possibility, puissance, and relational power.**
 
-Power Dynamics studies how people, groups, institutions, networks and infrastructures become capable of shaping what is possible. It does not reduce power to domination, formal authority, wealth, or voting rights. It also studies the constructive forms of power that make understanding, association, execution, learning, exit and institutional evolution possible.
+Power Dynamics studies the full lifecycle through which resources become usable capabilities, capabilities become effective **puissance**, puissance enters **power relations**, and the effects of those relations return to the system as new resources, dependencies, institutions, alternatives, memories, and possibilities.
 
-The framework is grounded in the supplied kOA corpus. Its starting tension is simple:
+The repository reconciles two complementary levels of analysis:
 
-> **Power can expand effective possibility, and power can narrow effective possibility.**
+1. a **strict ontology** that prevents category errors;
+2. a **dynamic theory** that follows how capacity and power form, move, combine, convert, accumulate, concentrate, contest, diversify, and decay.
 
-The repo therefore studies both empowerment and domination.
+The core ontology is:
 
-## Core thesis
+> **Resources / Assets → Potential → Capacity → Puissance → Power Relations → Effects → Returns**
 
-> **Power is the capacity to shape effective possibility.**
+The core dynamic loop is:
 
-A capability is *effective* when it can actually be exercised under real conditions of time, resources, information, risk, procedure and dependency. A formal right that is prohibitively expensive to exercise is not equivalent to an effective capability. A nominal fork that loses all data, identity, reputation and interoperability is not equivalent to effective forkability.
+> **Stock → Potential → Capacity → Puissance → Mobilization → Relation / Effect → Return → New Stock**
 
-## The power ecology
+Neither model replaces the other. The ontology answers **what kind of thing is this?** The dynamics answer **what is happening to it?** A third layer identifies **where** the process occurs: economic, epistemic, technical, political, reputational, semantic, infrastructural, narrative, administrative, mnemonic, cognitive, or other domains.
 
-```mermaid
-flowchart TD
-    R[Resources / Capitals] --> L[Latent Capacity]
-    L --> P[Effective Power]
-    P --> A[Action / Exercise]
-    A --> O[Outcomes]
-    O --> X[Returns / Assets]
-    X --> I[Reinvestment]
-    I --> R
+## Start here
 
-    P --> C[Composition]
-    C --> P
-    P --> V[Conversion]
-    V --> P
-    P --> S[Stacking / Concentration]
-    S --> D[Dependency / Domination Risk]
+1. [`GLOSSARY.md`](GLOSSARY.md) — canonical terminology.
+2. [`framework/01-core-ontology.md`](framework/01-core-ontology.md) — resource, potential, capacity, puissance, power, effect, return.
+3. [`framework/03-three-axis-model.md`](framework/03-three-axis-model.md) — ontology × dynamics × domains.
+4. [`dynamics/README.md`](dynamics/) — how capability and power change over time.
+5. [`PRINCIPLES.md`](PRINCIPLES.md) — constitutional constraints.
+6. [`koa/README.md`](koa/) — kOA as the primary systems case.
+7. [`assessment/analysis-method.md`](assessment/analysis-method.md) — how to audit a real system.
 
-    B[Branches / Alternatives] --> E[Comparison / Demonstration]
-    E --> M[Support / Adoption / Recombination]
-    M --> B
+## Why the distinction matters
 
-    K[Constitutional Counterpowers] --> P
-    K --> S
-    K --> D
-    K --> B
-```
+Money is not automatically power. A reputation is not automatically authority. A codebase is not automatically control. A large unpublished corpus is not stored power. These are resources or reservoirs. They create potential; potential can become capacity; capacity can become effectively mobilizable puissance. **Power appears relationally** when that puissance changes another actor's effective possibilities through access, allocation, ranking, recognition, authorization, enforcement, dependence, coordination, definition, or other mechanisms.
 
-The key positive loop is:
+At the same time, Power Dynamics is deliberately broader than a theory of domination. It studies:
 
-> **Power → Action → Result → Asset → Reinvestment → More Power.**
+- **power to** as puissance d'agir;
+- **power with** as collective and associative puissance;
+- **power through** as infrastructure-mediated puissance;
+- **power over** as asymmetric relational power;
+- positive and generative capability;
+- cross-domain conversion and concentration;
+- returns, reinvestment, and compounding;
+- counterpower, exit, substitution, forkability, and branch mobility;
+- plurality, complementarity, and evolutionary governance.
 
-The key constitutional problem is:
+## Three-axis analytical model
 
-> **How can a system generate strong capability without creating terminal or arbitrary sovereignty over those who depend on it?**
+Every serious analysis should locate a phenomenon on three axes.
 
-## Four basic modes
+### Axis A — Ontological state
 
-| Mode | Question |
-|---|---|
-| **Power over** | What can an actor impose, block, condition, rank, exclude, or make costly for another? |
-| **Power to** | What can an actor effectively understand, choose, build, refuse, obtain, or accomplish? |
-| **Power with** | What becomes possible through association that was impossible separately? |
-| **Power through** | Which infrastructures amplify, mediate, store or reproduce capability? |
+`Resource → Potential → Capacity → Puissance → Power Relation → Effect → Return`
+
+### Axis B — Dynamic process
+
+`Formation → Mobilization → Composition → Conversion → Return → Reinvestment → Compounding → Concentration / Capture → Contestation → Diversification / Evolution → Decay / Transfer`
+
+### Axis C — Domain
+
+Economic, monetary, epistemic, semantic, informational, reputational, attention, network, technical, infrastructural, administrative, operational, political, constitutional, symbolic, brand, cognitive, mnemonic, property, territorial, allocation, certification, and others.
+
+This prevents statements such as “X has more power than Y” from being treated as meaningful without specifying **what kind of resource, what puissance, what relation, through what mechanism, over whom, in what domain, for how long, and with what counterpowers**.
+
+## kOA as the primary systems case
+
+kOA is analyzed as a **power ecology**: a system of systems intended to transform dispersed resources into cumulative collective capability through:
+
+> **Know → Choose → Act → Remember → Know better**
+
+Each component is analyzed twice:
+
+1. **What puissance does it create or amplify?**
+2. **What power relations can arise around that puissance?**
+
+Examples:
+
+- **Kristal** can create epistemic and mnemonic puissance; authority registries, validation rules, reader policies, and canonization can create epistemic or standard-setting power relations.
+- **Konnaxion** can create associative, communicative, and discoverability puissance; ranking, moderation, routing, and access can create visibility or agenda power.
+- **Koali / EkoH** can make competence and contribution more legible and mobilizable; credibility signals can create recognition and opportunity power.
+- **SmartVote** can create comparative judgment puissance; lenses, defaults, discoverability, and weighting rules can create agenda or advisory influence.
+- **Orgo** can create operational puissance; assignment, escalation, routing, timing, and closure rules can create administrative power.
+- **Capsules / federation** can reduce terminal dependency by making substitution, local operation, and branch formation more effective.
+
+The repository does **not** assume that competence, ethics, credibility, truth, legitimacy, or branch quality can be measured perfectly. Consequential readings must remain attributable, scoped, contestable, revisable, and comparable.
 
 ## Constitutional orientation
 
-The current reconstruction is summarized by four propositions:
-
-> **Strong capability. Weak sovereignty.**  
-> **Stable interoperability. Evolving branches.**  
-> **Plurality without fragmentation.**  
+> **Strong distributed puissance. Weak and non-terminal sovereignty.**
+>
+> **Composition without automatic conversion.**
+>
+> **Plurality without fragmentation.**
+>
+> **Stable interoperability. Evolving branches.**
+>
 > **Improvement without final authority.**
 
-These propositions do **not** claim that kOA, EkoH, SmartVote, Kristal, Koali or any branch can perfectly measure competence, ethics, credibility, truth or legitimacy. The opposite is assumed. Consequential readings should therefore remain attributable, scoped, inspectable, contestable, revisable, comparable and replaceable.
+The central constitutional problem is not how to eliminate all power. It is how to create enormous distributed capability while preventing useful functional puissance from silently converting into arbitrary, cross-domain, or terminal power.
 
-## Repository architecture
+## Repository map
 
-- [`framework/`](framework/) — the general theory: possibility, dependency, lifecycle, capital, conversion, compounding, imperfection, complementarity and evolutionary governance.
-- [`constitution/`](constitution/) — non-domination, scoped authority, conversion firewalls, contestability, exit and branch mobility.
-- [`domains/`](domains/) — economic, epistemic, semantic, attention, network, technical, operational, symbolic and temporal power.
-- [`koa/`](koa/) — kOA as a power ecology: Kristal, Konnaxion, Koali/EkoH, SmartVote, Orgo, federation, AI, brand and founder power.
-- [`branch-ecology/`](branch-ecology/) — variation, lineage, competing Kristals, demonstration, complementarity, dominance and replacement.
-- [`cases/`](cases/) — applied analyses, including bootstrap, brand, Desjardins, philanthropy, SmartVote and KingCoin as a legacy stress test.
-- [`history/`](history/) — how the power model evolved across the supplied corpus.
-- [`assessment/`](assessment/) — qualitative and multidimensional methods. This repo intentionally avoids pretending that all power can be reduced to one scalar score.
-- [`schemas/`](schemas/) — machine-readable structures for relations, returns, authority, branches and system profiles.
-- [`research/`](research/) — disciplinary positioning and literature roadmap.
-- [`sources/`](sources/) — corpus map, concept provenance and technical-evidence gaps.
+- [`framework/`](framework/) — field definition, ontology, effective possibility, three-axis model, power ecology, pre-political mediation, and constitutional thesis.
+- [`dynamics/`](dynamics/) — formation, mobilization, composition, conversion, returns, compounding, concentration, capture, counterpower, diversification, decay, transfer.
+- [`resources/`](resources/) — accumulated stocks and conditions that can support future capacity.
+- [`puissance/`](puissance/) — families of effective mobilizable capacity.
+- [`relations/`](relations/) — mechanisms through which puissance becomes relational power.
+- [`domains/`](domains/) — the substantive domains in which resources, puissance, and power relations operate.
+- [`constitution/`](constitution/) — non-domination, scope, firewalls, counterpowers, revocability, exit, federation, and non-terminal architecture.
+- [`branch-ecology/`](branch-ecology/) — competing Kristals, complementarity, lineage, dominance, branch mobility, recombination, and evolutionary governance.
+- [`koa/`](koa/) — kOA analyzed using the full framework.
+- [`assessment/`](assessment/) — qualitative and machine-readable methods for system analysis.
+- [`cases/`](cases/) — applied analyses and legacy stress tests.
+- [`schemas/`](schemas/) — YAML schemas for ontology, relations, returns, branches, authority, conversions, and system profiles.
+- [`history/`](history/) — genealogy of the theory across the supplied corpus.
+- [`research/`](research/) — disciplinary map and literature roadmap.
+- [`sources/`](sources/) — corpus provenance, epistemic status, concept origins, and technical-evidence gaps.
 
-## Epistemic status of this repository
+## Epistemic discipline
 
-Every important document separates two questions:
+Every substantive document uses two independent labels:
 
-1. **Maturity** — is this current core, experimental, legacy, or still an open question?
-2. **Claim type** — is the proposition source-derived, an analytical reconstruction, a new concept, or external research?
+- **maturity** — `CURRENT-CORE`, `CURRENT-EXPERIMENTAL`, `OPEN-QUESTION`, `LEGACY-PROPOSAL`, etc.;
+- **claim_type** — `SOURCE-DERIVED`, `ANALYTICAL-RECONSTRUCTION`, `NEW-CONCEPT`, or `EXTERNAL-RESEARCH`.
 
-This prevents historical proposals from silently becoming current doctrine and prevents analytical vocabulary from being misrepresented as language already present in the source corpus.
+The supplied corpus is the basis of the repository, but the formal ontology and several analytical concepts are reconstructions developed from the corpus and the Power Dynamics work. The repo therefore distinguishes source-derived claims from later synthesis rather than silently treating all terminology as original source language.

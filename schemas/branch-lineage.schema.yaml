@@ -3,33 +3,24 @@ title: Branch Lineage
 type: object
 required:
 - branch_id
-- version
 properties:
   branch_id:
     type: string
-  version:
-    type: string
   parents:
     type: array
-    items:
-      type: string
+  derived_from:
+    type: array
   changes:
     type: array
-    items:
-      type: string
-  evidence_added:
+  added_value_claims:
     type: array
-    items:
-      type: string
-  assumptions_changed:
+  evidence:
     type: array
-    items:
-      type: string
   compatibility:
     type: array
-    items:
-      type: string
-  unresolved_disagreements:
-    type: array
-    items:
-      type: string
+  governance:
+    type:
+    - string
+    - object
+    - 'null'
+additionalProperties: true

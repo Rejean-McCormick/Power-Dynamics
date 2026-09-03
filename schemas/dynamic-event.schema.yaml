@@ -1,0 +1,44 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Power Dynamic Event
+type: object
+required:
+- dynamic
+properties:
+  dynamic:
+    enum:
+    - formation
+    - mobilization
+    - composition
+    - conversion
+    - return
+    - reinvestment
+    - compounding
+    - concentration
+    - stacking
+    - capture
+    - counterpower
+    - diversification
+    - branch_evolution
+    - decay
+    - dissipation
+    - transfer
+    - succession
+  domain:
+    type: string
+  actor:
+    type: string
+  target:
+    type:
+    - string
+    - 'null'
+  inputs:
+    type: array
+  outputs:
+    type: array
+  evidence:
+    type: array
+  uncertainty:
+    type:
+    - string
+    - 'null'
+additionalProperties: true

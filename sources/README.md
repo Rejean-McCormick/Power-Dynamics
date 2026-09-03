@@ -1,5 +1,22 @@
-# Sources
+---
+maturity: "CURRENT-CORE"
+claim_type: "ANALYTICAL-RECONSTRUCTION"
+scope: "GENERAL"
+version: "4.0"
+title: "Sources and Provenance"
+source_basis:
+---
+# Sources and Provenance
 
-The source layer separates supplied corpus evidence from Power Dynamics reconstruction. Use stable IDs from `corpus-map.md` in document front matter.
+The supplied corpus is the repository's primary evidence base.
 
-Do not treat analytical summaries or external-style reports as canonical technical evidence when direct specifications are available.
+Source IDs are stable references to the 28 supplied files. They identify provenance, not endorsement or current status.
+
+The repo distinguishes:
+
+- **FOUNDATIONAL / CURRENT-CORE** source material;
+- **CURRENT-EXPERIMENTAL** designs;
+- **ANALYTICAL** thesis drafts and reconstructions;
+- **LEGACY-PROPOSAL** material preserved for genealogy and stress testing.
+
+The source corpus contains real internal tensions. These should not be silently reconciled.

@@ -1,49 +1,35 @@
 ---
+maturity: "CURRENT-CORE"
+claim_type: "ANALYTICAL-RECONSTRUCTION"
+scope: "GENERAL"
+version: "4.0"
 title: "Power Ecology"
-maturity: CURRENT-CORE
-claim_type: ANALYTICAL-RECONSTRUCTION
-scope: GENERAL
-version: 2.0
 source_basis:
   - S13
+  - S15
   - S18
+  - S21
   - S25
   - S26
 ---
-
 # Power Ecology
 
-A power ecology is a set of systems that produce different capacities and feed one another.
+A power ecology is a system in which multiple forms of resource, puissance, and relational power interact and feed one another.
 
-In kOA, knowledge artifacts, social coordination, credibility signals, decision readings, execution workflows, memory, brand, finance, multilingual reach and infrastructure are not isolated powers. They can become inputs to one another.
+Typical conversions include:
 
-Example:
+`knowledge → credibility → visibility → opportunity`
 
-```text
-knowledge
-→ better decision
-→ coordinated action
-→ result
-→ evidence + experience
-→ credibility
-→ network access
-→ opportunity
-→ money / collaborators
-→ better tools
-→ more knowledge
-```
+`money → infrastructure → reach → influence`
 
-The ecology matters because an actor may become powerful without any single subsystem appearing dominant. Repeated cross-system conversion can create significant cumulative capacity.
+`brand → attention → affiliation → revenue`
 
-Power Ecology therefore studies:
+`execution → results → evidence → credibility`
 
-- the capitals entering each subsystem;
-- the capability produced;
-- the returns generated;
-- where those returns go;
-- which other subsystems can consume them;
-- which loops compound;
-- where choke points appear;
-- whether participants can redirect the loop through alternative branches.
+`memory → better judgment → lower future coordination cost`
 
-The central distinction is between **extractive loops** and **regenerative loops**. An extractive loop sends collective value toward a narrow owner who gains increasing control. A regenerative loop returns substantial value to participants, shared infrastructure, reusable knowledge or alternative institutions, thereby increasing distributed future capability.
+`network → collaborators → collective puissance → outcomes`
+
+The ecological question is not simply “who has power?” but what resources are accumulated, what puissance they support, what conversions are possible, where returns accumulate, which nodes are bottlenecks, and what feedback loops reinforce incumbents or distribute capability.
+
+kOA is a useful primary case because its components deliberately occupy different positions in the knowledge-to-action loop.

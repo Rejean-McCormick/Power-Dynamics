@@ -3,65 +3,50 @@ title: Power Relation
 type: object
 required:
 - holder
-- domain
-- capability
+- affected_actor
+- mechanism
 properties:
   holder:
     type: string
-  target:
+  affected_actor:
+    type: string
+  domain:
+    type: string
+  puissance_basis:
+    type: array
+  mechanism:
+    type: string
+  effects_on_possibility:
+    type: array
+  scope:
+    type:
+    - string
+    - object
+  duration:
     type:
     - string
     - 'null'
-  domain:
-    type: string
-  mode:
+  mandate:
+    type:
+    - string
+    - 'null'
+  dependency:
+    type:
+    - string
+    - object
+    - 'null'
+  counterpowers:
     type: array
-    items:
-      enum:
-      - over
-      - to
-      - with
-      - through
-  capability:
-    type: string
-  resource_basis:
-    type: array
-    items:
-      type: string
-  mechanism:
-    type: string
-  scope:
-    type: object
-    properties:
-      domain:
-        type: string
-      temporal:
-        type: string
-      geographic:
-        type: string
-  beneficiaries:
-    type: array
-    items:
-      type: string
-  dependencies_created:
-    type: array
-    items:
-      type: string
-  conversion_paths:
-    type: array
-    items:
-      type: string
-  constraints:
-    type: array
-    items:
-      type: string
   contestability:
-    type: string
+    type:
+    - string
+    - 'null'
+  revocability:
+    type:
+    - string
+    - 'null'
   exit_options:
     type: array
-    items:
-      type: string
-  uncertainties:
+  evidence:
     type: array
-    items:
-      type: string
+additionalProperties: true

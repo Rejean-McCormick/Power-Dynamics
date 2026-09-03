@@ -1,30 +1,25 @@
 ---
-title: "Koali and EkoH: Credibility Without a Reputation Sovereign"
-maturity: CURRENT-CORE
-claim_type: ANALYTICAL-RECONSTRUCTION
-scope: GENERAL
-version: 2.0
+maturity: "CURRENT-CORE"
+claim_type: "ANALYTICAL-RECONSTRUCTION"
+scope: "GENERAL"
+version: "4.0"
+title: "Koali / EkoH"
 source_basis:
   - S15
   - S17
   - S26
   - S28
 ---
-# Koali and EkoH: Credibility Without a Reputation Sovereign
+# Koali / EkoH
 
-The useful function is to make latent competence more legible and mobilizable:
+Koali and EkoH address a problem of **latent competence**: people may possess valuable experience or expertise that is difficult for others to discover, verify, or mobilize.
 
-```text
-knowledge / contribution
-→ evidence
-→ scoped credibility signal
-→ discoverability
-→ opportunity
-→ new contribution
-```
+The intended transformation is:
 
-The limitation is fundamental: competence and ethics are not perfectly measurable. A score is a policy-governed reading of evidence, not the person.
+`competence evidence → legibility → credibility signal → discoverability → opportunity → participation`
 
-The architecture therefore benefits from multiple distributions or policies that can disagree while sharing enough structure to compare evidence and domain scope. One branch may value academic evidence, another practical performance, another local experience. Their coexistence can add information rather than requiring one global reputation bank.
+The constitutional limit is explicit:
 
-The power risk is conversion: credibility → visibility → opportunity → resources → more credibility. Branch mobility and domain-boundedness are necessary to prevent one reputation system from becoming universal civic rank.
+> **Score ≠ person ≠ competence ≠ truth ≠ sovereignty.**
+
+Signals should be domain-bounded, evidence-linked, versioned, contestable, and portable. Multiple distributions or policies can coexist around common interoperability, supporting **plurality without fragmentation**.

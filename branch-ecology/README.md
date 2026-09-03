@@ -1,9 +1,9 @@
 ---
+maturity: "CURRENT-CORE"
+claim_type: "ANALYTICAL-RECONSTRUCTION"
+scope: "GENERAL"
+version: "4.0"
 title: "Branch Ecology"
-maturity: CURRENT-CORE
-claim_type: ANALYTICAL-RECONSTRUCTION
-scope: GENERAL
-version: 2.0
 source_basis:
   - S13
   - S16
@@ -12,6 +12,13 @@ source_basis:
 ---
 # Branch Ecology
 
-Branch ecology treats variation as a normal mode of institutional learning, not only as emergency escape from corruption.
+Branches are not merely emergency responses to “corruption.” They are normal instruments of experimentation under permanent imperfection.
 
-Branches may coexist, specialize, recombine, influence one another or replace a dominant branch. Dominance remains provisional and multidimensional.
+The ecology asks:
+
+- how lineage and competing Kristals are preserved;
+- how complementarity avoids dogma without collapsing into relativism;
+- how alternatives demonstrate added value;
+- how support, adoption, and dominance differ;
+- whether a better branch can actually become viable;
+- how branches coexist, recombine, or replace one another.

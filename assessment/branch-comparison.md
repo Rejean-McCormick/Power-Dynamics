@@ -1,33 +1,14 @@
 ---
+maturity: "CURRENT-CORE"
+claim_type: "ANALYTICAL-RECONSTRUCTION"
+scope: "GENERAL"
+version: "4.0"
 title: "Branch Comparison"
-maturity: CURRENT-CORE
-claim_type: ANALYTICAL-RECONSTRUCTION
-scope: GENERAL
-version: 2.0
-source_basis:
-  - S15
-  - S16
-  - S22
-  - S28
 ---
 # Branch Comparison
 
-Branches should be compared across explicit dimensions rather than reduced to one score.
+Compare branches multidimensionally rather than producing one winner score.
 
-Possible dimensions:
+Suggested dimensions: evidence quality, provenance, uncertainty handling, outcomes, autonomy, auditability, privacy, interoperability, cost, complexity, accessibility, multilinguality, contestability, branch mobility, unique contribution, and complementarity.
 
-- evidence quality;
-- auditability;
-- autonomy;
-- interoperability;
-- privacy;
-- inclusion;
-- domain fit;
-- resilience;
-- cost;
-- usability;
-- observed outcomes;
-- branch mobility;
-- dependency concentration.
-
-A comparison should preserve trade-offs. It may conclude that branch A is better for one context and branch B for another, or that the best outcome is recombination rather than replacement.
+A valid conclusion may be that no global winner is required.

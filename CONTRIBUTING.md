@@ -1,37 +1,37 @@
 ---
+maturity: "CURRENT-CORE"
+claim_type: "ANALYTICAL-RECONSTRUCTION"
+scope: "GENERAL"
+version: "4.0"
 title: "Contributing"
-maturity: CURRENT-CORE
-claim_type: NEW-CONCEPT
-scope: GENERAL
-version: 2.0
 ---
-
 # Contributing
 
-Contributions should improve analytical value rather than merely multiply documents.
+Contributions should preserve the distinction between **source-derived material** and **analytical reconstruction**.
 
-## Before adding a file
+## Before adding a concept
 
-Ask whether the contribution:
+Ask three questions:
 
-1. adds a genuinely distinct concept or case;
-2. extends an existing document more coherently than creating a new one;
-3. states its maturity and claim type;
-4. names its source basis;
-5. distinguishes evidence, interpretation and open questions;
-6. records trade-offs instead of declaring a universal winner;
-7. preserves branch lineage when modifying an existing position.
+1. What is its ontological state: resource, potential, capacity, puissance, power relation, effect, or return?
+2. What dynamic is occurring: formation, mobilization, composition, conversion, reinvestment, capture, diversification, decay, transfer, etc.?
+3. In which domain does it occur?
 
-## Branch improvement protocol
+Avoid shorthand such as `money = power`, `expertise = authority`, or `brand = legitimacy`. Trace the mechanism.
 
-A proposed improvement should identify:
+## Evidence
 
-- the problem in the current branch;
-- the exact change;
-- the dimension on which improvement is claimed;
-- evidence or reasoning supporting the claim;
-- costs or regressions introduced;
-- compatibility consequences;
-- whether coexistence, merge, partial adoption or replacement is proposed.
+A claim should identify at least one of:
 
-The project prefers **demonstrable value addition** over repetitive forks that merely restate existing claims.
+- source IDs from [`sources/corpus-map.md`](sources/corpus-map.md);
+- direct technical evidence;
+- explicit analytical reconstruction;
+- external research, clearly labeled.
+
+## Branches and disagreement
+
+Do not rewrite disagreement into artificial consensus. Preserve divergence and state the scope of each claim.
+
+## Metrics
+
+Avoid false precision. Prefer multidimensional assessment to universal scores when constructs are not directly measurable.

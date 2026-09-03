@@ -1,23 +1,20 @@
 ---
-title: "Kristal: Epistemic Memory and Branchable Knowledge"
-maturity: CURRENT-CORE
-claim_type: ANALYTICAL-RECONSTRUCTION
-scope: GENERAL
-version: 2.0
+maturity: "CURRENT-CORE"
+claim_type: "ANALYTICAL-RECONSTRUCTION"
+scope: "GENERAL"
+version: "4.0"
+title: "Kristal"
 source_basis:
   - S13
   - S16
-  - S22
   - S25
 ---
-# Kristal: Epistemic Memory and Branchable Knowledge
+# Kristal
 
-Kristal is politically important because it can preserve provenance, status, version identity, ambiguity and lineage rather than reducing knowledge to an unqualified text assertion.
+Kristal creates **epistemic and mnemonic puissance** by structuring claims, provenance, status, versioning, lineage, validation, and reusable artifacts.
 
-In Power Dynamics, the crucial property is not that a Kristal is "true." It is that claims can be represented with enough structure to support comparison, reuse, contestation and branch evolution.
+Potential power relations arise around authority registries, trust roots, validation thresholds, canonical/reference promotion, reader policies, release/version selection, and federation/import rules.
 
-Two communities may maintain different Kristals about the same issue. The system should preserve what differs: evidence, scope, authority, policy, context and unresolved disagreement. A later Kristal may synthesize parts of both without erasing lineage.
+Plurality is constitutionally important: competing or complementary Kristals can preserve different evidence, interpretations, scopes, or policies. The system should make lineage and differences legible rather than silently declaring one permanent universal truth.
 
-This makes Kristal a potential substrate for **cumulative plurality** rather than a ministry of truth.
-
-Open power questions include governance of trust roots, authority registries, canonicalization and default reader policies. These require direct technical evidence in the next audit phase.
+The strongest technical audit still requires direct current specifications for trust roots, policies, registries, signatures, and federation behavior.

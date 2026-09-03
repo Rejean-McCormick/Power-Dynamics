@@ -1,26 +1,22 @@
 ---
+maturity: "CURRENT-CORE"
+claim_type: "ANALYTICAL-RECONSTRUCTION"
+scope: "GENERAL"
+version: "4.0"
 title: "Constitutional Tests"
-maturity: CURRENT-CORE
-claim_type: ANALYTICAL-RECONSTRUCTION
-scope: GENERAL
-version: 2.0
-source_basis:
-  - S16
-  - S19
-  - S21
-  - S25
 ---
 # Constitutional Tests
 
-A mature power architecture should be able to answer:
+Stress-test a system with adversarial questions:
 
-- **Scope test:** Is authority bounded to a declared function?
-- **Legibility test:** Can affected actors reconstruct the rule and evidence?
-- **Conversion test:** Can one power silently become unrelated authority?
-- **Stacking test:** Are too many critical powers concentrated in one node?
-- **Recourse test:** Can a harmful decision be challenged and corrected?
-- **Exit test:** Can users leave without disproportionate loss?
-- **Substitution test:** Can another provider or branch perform the function?
-- **Branch-mobility test:** Can an alternative become consequential?
-- **Return test:** Who receives reusable assets created by collective activity?
-- **Founder-dependency test:** Can the system continue without unique founder knowledge or permission?
+- What if the maintainer becomes hostile?
+- What if a credibility policy is biased?
+- What if the dominant branch stops improving?
+- What if ranking favors incumbents?
+- What if a signing key is lost or captured?
+- What if the official brand owner disagrees with a protocol fork?
+- What if a provider changes terms?
+- What if AI output becomes de facto policy?
+- Can affected actors verify, contest, substitute, exit, and continue?
+
+The objective is not perfect immunity but non-terminal failure modes.

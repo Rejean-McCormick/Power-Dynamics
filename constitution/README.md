@@ -1,32 +1,28 @@
 ---
+maturity: "CURRENT-CORE"
+claim_type: "ANALYTICAL-RECONSTRUCTION"
+scope: "GENERAL"
+version: "4.0"
 title: "Power Constitution"
-maturity: CURRENT-CORE
-claim_type: ANALYTICAL-RECONSTRUCTION
-scope: GENERAL
-version: 2.0
 source_basis:
   - S16
   - S18
   - S21
   - S25
 ---
-
 # Power Constitution
 
-Power Constitution studies the rules that prevent useful functional capability from becoming arbitrary or terminal authority.
+A power constitution governs **how useful capability may be exercised, converted, concentrated, challenged, transferred, and replaced**.
 
-The objective is not weak systems. A system that cannot coordinate, decide or execute cannot empower anyone. The objective is **strong functions under bounded mandates**, with meaningful counterpowers.
+The objective is not absence of centers. kOA can be hub-centric, use defaults, maintain official releases, and recognize legitimate authorities. The issue is whether functional centrality can become arbitrary or terminal sovereignty.
 
-The recurring protections are:
+The constitutional core is:
 
-- scope;
-- separation of functions;
-- visible rules;
-- provenance;
-- contestation;
-- revocation;
-- substitution;
-- exit;
-- branch mobility;
-- local operability;
-- multiple readings where judgment is irreducibly imperfect.
+- non-domination and non-terminality;
+- authority architecture;
+- power-conversion firewalls;
+- counterpowers;
+- revocability, reversibility, exit, and portability;
+- federation and subsidiarity;
+- stable kernels with evolving branches;
+- founder decentering.

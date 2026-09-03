@@ -1,19 +1,18 @@
 ---
-title: "Orgo: Execution Power and Operational Continuity"
-maturity: CURRENT-CORE
-claim_type: ANALYTICAL-RECONSTRUCTION
-scope: GENERAL
-version: 2.0
+maturity: "CURRENT-CORE"
+claim_type: "ANALYTICAL-RECONSTRUCTION"
+scope: "GENERAL"
+version: "4.0"
+title: "Orgo"
 source_basis:
   - S13
-  - S18
   - S21
   - S25
 ---
-# Orgo: Execution Power and Operational Continuity
+# Orgo
 
-Orgo addresses the executory deficit: decisions frequently lose force when they enter informal implementation.
+Orgo creates **operational and administrative puissance** by transforming signals and decisions into cases, tasks, owners, routing, escalation, time windows, closure, and operational memory.
 
-By turning orientation into cases, tasks, roles, deadlines, escalation and closure, Orgo creates operational power and makes responsibility more durable. Ownership by function can preserve continuity through staff turnover.
+Administrative power appears because control over workflow can alter timing, workload, access, escalation, completion, and practical implementation.
 
-But workflow is governance. Whoever defines routing, escalation, closure conditions and permissions can materially shape outcomes. A Power Dynamics audit should therefore trace not only who performs tasks but who defines the workflow grammar and who can override it.
+Key audit questions: who creates/closes cases, who assigns roles, who controls escalation, what deadlines/defaults exist, how conflicts are appealed, and whether administration can silently redefine the underlying mandate.

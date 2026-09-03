@@ -1,21 +1,20 @@
 ---
-title: "SmartVote: Multiple Readings and Discoverability Power"
-maturity: CURRENT-CORE
-claim_type: ANALYTICAL-RECONSTRUCTION
-scope: GENERAL
-version: 2.0
+maturity: "CURRENT-CORE"
+claim_type: "ANALYTICAL-RECONSTRUCTION"
+scope: "GENERAL"
+version: "4.0"
+title: "SmartVote"
 source_basis:
   - S15
   - S17
-  - S21
   - S28
 ---
-# SmartVote: Multiple Readings and Discoverability Power
+# SmartVote
 
-SmartVote is politically interesting because it separates a baseline reading from advisory readings that can incorporate domain-specific expertise or other governed criteria.
+SmartVote creates **comparative judgment and discoverability puissance** by preserving multiple readings of support rather than hiding evaluation inside one opaque score.
 
-Its strongest constitutional idea is not weighting itself, but **visible plurality of readings**. Expertise can inform judgment without silently replacing political equality.
+A critical separation is between baseline/raw democratic readings and expertise/ethics or other advisory readings.
 
-The major risk is soft sovereignty: an advisory reading may become practically binding if institutions treat it as the only serious result. Another risk lies in the lens registry and defaults: whoever defines which readings are shown first can exercise agenda power even if all calculations are transparent.
+The political baseline is not silently superseded by advisory weight. Domain-bounded credibility informs rather than automatically governs.
 
-SmartVote should therefore be evaluated for raw-vs-weighted separation, lens governance, default visibility, domain mapping, appeal, versioning and the ability to compare alternative weighting branches.
+Power relations arise through lens selection, defaults, criteria, discoverability, ranking, and institutional interpretation of weighted results. Those elements require explicit registries, versioning, auditability, and branch alternatives.

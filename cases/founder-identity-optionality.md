@@ -1,18 +1,15 @@
 ---
+maturity: "CURRENT-CORE"
+claim_type: "ANALYTICAL-RECONSTRUCTION"
+scope: "GENERAL"
+version: "4.0"
 title: "Founder Identity Optionality"
-maturity: CURRENT-CORE
-claim_type: ANALYTICAL-RECONSTRUCTION
-scope: GENERAL
-version: 2.0
 source_basis:
-  - S02
-  - S23
-  - S24
 ---
 # Founder Identity Optionality
 
-A founder whose face is not widely public retains a form of unexercised power: privacy, ordinary social mobility, observational freedom and control over the timing and context of future disclosure.
+A founder whose face or identity is not broadly public preserves privacy, ordinary social mobility, observational freedom, scarcity, and future reveal timing.
 
-Public recognition can increase influence while consuming optionality. Once identity becomes broadly recognizable, ordinary anonymity may be difficult to recover.
+This is **identity optionality** and **release optionality**, not yet mass-media power.
 
-The case generalizes beyond a founder: information not disclosed can itself be an option. Power analysis should track what future capabilities are preserved by non-action as well as what immediate capabilities are gained by action.
+If recognition later grows, disclosure can convert optionality into attention or narrative effects. The irreversible nature of disclosure makes timing itself a resource.

@@ -2,35 +2,35 @@ $schema: https://json-schema.org/draft/2020-12/schema
 title: Authority Scope
 type: object
 required:
-- authority
+- role
 - mandate
-- scope
 properties:
-  authority:
+  role:
     type: string
   mandate:
     type: string
-  scope:
+  domain:
     type: array
-    items:
-      type: string
-  basis:
-    type: string
-  delegated_by:
+  jurisdiction:
     type:
     - string
     - 'null'
-  valid_from:
-    type: string
-  valid_until:
+  duration:
     type:
     - string
     - 'null'
-  revocation_path:
-    type: string
-  appeal_path:
-    type: string
+  delegation:
+    type:
+    - string
+    - 'null'
+  revocation:
+    type:
+    - string
+    - 'null'
+  review:
+    type:
+    - string
+    - 'null'
   prohibited_conversions:
     type: array
-    items:
-      type: string
+additionalProperties: true

@@ -1,16 +1,28 @@
 ---
-title: "kOA as a Power Architecture"
-maturity: CURRENT-CORE
-claim_type: ANALYTICAL-RECONSTRUCTION
-scope: GENERAL
-version: 2.0
+maturity: "CURRENT-CORE"
+claim_type: "ANALYTICAL-RECONSTRUCTION"
+scope: "GENERAL"
+version: "4.0"
+title: "kOA as a Power Ecology"
 source_basis:
   - S13
-  - S18
   - S25
 ---
-# kOA as a Power Architecture
+# kOA as a Power Ecology
 
-kOA is analyzed here as an ecology that attempts to convert distributed resources into durable collective capability. Its main political significance lies in the transitions: contribution → meaning → knowledge → choice → responsibility → action → memory → renewed knowledge.
+kOA is treated here as a **primary case**, not as proof that the theory is correct.
 
-The system must therefore be evaluated twice: for the power it gives participants and for the power accumulated by the infrastructure that mediates those capabilities.
+The operative cycle is:
+
+> **Know → Choose → Act → Remember → Know better**
+
+Power Dynamics asks of every kOA subsystem:
+
+1. what resources does it organize?
+2. what potential and capacity does it create?
+3. what puissance becomes mobilizable?
+4. through what mediation does it affect others?
+5. what power relations arise?
+6. what returns and compounding loops result?
+7. what conversion, stacking, capture, or dependency risks appear?
+8. what counterpowers and branch alternatives exist?

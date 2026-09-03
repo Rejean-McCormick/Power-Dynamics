@@ -1,5 +1,15 @@
+---
+maturity: "CURRENT-CORE"
+claim_type: "ANALYTICAL-RECONSTRUCTION"
+scope: "GENERAL"
+version: "4.0"
+title: "Source Status"
+source_basis:
+---
 # Source Status
 
 `CURRENT-CORE` and `CURRENT-EXPERIMENTAL` describe recent design direction. `LEGACY-PROPOSAL` identifies earlier proposals retained for historical and stress-test value. `ANALYTICAL-RECONSTRUCTION` identifies synthesis rather than primary architecture.
 
-See `corpus-map.md` for per-source classification.
+Status is not truth ranking. A legacy proposal can still expose a useful mechanism, and a recent analytical document is not automatically a canonical technical specification.
+
+See [`corpus-map.md`](corpus-map.md) for per-source classification.

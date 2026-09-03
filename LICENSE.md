@@ -1,3 +1,12 @@
-# License status
+---
+maturity: "CURRENT-CORE"
+claim_type: "SOURCE-DERIVED"
+scope: "GENERAL"
+version: "4.0"
+title: "License"
+source_basis:
+  - S01
+---
+# License
 
-No repository-wide license was specified for **Power Dynamics** itself. Source materials retain their own licensing conditions. Before public release, the repository owner should select a license appropriate to documentation, schemas and any future code.
+This repository is provided as a research and conceptual framework. Individual source documents retain their own licenses and rights. Source inclusion or citation does not transfer ownership.

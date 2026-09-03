@@ -1,0 +1,32 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Conversion Pathway
+type: object
+required:
+- source
+- target
+properties:
+  source:
+    type: string
+  target:
+    type: string
+  intermediate_steps:
+    type: array
+  domain_crossing:
+    type: boolean
+  allowed:
+    type:
+    - boolean
+    - 'null'
+  firewall:
+    type:
+    - string
+    - 'null'
+  holder:
+    type:
+    - string
+    - 'null'
+  affected_actors:
+    type: array
+  evidence:
+    type: array
+additionalProperties: true

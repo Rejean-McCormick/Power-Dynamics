@@ -7,21 +7,18 @@ required:
 properties:
   action:
     type: string
-  returned_assets:
-    type: object
-    additionalProperties:
-      type: array
-      items:
-        type: string
-  recipients:
+  input_resources:
     type: array
-    items:
-      type: string
-  portability:
-    type: string
+  immediate_effects:
+    type: array
+  returned_assets:
+    type: array
+  return_recipients:
+    type: array
   reinvestment_paths:
     type: array
-    items:
-      type: string
-  distribution_effect:
-    type: string
+  concentration_effects:
+    type: array
+  compounding_effects:
+    type: array
+additionalProperties: true

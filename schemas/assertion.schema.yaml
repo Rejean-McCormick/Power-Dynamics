@@ -1,0 +1,35 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Repository Assertion
+type: object
+required:
+- claim
+- claim_type
+properties:
+  claim:
+    type: string
+  claim_type:
+    enum:
+    - SOURCE-DERIVED
+    - ANALYTICAL-RECONSTRUCTION
+    - NEW-CONCEPT
+    - EXTERNAL-RESEARCH
+  maturity:
+    type: string
+  source_basis:
+    type: array
+    items:
+      type: string
+  technical_evidence:
+    type: array
+  scope:
+    type:
+    - string
+    - object
+    - 'null'
+  uncertainty:
+    type:
+    - string
+    - 'null'
+  contradicting_sources:
+    type: array
+additionalProperties: true

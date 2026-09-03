@@ -1,17 +1,29 @@
 ---
+maturity: "CURRENT-CORE"
+claim_type: "ANALYTICAL-RECONSTRUCTION"
+scope: "GENERAL"
+version: "4.0"
 title: "Assessment"
-maturity: CURRENT-CORE
-claim_type: ANALYTICAL-RECONSTRUCTION
-scope: GENERAL
-version: 2.0
 source_basis:
-  - S15
-  - S16
-  - S21
-  - S28
 ---
 # Assessment
 
-Power Dynamics avoids a universal power score. Assessment is multidimensional, policy-aware and explicit about uncertainty.
+Assessment is qualitative-first. The repository does not assume that power, competence, legitimacy, ethics, or branch quality can be reduced to universal scalar scores.
 
-The purpose is to support comparison and governance, not to create a new hidden sovereign metric.
+The preferred sequence is:
+
+1. baseline problem;
+2. resources / stock;
+3. potential;
+4. capacity;
+5. puissance;
+6. mobilization;
+7. power relations;
+8. returns;
+9. conversion pathways;
+10. concentration / stacking / capture;
+11. dependency;
+12. counterpowers;
+13. branch alternatives;
+14. temporal evolution;
+15. constitutional requirements.

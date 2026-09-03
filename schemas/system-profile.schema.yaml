@@ -1,0 +1,35 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: System Power Profile
+type: object
+required:
+- system
+properties:
+  system:
+    type: string
+  resources:
+    type: array
+  puissance:
+    type: array
+  mobilization:
+    type: array
+  power_relations:
+    type: array
+  returns:
+    type: array
+  conversion_paths:
+    type: array
+  stacking:
+    type: array
+  dependencies:
+    type: array
+  counterpowers:
+    type: array
+  branches:
+    type: array
+  temporal_risks:
+    type: array
+  technical_evidence_confidence:
+    type:
+    - string
+    - 'null'
+additionalProperties: true
