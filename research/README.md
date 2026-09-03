@@ -2,7 +2,7 @@
 maturity: "OPEN-QUESTION"
 claim_type: "EXTERNAL-RESEARCH"
 scope: "GENERAL"
-version: "4.0"
+version: "5.0"
 title: "Research Layer"
 source_basis:
 ---

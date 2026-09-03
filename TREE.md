@@ -1,15 +1,39 @@
+---
+maturity: "CURRENT-CORE"
+claim_type: "ANALYTICAL-RECONSTRUCTION"
+scope: "GENERAL"
+version: "5.0"
+title: "Repository Tree"
+---
 # Repository Tree
+
+The v5 reading hierarchy is intentionally different from the filesystem hierarchy:
+
+> **Power Show → Theory → Dynamics / Domains → kOA → Constitution → Branch Ecology → Assessment / Cases → Sources**
+
+The filesystem keeps analytical layers modular while [`POWER-SHOW.md`](POWER-SHOW.md) and [`showcase/`](showcase/) provide the front-facing guided path.
 
 ```text
 Power-Dynamics/
+├── .gitignore
+├── CHANGELOG.md
+├── CONTRIBUTING.md
+├── GLOSSARY.md
+├── LICENSE.md
+├── POWER-SHOW.md
+├── PRINCIPLES.md
+├── README.md
+├── STATUS.md
+├── TREE.md
 ├── .github/
-│   ├── ISSUE_TEMPLATE/
-│   │   ├── concept-proposal.md
-│   │   └── power-audit.md
-│   └── PULL_REQUEST_TEMPLATE.md
+│   ├── PULL_REQUEST_TEMPLATE.md
+│   └── ISSUE_TEMPLATE/
+│       ├── concept-proposal.md
+│       └── power-audit.md
 ├── assessment/
 │   ├── analysis-method.md
 │   ├── branch-comparison.md
+│   ├── capability-show-profile.md
 │   ├── constitutional-tests.md
 │   ├── dependency-exit-audit.md
 │   ├── flow-conversion-capture-audit.md
@@ -110,6 +134,7 @@ Power-Dynamics/
 │   ├── authority-scope.schema.yaml
 │   ├── branch-comparison.schema.yaml
 │   ├── branch-lineage.schema.yaml
+│   ├── capability-show.schema.yaml
 │   ├── conversion.schema.yaml
 │   ├── dynamic-event.schema.yaml
 │   ├── mobilization-flow.schema.yaml
@@ -117,20 +142,23 @@ Power-Dynamics/
 │   ├── power-relation.schema.yaml
 │   ├── power-return.schema.yaml
 │   └── system-profile.schema.yaml
-├── sources/
-│   ├── concept-origin-map.md
-│   ├── corpus-map.md
-│   ├── epistemic-rules.md
-│   ├── README.md
-│   ├── source-status.md
-│   └── technical-evidence-map.md
-├── .gitignore
-├── CHANGELOG.md
-├── CONTRIBUTING.md
-├── GLOSSARY.md
-├── LICENSE.md
-├── PRINCIPLES.md
-├── README.md
-├── STATUS.md
-└── TREE.md
+├── showcase/
+│   ├── 01-capability-spectrum.md
+│   ├── 02-individual-to-federation.md
+│   ├── 03-composition-engine.md
+│   ├── 04-compounding-engine.md
+│   ├── 05-conversion-chains.md
+│   ├── 06-pre-political-chain.md
+│   ├── 07-component-power-matrix.md
+│   ├── 08-governance-after-capability.md
+│   ├── 09-why-this-is-not-just-software.md
+│   ├── 10-counterpower-and-optionality.md
+│   └── README.md
+└── sources/
+    ├── concept-origin-map.md
+    ├── corpus-map.md
+    ├── epistemic-rules.md
+    ├── README.md
+    ├── source-status.md
+    └── technical-evidence-map.md
 ```

@@ -1,0 +1,62 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Capability Show Profile
+type: object
+required:
+  - capability_name
+  - baseline_limitation
+  - generated_puissance
+properties:
+  capability_name:
+    type: string
+  scope:
+    type: string
+  baseline_limitation:
+    type: string
+  resources:
+    type: array
+    items: {}
+  mechanisms:
+    type: array
+    items: {}
+  capacities:
+    type: array
+    items: {}
+  generated_puissance:
+    type: array
+    items: {}
+  composition_gain:
+    type: array
+    items: {}
+  returns:
+    type: array
+    items: {}
+  compounding_loops:
+    type: array
+    items: {}
+  possible_power_relations:
+    type: array
+    items: {}
+  conversion_paths:
+    type: array
+    items: {}
+  blocked_conversions:
+    type: array
+    items: {}
+  counterpowers:
+    type: array
+    items: {}
+  branch_alternatives:
+    type: array
+    items: {}
+  evidence:
+    type: array
+    items: {}
+  maturity:
+    type:
+      - string
+      - 'null'
+  technical_evidence_confidence:
+    type:
+      - string
+      - 'null'
+additionalProperties: true

@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "4.0"
+version: "5.0"
 title: "Improvement, Support, Adoption, and Dominance"
 source_basis:
   - S13

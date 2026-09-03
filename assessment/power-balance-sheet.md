@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "4.0"
+version: "5.0"
 title: "Power Balance Sheet"
 ---
 # Power Balance Sheet

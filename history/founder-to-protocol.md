@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "4.0"
+version: "5.0"
 title: "Founder Power Across Phases"
 source_basis:
   - S18

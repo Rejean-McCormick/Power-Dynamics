@@ -1,8 +1,8 @@
 ---
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
-scope: "GENERAL"
-version: "4.0"
+scope: "kOA"
+version: "5.0"
 title: "kOA System Map"
 source_basis:
   - S13
@@ -14,21 +14,60 @@ source_basis:
 ---
 # kOA System Map
 
-The high-level chain is:
+The high-level capability chain is:
 
-`Contribution → Resolution of meaning → Structured knowledge → Collective choice → Governed work → Coordinated action → Experience → Reusable memory → New cycle`
+> **Contribution → Resolution of meaning → Structured knowledge → Discovery / credibility → Collective choice → Governed work → Coordinated action → Experience → Reusable memory → New cycle**
 
-A power-oriented map overlays the systems:
+## Capability map
 
-- **SemantiK / SenTient** — semantic structuration and ambiguity management;
-- **Kristal** — structured epistemic and mnemonic artifacts;
-- **Konnaxion** — circulation, public coordination, discovery, participation;
-- **Koali / EkoH** — credibility and recognition signals;
-- **SmartVote** — baseline and advisory readings, discoverability, decision support;
-- **Orgo** — routing, tasks, responsibility, escalation, closure, operational memory;
-- **Capsules / federation** — portability, local deployment, substitution, branch formation;
-- **AI** — cognitive acceleration under governance;
-- **brand / narrative** — transmission, affiliation, public orientation;
-- **multilingual semantics** — reach and semantic participation.
+```text
+SemantiK / SenTient
+  semantic structure
+        ↓
+Kristal
+  knowledge + provenance + memory
+        ↓
+Konnaxion
+  circulation + people + discovery
+        ↓
+Koali / EkoH
+  credibility context
+        ↓
+SmartVote
+  comparison + advice + choice
+        ↓
+Orgo
+  routing + responsibility + execution
+        ↓
+Outcomes
+        ↓
+Kristal / operational memory
+  reusable learning
+        ↺
+```
 
-The main constitutional problem is preventing one layer's useful centrality from silently becoming cross-domain sovereignty.
+Cross-cutting layers:
+
+- **AI** — cognitive amplification;
+- **Capsules / federation** — portability, deployment, substitution, branch formation;
+- **brand / narrative** — recognition, affiliation, transmission;
+- **multilingual semantics** — linguistic access and semantic participation.
+
+## Power overlay
+
+Each capability surface can also become a power surface:
+
+| Capability surface | Possible relational power |
+|---|---|
+| semantic structuration | classification / framing / ontology power |
+| knowledge validation | epistemic authority / standard-setting |
+| discoverability | ranking / visibility / agenda power |
+| credibility interpretation | recognition / standing / opportunity power |
+| decision support | default / weighting / advisory influence |
+| workflow | routing / timing / escalation / closure power |
+| memory | precedent / institutional-memory power |
+| federation infrastructure | signing / update / compatibility / registry power |
+| AI | hidden interpretation / prioritization power |
+| brand | attention / affiliation / legitimacy-by-association |
+
+The constitutional problem is therefore not whether kOA should be powerful. Its purpose is to generate capability. The problem is whether the relations created by successful capability remain **scoped, inspectable, contestable, substitutable, and evolvable**.

@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "4.0"
+version: "5.0"
 title: "What Power Dynamics Studies"
 source_basis:
   - S01
@@ -14,11 +14,13 @@ source_basis:
 ---
 # What Power Dynamics Studies
 
-Power Dynamics studies **effective possibility across time**.
+Power Dynamics has a deliberate double purpose.
 
-The field is broader than the study of authority and broader than the study of domination. It includes the processes by which actors become capable, coordinate, accumulate assets, generate collective capability, enter relations of influence or dependency, and leave reusable effects behind.
+First, it is a **map of capability**: what can an architecture such as kOA make individuals, groups, organizations, and federations effectively able to do?
 
-A complete analysis therefore asks both:
+Second, it is a **systems theory of social consequence**: what happens when those capabilities alter access, visibility, standing, allocation, dependency, authority, interpretation, coordination, or future possibility for others?
+
+The field therefore begins with two questions:
 
 > **What can this actor or system effectively do?**
 
@@ -26,8 +28,56 @@ and:
 
 > **Whose possibilities change because it can do that?**
 
-The first question concerns **puissance**. The second concerns **power**.
+The first concerns **puissance**. The second concerns **power**.
 
-Power Dynamics also studies the feedback between them. A power relation can generate returns — money, legitimacy, network access, data, standards, reputation, memory — that increase future puissance. Conversely, exit, substitution, competition, decay, or loss of legitimacy can reduce it.
+## Why kOA is a useful primary case
 
-The field is therefore best treated as a systems theory of capability creation, mediation, relational effects, accumulation, concentration, capture, pluralism, and evolutionary counterpower.
+kOA intentionally spans a large portion of the knowledge-to-action chain:
+
+> **Meaning → Knowledge → Visibility → Credibility → Deliberation → Decision → Execution → Memory**
+
+That makes it useful for studying how many forms of capability can compose:
+
+- semantic;
+- epistemic;
+- cognitive;
+- network;
+- reputational;
+- deliberative;
+- operational;
+- mnemonic;
+- infrastructural;
+- federative;
+- evolutionary.
+
+The repo therefore places the **kOA Power Show** in front of the theory. The theory then explains the mechanisms visible in the show.
+
+## Full lifecycle
+
+The canonical ontology is:
+
+> **Resources / Assets → Potential → Capacity → Puissance → Power Relation → Effect → Return**
+
+The dynamic lifecycle is:
+
+> **Formation → Mobilization → Composition → Conversion → Action / Relation → Return → Reinvestment → Compounding → Concentration / Contestation → Diversification / Evolution → Decay / Transfer**
+
+A return can be money, knowledge, code, reputation, network access, credibility, standards, infrastructure, memory, data, legitimacy, dependency, or optionality. These returns can increase or reduce future capability.
+
+## The field is broader than domination
+
+Power Dynamics studies:
+
+- empowerment;
+- generated collective capability;
+- infrastructure-mediated capability;
+- relational influence;
+- domination and dependency;
+- composition and conversion;
+- returns and compounding;
+- concentration and capture;
+- counterpower;
+- plurality and branch evolution;
+- decay, succession, and transfer.
+
+The normative question is not whether a system has power. Any sufficiently useful collective infrastructure will create consequential relations. The question is whether those relations remain **legible, scoped, contestable, substitutable, revocable, portable, and non-terminal**.

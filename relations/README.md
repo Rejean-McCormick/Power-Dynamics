@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "4.0"
+version: "5.0"
 title: "Power Relations"
 source_basis:
   - S01
@@ -17,38 +17,44 @@ source_basis:
 ---
 # Power Relations
 
+The Power Show maps **what actors become able to do**. This directory maps the next question:
+
+> **Whose possibilities change because that capability exists or is controlled?**
+
 Power is relational: mobilized puissance becomes power when it changes another actor's effective possibilities.
 
 ## Enabling and coordination power
 
-Relations that expand possibilities by granting access, recognition, coordination, legal standing, or infrastructure use. Enabling can become dependency if one actor becomes the only gateway.
+Relations that expand possibilities by granting access, recognition, coordination, legal standing, interoperability, or infrastructure use. Even enabling relations can become dependency when one actor becomes the only viable gateway.
 
 ## Access, gatekeeping, and allocation power
 
-Power over entry conditions and distribution of scarce resources, opportunities, credentials, services, or funding.
+Control over entry conditions and distribution of scarce resources, opportunities, credentials, services, funding, identity, or platform access.
 
 ## Visibility, ranking, agenda, and framing power
 
-Pre-political relations that shape what becomes seen, prominent, discussable, and interpretable before formal decisions occur.
+Pre-political relations that shape what becomes seen, prominent, discussable, interpretable, fundable, reusable, or adoptable.
 
 ## Recognition, standing, and certification power
 
-Relations that affect who is treated as competent, trustworthy, qualified, legitimate, or institutionally relevant. These can convert into opportunity, income, access, and influence.
+Relations that affect who is treated as competent, trustworthy, qualified, legitimate, or institutionally relevant.
 
 ## Semantic, constitutive, and standard-setting power
 
-Power exercised through definitions, classifications, ontologies, thresholds, translations, interoperability standards, and admissibility rules.
+Definitions, classifications, ontologies, thresholds, translations, formats, trust roots, interoperability contracts, and admissibility rules.
 
 ## Authority, administration, and enforcement power
 
-Recognized mandates, workflow control, routing, timing, assignment, escalation, closure, sanctions, compulsion, and denial of consequences.
+Mandates, routing, assignment, timing, escalation, closure, sanctions, compulsion, and denial of consequences.
 
-## Dependency, lock-in, and terminal power
+## Dependency, bottleneck, lock-in, and terminal power
 
-Relational leverage created when alternatives are costly or unavailable. Terminal power is the limiting case where capture or failure cannot be effectively verified, contested, substituted, reversed, or exited.
+Relational leverage created when alternatives are costly, slow, non-portable, unrecognized, or unavailable. Terminal power is the limiting case where capture or failure cannot be effectively verified, contested, substituted, reversed, or exited.
 
 ## Veto, blocking, and delay power
 
-Power exercised through preventing, slowing, queuing, withholding approval, or increasing procedural cost. Time is a political variable.
+Preventing, slowing, queuing, withholding approval, or increasing procedural cost. Time is a political variable.
 
-Power relations are not automatically illegitimate. Normative assessment depends on mandate, scope, proportionality, transparency, alternatives, dependency, and counterpower.
+Power relations are not automatically illegitimate. Assessment depends on mandate, scope, proportionality, transparency, alternatives, dependency, counterpower, and reversibility.
+
+See [`../showcase/07-component-power-matrix.md`](../showcase/07-component-power-matrix.md) for how these relations emerge around kOA components.

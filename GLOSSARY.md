@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "4.0"
+version: "5.0"
 title: "Canonical Glossary"
 source_basis:
   - S01
@@ -20,7 +20,7 @@ source_basis:
 ---
 # Canonical Glossary
 
-This glossary is normative for repository terminology. When a term is used differently in a source document, preserve the source meaning and explicitly distinguish it from the repository definition.
+This glossary is normative for repository terminology. It keeps the **kOA Power Show** expressive without allowing broad language such as “powerful” to collapse distinct analytical states. When a term is used differently in a source document, preserve the source meaning and explicitly distinguish it from the repository definition.
 
 ## Canonical distinctions
 
@@ -47,6 +47,30 @@ The repository deliberately keeps **puissance** in French even inside English pr
 - **capacity / capacité** — organized ability;
 - **puissance** — effectively mobilizable capacity;
 - **power / pouvoir relationnel** — relational shaping of another actor's effective possibilities.
+
+## Power Show terms
+
+**kOA Power Show** — the presentation layer of Power Dynamics that maps the forms of effective capability kOA can generate, compose, preserve, distribute, and evolve before analyzing the power relations created by successful capability.
+
+**Capability spectrum** — the set of distinct forms of potential, capacity, and puissance available to an actor or system across domains. In kOA this includes epistemic, semantic, cognitive, collective, network, credibility, decision, operational, mnemonic, technical, infrastructural, federative, exit, and evolutionary capability.
+
+**Capability loop** — a sequence in which one capability feeds the next. The canonical kOA loop is `Know → Choose → Act → Remember → Know better`.
+
+**Closed capability loop** — a capability loop in which outputs are sufficiently preserved and fed back as inputs that the system can learn from prior action rather than repeatedly restarting from near-zero institutional memory. “Closed” does not mean perfectly self-contained.
+
+**Composition engine** — shorthand for the architecture through which distinct capabilities become interoperable inputs to one another, creating higher-order or generated puissance.
+
+**Composition gain** — additional effective capability created because separate functions interoperate. It is the difference between possessing useful components and possessing a coherent capability system.
+
+**Compounding engine** — shorthand for feedback loops in which action produces reusable returns that lower the cost, increase the quality, or expand the scope of future action.
+
+**Capability infrastructure** — technical, semantic, institutional, or procedural infrastructure whose primary effect is to make future action easier, more reliable, more composable, or more reusable.
+
+**Capability surface** — a function or interface through which a system increases what actors can effectively do. A capability surface can later become a power surface if control over it changes other actors’ effective possibilities.
+
+**Power surface** — a function, interface, registry, role, default, gate, workflow, standard, or infrastructure boundary through which control can shape other actors’ access, standing, visibility, allocation, timing, interpretation, or ability to act.
+
+**Capability-to-power transition** — the point at which successful puissance becomes relationally consequential for other actors. This transition is central to the repository: the same function can be empowering as capability and politically consequential as a controlled gate.
 
 ## Ontology
 

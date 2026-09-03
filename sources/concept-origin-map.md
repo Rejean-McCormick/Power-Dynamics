@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "4.0"
+version: "5.0"
 title: "Concept Origin Map"
 source_basis:
 ---
@@ -10,6 +10,12 @@ source_basis:
 
 | Concept | Main basis | Status |
 |---|---|---|
+| kOA Power Show | S13, S15, S18, S21, S25 + presentation synthesis | NEW-CONCEPT / presentation layer |
+| Capability spectrum | corpus + Power Dynamics synthesis | NEW-CONCEPT |
+| Capability surface / power surface | corpus + Power Dynamics synthesis | NEW-CONCEPT |
+| Composition engine / composition gain | S13, S18, S21, S25 + synthesis | NEW-CONCEPT |
+| Closed capability loop | S13, S25 + synthesis | NEW-CONCEPT |
+| Compounding engine | S13, S21, S25, S26 + synthesis | NEW-CONCEPT |
 | Effective possibility / dependency | S01, S16 | ANALYTICAL-RECONSTRUCTION |
 | Resource → Potential → Capacity → Puissance → Power | S01, S13, S16, S18, S21, S25 + synthesis | NEW-CONCEPT / ontological refinement |
 | Three-axis ontology × dynamics × domains | corpus + Power Dynamics synthesis | NEW-CONCEPT |

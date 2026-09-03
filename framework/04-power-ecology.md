@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "4.0"
+version: "5.0"
 title: "Power Ecology"
 source_basis:
   - S13
@@ -14,22 +14,60 @@ source_basis:
 ---
 # Power Ecology
 
-A power ecology is a system in which multiple forms of resource, puissance, and relational power interact and feed one another.
+A **power ecology** is a system in which resources, forms of puissance, relations of power, returns, dependencies, and alternatives continuously interact.
 
-Typical conversions include:
+The kOA Power Show is best understood ecologically because no single capability explains the whole effect.
+
+## Capability ecology
+
+Typical capability-generating chains include:
+
+`knowledge → understanding → judgment → action`
+
+`network → collaborators → coordination → collective puissance`
+
+`memory → lower relearning cost → better future judgment`
+
+`AI + provenance + human governance → higher cognitive throughput`
+
+`portable infrastructure → substitution → stronger exit capacity`
+
+## Conversion ecology
+
+Typical cross-domain chains include:
 
 `knowledge → credibility → visibility → opportunity`
 
-`money → infrastructure → reach → influence`
+`execution → results → evidence → credibility`
 
 `brand → attention → affiliation → revenue`
 
-`execution → results → evidence → credibility`
+`money → infrastructure → reach → influence`
 
-`memory → better judgment → lower future coordination cost`
+`technical control → defaults → dependency → agenda leverage`
 
-`network → collaborators → collective puissance → outcomes`
+These chains can be productive, extractive, regenerative, or dangerous depending on who receives returns and whether conversions remain scoped.
 
-The ecological question is not simply “who has power?” but what resources are accumulated, what puissance they support, what conversions are possible, where returns accumulate, which nodes are bottlenecks, and what feedback loops reinforce incumbents or distribute capability.
+## Feedback ecology
 
-kOA is a useful primary case because its components deliberately occupy different positions in the knowledge-to-action loop.
+Power Dynamics therefore asks:
+
+- what resources are accumulated;
+- what puissance they support;
+- how capabilities compose;
+- how they are mobilized;
+- what power relations emerge;
+- what effects and returns are produced;
+- where returns accumulate;
+- which nodes become bottlenecks;
+- what dependencies form;
+- which counterpowers remain effective;
+- whether alternatives can survive and evolve.
+
+## kOA as a designed ecology
+
+kOA deliberately distributes capability across semantic, epistemic, social, decision, operational, mnemonic, technical, and federative layers. The design challenge is to obtain the **composition gain** without allowing one layer to silently convert its useful function into total cross-domain authority.
+
+The constitutional aspiration is therefore:
+
+> **Maximum composable capability; minimum terminal sovereignty.**
