@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "6.0"
+version: "6.1"
 title: "Epistemic and Semantic Power"
 source_basis:
   - S13
@@ -33,7 +33,9 @@ Epistemic puissance is the ability to produce, validate, compare, preserve, and 
 - classification power;
 - framing power;
 - admissibility power;
-- trust-root power.
+- trust-root power;
+- apparent-consensus power;
+- provenance-obscuration power.
 
 ## Core insight
 
@@ -44,3 +46,5 @@ Definitions affect what can count as harm, evidence, competence, fairness, or ac
 ## Counterpower
 
 Versioning, provenance, alternative readers, competing representations, local semantic governance, portability, and contestation keep epistemic capability from becoming ownership of truth.
+
+A further requirement is **causal-lineage legibility**: source count, citation count, credentials, popularity, and institutional presentation should not be treated as independent evidence when they derive from the same origin or cannot be verified.

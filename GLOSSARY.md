@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "6.0"
+version: "6.1"
 title: "Canonical Glossary"
 source_basis:
   - S01
@@ -468,3 +468,20 @@ Earlier drafts used several useful but broader expressions. They remain meaningf
 **Capability commons** — a body of reusable capability that multiple actors can access, reproduce, improve, or instantiate without requiring one terminal owner of the function.
 
 **Architect-confirmed design** — a current design intention confirmed in the working process but not yet supported by a canonical source document or direct implementation evidence. It must be labeled separately from source-derived or deployed claims.
+
+
+## Adversarial resilience terms
+
+**Rehearsed counterpower** — counterpower whose activation pathway has been practiced sufficiently that participants know how to recognize a problem, organize objection, invoke procedures, and preserve the result as institutional memory.
+
+**Founder opposition test** — resilience test asking whether a system can reject a founder-backed proposal while the founder remains influential. Distinct from the founder absence test.
+
+**Epistemic authority corruption** — process by which weak, dependent, misleading, or fabricated authority signals are converted into apparent credibility, consensus, or truth status.
+
+**Apparent source independence** — surface appearance that several sources independently support a claim.
+
+**Causal source independence** — support that arises from genuinely distinct evidentiary lineages rather than repeated dependence on the same origin.
+
+**Worldview fork** — a Kristal branch that intentionally changes assumptions, interpretive rules, or ontological commitments while preserving lineage to the branch from which it diverged.
+
+**Tattoo Protocol** — informal name for a reusable civic counterpower pattern derived from a proposed founder-opposition drill: isolate a problematic proposal, document it, mobilize evidence and expertise, organize contestation, seek correction, and preserve the postmortem as reusable memory.

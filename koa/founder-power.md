@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "6.0"
+version: "6.1"
 title: "Founder Power"
 source_basis:
   - S18
@@ -24,3 +24,13 @@ The desired trajectory is not merely to constrain founder power after it exists.
 > **Founder-powered → Architecture-powered → Protocol-powered → Ecosystem-powered**
 
 Koali duplicability, open specifications, reproducible deployments, branch mobility, and public ethical self-binding are examples of this transition.
+
+
+## Founder fallibility as a power condition
+
+Long-lived systems should assume that a founder will eventually be wrong about something. Founder resilience therefore has two separate tests:
+
+1. **absence test** — can the system continue without the founder?
+2. **opposition test** — can the system reject the founder's proposal while the founder remains influential?
+
+The second test matters because symbolic or reputational authority can survive technical decentralization. A founder-independent protocol with a founder-dependent culture remains partially centralized.

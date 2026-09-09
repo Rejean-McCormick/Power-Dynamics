@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "6.0"
+version: "6.1"
 title: "Founder Decentering"
 source_basis:
   - S18
@@ -46,3 +46,25 @@ founder narrative
 ```
 
 This is **power redirection**: leverage that could remain attached to the founder is converted into capability that other actors can reuse independently.
+
+
+## Founder fallibility and opposition rehearsal
+
+Independent reproducibility is necessary but not sufficient. A community can reproduce the system technically while remaining socially dependent on the founder's interpretive or symbolic authority.
+
+The stronger criterion is:
+
+> **The system can continue when the founder is absent, and it can correct the founder when the founder is present and wrong.**
+
+This adds a distinct transition:
+
+```text
+founder centrality
+→ published limits
+→ practical contestation
+→ rehearsed opposition
+→ precedent of legitimate disagreement
+→ lower symbolic dependency
+```
+
+Founder error should be treated as an expected long-run condition, not an exceptional edge case. A durable system should therefore make disagreement, amendment, branch formation, and opposition procedurally and culturally usable before they become necessary in a high-stakes crisis.

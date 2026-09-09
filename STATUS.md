@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "6.0"
+version: "6.1"
 title: "Repository Status"
 source_basis:
   - S01
@@ -17,7 +17,7 @@ source_basis:
 ---
 # Repository Status
 
-Version 6 makes the original **kOA Power Show** legible at first glance and adds a full **cross-domain Power Surface**.
+Version 6.1 retains the **kOA Power Show** and cross-domain Power Surface while strengthening adversarial resilience around founder authority, epistemic credibility, and plural Kristal branches.
 
 ## Presentation architecture
 
@@ -27,18 +27,16 @@ The analytical engine remains:
 
 > **ontology × dynamics × domains**
 
-## Major v6 changes
+## Major v6.1 changes
 
-- a one-page answer to **Why is kOA immensely powerful?**;
-- `POWER-SURFACE.md` as the master map of kOA capability and relational power;
-- explicit separation of **political**, **economic**, and **monetary** power;
-- 14 detailed domain profiles;
-- a cross-domain conversion framework;
-- explicit maps for money → infrastructure → influence, knowledge → credibility → agenda, brand → affiliation → revenue, and technical control → dependency;
-- Power Conversion Firewalls integrated into the front-stage Power Show;
-- power routing treated as a multiplier of capability rather than merely a defensive constraint;
-- ethical fiction, Koali protocolization, self-hosting, branch mobility, and democratic allocation placed in one routing architecture;
-- a Power Surface Audit and machine-readable domain/surface schemas.
+- added founder opposition as a distinct resilience test beyond founder absence;
+- introduced **rehearsed counterpower**: practiced opposition pathways can be stronger than merely formal rights;
+- added a founder-backed civic fire-drill case and reusable **Tattoo Protocol** concept;
+- added an epistemic authority corruption case using a known-false worldview as a stress test;
+- distinguished apparent source multiplicity from causal independence;
+- clarified that Kristal forkability permits incompatible worldviews without implying equal evidentiary support;
+- added reference-stewardship firewalls: maintained reference ≠ monopoly on truth;
+- recorded architect-confirmed directions for proposed UNESCO stewardship, worldview forks, and adversarial resilience drills without presenting them as implemented facts.
 
 ## Current core
 

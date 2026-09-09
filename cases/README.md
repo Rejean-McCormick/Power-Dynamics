@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "6.0"
+version: "6.1"
 title: "Case Studies"
 source_basis:
 ---
@@ -35,4 +35,6 @@ Notable cases include:
 - AI hidden sovereignty;
 - KingCoin as a legacy stress test.
 
-- [`ethical-fiction-self-binding.md`](ethical-fiction-self-binding.md) — publishing ethical limits inside a narrative as a form of symbolic self-binding.
+- [`ethical-fiction-self-binding.md`](ethical-fiction-self-binding.md) — publishing ethical limits inside a narrative as a form of symbolic self-binding;
+- [`founder-opposition-rehearsal.md`](founder-opposition-rehearsal.md) — civic fire-drill logic for practicing legitimate opposition to founder authority;
+- [`epistemic-authority-corruption.md`](epistemic-authority-corruption.md) — adversarial Kristal stress test for apparent authority, source dependence, and false consensus.

@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "kOA"
-version: "6.0"
+version: "6.1"
 title: "Ethical Fiction as Narrative Self-Binding"
 source_basis:
   - S02
@@ -59,3 +59,20 @@ They do not prove that a founder, community, brand, or future branch will behave
 The constitutional objective is therefore:
 
 > **Narrative may mobilize, but it should also carry the instructions for resisting its own capture.**
+
+
+## Trickster function as counterpower training
+
+Narrative self-binding can go beyond publishing limits. A trickster figure can also create an adversarial but bounded situation in which readers or participants must **use those limits against the symbolic figure itself**.
+
+In Power Dynamics terms, this converts narrative centrality into a training surface for counterpower:
+
+```text
+symbolic authority
+→ deliberate contradiction or provocation
+→ public scrutiny
+→ organized objection
+→ practiced resistance to symbolic authority
+```
+
+The important output is not obedience to the trickster's intended lesson. It is a precedent that the persona can be challenged, analyzed, rejected in part, and prevented from converting attention into unquestionable authority.

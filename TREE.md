@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "6.0"
+version: "6.1"
 title: "Repository Tree"
 ---
 # Repository Tree
@@ -45,8 +45,10 @@ Power-Dynamics-v6/
 │   ├── brand-merchandise-affiliation.md
 │   ├── competing-kristals.md
 │   ├── desjardins-stacking.md
+│   ├── epistemic-authority-corruption.md
 │   ├── ethical-fiction-self-binding.md
 │   ├── founder-identity-optionality.md
+│   ├── founder-opposition-rehearsal.md
 │   ├── kingcoin-legacy-stress-test.md
 │   ├── media-and-state.md
 │   ├── README.md

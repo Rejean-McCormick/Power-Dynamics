@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "6.0"
+version: "6.1"
 title: "Cross-Domain Power Conversion"
 source_basis:
   - S01
@@ -39,6 +39,9 @@ visibility → audience → opportunity
 money → purchase / funding → infrastructure
 infrastructure → dependency → bargaining leverage
 brand → affiliation → revenue
+founder / persona → trust → agenda leverage
+citation volume → apparent consensus → epistemic authority
+reference stewardship → canon visibility → truth-monopoly risk
 administrative control → defaults → de facto policy
 ```
 

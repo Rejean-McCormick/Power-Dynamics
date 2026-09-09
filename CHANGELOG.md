@@ -2,10 +2,23 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "6.0"
+version: "6.1"
 title: "Changelog"
 ---
 # Changelog
+
+
+## 6.1 — Adversarial Resilience
+
+- Added founder fallibility as an explicit long-run power condition.
+- Added `cases/founder-opposition-rehearsal.md` with civic fire-drill / Tattoo Protocol logic.
+- Added `cases/epistemic-authority-corruption.md` for adversarial Kristal analysis.
+- Added **rehearsed counterpower** as a distinction from merely formal counterpower.
+- Strengthened founder decentering with an opposition test in addition to the absence test.
+- Clarified `Forkability ≠ Epistemic Equivalence`.
+- Added apparent-independence vs causal-independence analysis for citations and sources.
+- Added founder/persona, reference-stewardship, and citation-independence conversion firewalls.
+- Recorded architect-confirmed design directions for proposed reference Kristal stewardship and adversarial drills.
 
 
 ## 6.0 — Power Surface

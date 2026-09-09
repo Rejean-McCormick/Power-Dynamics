@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "6.0"
+version: "6.1"
 title: "Power Dynamics"
 source_basis:
   - S01
@@ -218,6 +218,16 @@ The canonical sequence becomes:
 > **Generate → Compose → Close → Preserve → Compound → Convert → Route → Share → Bind → Contest → Fork → Evolve**
 
 See [`POWER-ROUTING.md`](POWER-ROUTING.md).
+
+## Power must survive adversarial use
+
+A non-dominating architecture should not depend on benevolent actors, perfect founders, or honest knowledge producers. Power Dynamics now makes three resilience tests explicit:
+
+- **founder opposition** — can participants reject a founder-backed proposal without abandoning the whole system?
+- **epistemic corruption** — can misleading authority signals, dependent sources, and false consensus be exposed through provenance and comparison?
+- **plural worldview branching** — can incompatible Kristals coexist without turning forkability into a claim of equal evidentiary support?
+
+These are treated as power questions because symbolic authority, credibility, and reference stewardship can all convert into leverage outside their intended domain. See [`cases/founder-opposition-rehearsal.md`](cases/founder-opposition-rehearsal.md) and [`cases/epistemic-authority-corruption.md`](cases/epistemic-authority-corruption.md).
 
 ## Power Conversion Firewalls
 

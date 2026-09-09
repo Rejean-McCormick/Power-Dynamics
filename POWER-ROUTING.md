@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "kOA"
-version: "6.0"
+version: "6.1"
 title: "Power Routing, Sharing, and Devolution"
 source_basis:
   - S02
@@ -37,6 +37,8 @@ OPTIONALITY→ who can refuse, leave, reproduce, fork, or wait?
 | Source of leverage | Concentrating default | Routing / sharing mechanism | Intended destination |
 |---|---|---|---|
 | Founder knowledge | permanent founder dependency | documentation, schemas, protocolization, tests | maintainers, branches, independent operators |
+| Founder / persona authority | deference becomes policy or truth immunity | published fallibility, contestation, opposition rehearsal | independent public judgment |
+| Reference knowledge branch | reference becomes truth monopoly | forkability, lineage, evidence comparison | plural epistemic capacity |
 | Narrative attention | founder/persona centrality | explicit ethics, self-critique, attribution, anti-domination | public principles, procedures, critical readers |
 | Brand | trademark becomes protocol sovereignty | brand stewardship separated from protocol | protocol commons + bounded official brand |
 | Koali credibility infrastructure | one owner defines standing | plural distributions, portable evidence, explicit policy identity | communities, domains, alternative operators |

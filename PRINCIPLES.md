@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "6.0"
+version: "6.1"
 title: "Principles"
 source_basis:
   - S01
@@ -134,3 +134,12 @@ Power Dynamics begins from an affirmative premise: **people and collectives shou
 78. **Brand stewardship and protocol governance are distinct.** 
 79. **The system should remain capable of learning from its own alternatives.** 
 
+
+
+## Adversarial resilience
+
+80. **Founder fallibility is expected.** A durable system must survive both founder absence and founder error.
+81. **Counterpower should be rehearsable.** Formal opposition rights are weaker than practiced, socially legitimate opposition pathways.
+82. **Forkability does not imply epistemic equivalence.** Incompatible worldviews may coexist while evidence, provenance, contradiction, uncertainty, and lineage remain comparable.
+83. **Apparent multiplicity is not independent confirmation.** Source and credibility systems should distinguish surface count from causal independence where provenance permits.
+84. **A reference branch must remain a reference, not a monopoly on reality.** Stewardship can maintain coherence without eliminating the right to branch, contest, reinterpret, or simulate alternatives.

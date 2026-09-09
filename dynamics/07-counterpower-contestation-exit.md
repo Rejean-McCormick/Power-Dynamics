@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "6.0"
+version: "6.1"
 title: "Counterpower: Verification, Contestation, Substitution, Exit"
 source_basis:
   - S01
@@ -25,3 +25,20 @@ Counterpower is practical capacity to alter the terms of a power relation.
 These are gradients, not checkboxes.
 
 Branch systems add **branch mobility**: an alternative must be able not only to exist but to become discoverable, credible, interoperable, supported, and viable.
+
+
+## Counterpower can be trained
+
+Effective counterpower depends not only on available mechanisms but on practiced activation. Drills can reveal whether participants know how to identify a problem, assemble evidence, coordinate objection, invoke procedures, form alternatives, and preserve the result as institutional memory.
+
+This creates a compounding loop:
+
+```text
+contestable event
+→ exercised counterpower
+→ procedural memory
+→ lower future coordination cost
+→ stronger future counterpower
+```
+
+A system that repeatedly practices legitimate disagreement can become more resistant to later capture even when the later failure is subtler than the original exercise.
