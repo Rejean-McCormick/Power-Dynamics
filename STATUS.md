@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "6.1"
+version: "6.2"
 title: "Repository Status"
 source_basis:
   - S01
@@ -17,7 +17,7 @@ source_basis:
 ---
 # Repository Status
 
-Version 6.1 retains the **kOA Power Show** and cross-domain Power Surface while strengthening adversarial resilience around founder authority, epistemic credibility, and plural Kristal branches.
+Version 6.2 retains the **kOA Power Show** and cross-domain Power Surface while strengthening adversarial resilience around founder authority, epistemic credibility, and plural Kristal branches.
 
 ## Presentation architecture
 
@@ -27,7 +27,21 @@ The analytical engine remains:
 
 > **ontology × dynamics × domains**
 
-## Major v6.1 changes
+## Major v6.2 changes
+
+- added `Academic-Lineage/` as a structured external-research layer;
+- connected relational power and dependency to Dahl, Emerson, Cook et al., and Resource Dependence Theory;
+- connected federation and institutional structure to Ostrom and the institutional-grammar tradition;
+- added standards / compatibility failure modes from modularity, network-effects, excess-inertia, and path-dependence research;
+- connected forkability and founder decentering to exit / voice, open-source governance, and peer-production research;
+- added network-power, brokerage, social-capital, and cumulative-advantage lineages;
+- added a dedicated SmartVote / expertise lineage covering domain-specific expertise, calibrated expert judgment, select crowds, diversity, and social-choice impossibility / manipulation results;
+- added classification, infrastructure, code-as-governance, epistemic injustice, argumentation, belief revision, and cybernetic feedback references;
+- added collective-action, diffusion, threshold, capability, concerted-power, and legibility lineages;
+- explicitly distinguished **academic correspondence** from endorsement, historical influence, or implementation validation;
+- proposed **Installed-Base Power** and **interface power** as explicit audit targets for future framework integration.
+
+### Retained v6.1 adversarial-resilience additions
 
 - added founder opposition as a distinct resilience test beyond founder absence;
 - introduced **rehearsed counterpower**: practiced opposition pathways can be stronger than merely formal rights;

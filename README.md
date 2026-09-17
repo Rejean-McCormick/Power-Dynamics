@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "6.1"
+version: "6.2"
 title: "Power Dynamics"
 source_basis:
   - S01
@@ -218,6 +218,24 @@ The canonical sequence becomes:
 > **Generate → Compose → Close → Preserve → Compound → Convert → Route → Share → Bind → Contest → Fork → Evolve**
 
 See [`POWER-ROUTING.md`](POWER-ROUTING.md).
+
+## Academic lineage and external challenge
+
+Power Dynamics now includes a structured [`Academic-Lineage/`](Academic-Lineage/README.md) layer connecting the framework to established work on relational power, dependency, polycentric governance, institutional grammar, modularity, standards lock-in, path dependence, exit / voice, open-source governance, network power, expertise, collective judgment, metric gaming, classification, infrastructure, social epistemology, and cybernetics.
+
+The purpose is **not** to claim endorsement or retrospective influence. The literature is used to name known failure modes, supply established mechanisms, expose impossibility constraints, and sharpen the tests that kOA must survive.
+
+A recurring result is that the architecture must distinguish:
+
+- capability from dependency;
+- expertise from political sovereignty;
+- compatibility from constitutional subordination;
+- decentralization from absence of hidden standards power;
+- reputation from truth;
+- forkability from practical exit;
+- provenance from epistemic authority.
+
+See [`Academic-Lineage/README.md`](Academic-Lineage/README.md) and [`Academic-Lineage/BIBLIOGRAPHY.md`](Academic-Lineage/BIBLIOGRAPHY.md).
 
 ## Power must survive adversarial use
 

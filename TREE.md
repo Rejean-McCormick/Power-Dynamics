@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "6.1"
+version: "6.2"
 title: "Repository Tree"
 ---
 # Repository Tree
@@ -19,6 +19,21 @@ Power-Dynamics-v6/
 │   │   ├── power-audit.md
 │   │   └── power-surface-audit.md
 │   └── PULL_REQUEST_TEMPLATE.md
+├── Academic-Lineage/
+│   ├── 01-power-dependence-and-domination.md
+│   ├── 02-polycentric-governance-and-institutions.md
+│   ├── 03-modularity-standards-and-path-dependence.md
+│   ├── 04-open-source-exit-fork-and-peer-production.md
+│   ├── 05-network-power-and-social-capital.md
+│   ├── 06-expertise-smartvote-and-collective-judgment.md
+│   ├── 07-metrics-reputation-and-gaming.md
+│   ├── 08-classification-infrastructure-and-code.md
+│   ├── 09-epistemic-power-provenance-and-plurality.md
+│   ├── 10-systems-cybernetics-and-adaptation.md
+│   ├── 11-collective-action-mobilization-and-diffusion.md
+│   ├── 12-capabilities-concerted-power-and-legibility.md
+│   ├── BIBLIOGRAPHY.md
+│   └── README.md
 ├── assessment/
 │   ├── analysis-method.md
 │   ├── branch-comparison.md

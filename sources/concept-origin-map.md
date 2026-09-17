@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "6.0"
+version: "6.2"
 title: "Concept Origin Map"
 source_basis:
 ---
@@ -47,3 +47,6 @@ source_basis:
 | Political / Economic / Monetary separation | S09, S10, S11, S14, S15, S17, S18 + synthesis | ANALYTICAL-RECONSTRUCTION |
 | Cross-Domain Power Conversion | S10, S14, S15, S18, S26 + synthesis | NEW-CONCEPT / framework refinement |
 | Breadth × Composition × Closure × Memory × Compounding × Replication × Routing | corpus + Power Dynamics synthesis | NEW-CONCEPT / v6 summary formula |
+| Academic lineage layer | external literature used for comparison / challenge, not presumed historical influence | EXTERNAL-RESEARCH / NON-ORIGINATING |
+| Installed-Base Power | standards / network-effects literature + Power Dynamics synthesis | PROPOSED-CONCEPT / external-research-informed |
+| Interface power | modularity / standards literature + Power Dynamics synthesis | PROPOSED-CONCEPT / external-research-informed |

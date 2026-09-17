@@ -2,10 +2,29 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "6.1"
+version: "6.2"
 title: "Changelog"
 ---
 # Changelog
+
+## 6.2 — Academic Lineage
+
+- Added `Academic-Lineage/` with ten thematic crosswalks plus a selective bibliography.
+- Added relational-power and dependence lineages: Dahl, Emerson, Cook et al., Pfeffer & Salancik, French & Raven, Lukes, Pettit.
+- Added polycentric-governance and institutional-grammar lineages: Ostrom and Crawford & Ostrom.
+- Added modularity / standards / lock-in / path-dependence lineages: Simon, Baldwin & Clark, Farrell & Saloner, Katz & Shapiro, Pierson.
+- Added exit / voice / fork / peer-production lineages: Hirschman, Nyman & Lindman, O'Mahony & Ferraro, Benkler.
+- Added network-power lineages: Freeman, Bonacich, Granovetter, Burt, Coleman.
+- Added SmartVote / expertise lineages: Chi et al., Ericsson & Lehmann, Goldman, Cooke, Budescu & Chen, Mannes et al., Hong & Page, plus Arrow / Gibbard / Satterthwaite constraints.
+- Added metric-gaming and cumulative-advantage lineages: Campbell and Merton.
+- Added technology-as-governance lineages: Winner, Lessig, Bowker & Star, Star & Ruhleder.
+- Added epistemic-power and revision lineages: Fricker, AGM belief revision, Dung argumentation.
+- Added systems / cybernetics lineages: Ashby, Beer, Meadows.
+- Added collective-action / mobilization lineages: Olson, McCarthy & Zald, Granovetter threshold models, Rogers, Centola.
+- Added capability / concerted-power / legibility lineages: Sen, Arendt, James C. Scott; plus Morriss, Foucault, and Crozier & Friedberg in the power-theory layer.
+- Added explicit academic-claim discipline: correspondence is not endorsement, historical influence, or implementation validation.
+- Proposed `Installed-Base Power` and interface governance as future first-class Power Dynamics concepts.
+
 
 
 ## 6.1 — Adversarial Resilience
