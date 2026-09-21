@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "6.2"
+version: "6.3"
 title: "Power Dynamics"
 source_basis:
   - S01
@@ -30,7 +30,7 @@ source_basis:
 
 The shortest formula is:
 
-> **Breadth × Composition × Closure × Memory × Compounding × Replication × Routing**
+> **Breadth × Composition × Closure × Memory × Compounding × Propagation × Replication × Routing**
 
 ```text
 People + knowledge + AI + networks + credibility + money + tools
@@ -172,6 +172,23 @@ This is why kOA can become more capable over time instead of resetting after eac
 
 See [`showcase/04-compounding-engine.md`](showcase/04-compounding-engine.md).
 
+
+## The propagation effect: returns can activate capability elsewhere
+
+Compounding is not the same as propagation.
+
+```text
+compounding: A acts → A receives a reusable return → A becomes more capable
+propagation: A acts → a reusable return lowers the activation barrier for B
+coupled propagation: A strengthens B → B strengthens C → C returns capability to A
+```
+
+This matters for kOA because different branches can return different assets — money, evidence, credibility, code, tools, operators, integrations, language resources, documentation, and institutional access — and those assets can be reused by other branches.
+
+The result can be a network of coupled loops rather than one growth flywheel.
+
+See [`PROPAGATION.md`](PROPAGATION.md) and [`showcase/15-propagation-engine.md`](showcase/15-propagation-engine.md).
+
 ## The third multiplication effect: cross-domain conversion
 
 Power rarely stays in one domain.
@@ -215,7 +232,7 @@ Examples:
 
 The canonical sequence becomes:
 
-> **Generate → Compose → Close → Preserve → Compound → Convert → Route → Share → Bind → Contest → Fork → Evolve**
+> **Generate → Compose → Close → Preserve → Compound → Propagate → Convert → Route → Share → Bind → Contest → Fork → Evolve**
 
 See [`POWER-ROUTING.md`](POWER-ROUTING.md).
 

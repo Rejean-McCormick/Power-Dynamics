@@ -2,10 +2,24 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "6.2"
+version: "6.3"
 title: "Changelog"
 ---
 # Changelog
+
+## 6.3 — Propagation & Coupled Loops
+
+- Added top-level `PROPAGATION.md`.
+- Distinguished **compounding** (returns deepen capability) from **propagation** (returns activate capability elsewhere).
+- Added **coupled propagation** for cross-loop return exchange.
+- Added `propagation/` deep-dive layer and kOA loop catalog.
+- Added propagation audit and feedback-loop / coupled-loop schemas.
+- Added adoption stack: notice → understand → examine → contextualize → try → deploy → local value → independent mastery → optional federation.
+- Added cross-branch return classes: money, code, evidence, credibility, relationships, knowledge, operators, language assets, integrations, content, brand, and technical legitimacy.
+- Added explicit damping / runaway-prevention analysis.
+- Added founder-absence as a measurable propagation criterion.
+- Added S29 architect-confirmed propagation notes for Worlds, cinematic demonstrations, machine-readable documentation, multilingual scaling, cultural diffusion, pre-exposure discipline, and movement self-use.
+- Extended Power Show formula to **Breadth × Composition × Closure × Memory × Compounding × Propagation × Replication × Routing**.
 
 ## 6.2 — Academic Lineage
 

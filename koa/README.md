@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "kOA"
-version: "6.0"
+version: "6.3"
 title: "kOA as a Capability and Power Ecology"
 source_basis:
   - S13
@@ -24,13 +24,14 @@ The Power Show asks:
 2. **How does that capability compose with other subsystems?**
 3. **What returns does successful action preserve?**
 4. **How does the result increase later capability?**
+5. **Can those returns activate capability in another branch, actor, deployment, or community?**
 
 Power Dynamics then asks:
 
-5. **What power relations arise around successful use?**
-6. **What conversion, stacking, capture, or dependency risks appear?**
-7. **What counterpowers exist?**
-8. **Can alternative branches remain viable and evolve?**
+6. **What power relations arise around successful use?**
+7. **What conversion, stacking, capture, or dependency risks appear?**
+8. **What counterpowers exist?**
+9. **Can alternative branches remain viable and evolve?**
 
 ## kOA capability stack
 
@@ -54,4 +55,4 @@ The primary system map is [`system-map.md`](system-map.md). The broader showcase
 kOA should also be read across domains rather than only by component. The same component can generate epistemic, political, economic, administrative, narrative, or infrastructural effects through conversion.
 
 See [`../POWER-SURFACE.md`](../POWER-SURFACE.md) and [`../domains/README.md`](../domains/README.md).
-
+- [`propagation-adoption.md`](propagation-adoption.md) — how local value, demonstrations, deployment tooling, human replication, integration, multilingual access, and cross-branch returns can combine into an adoption and propagation ecology.

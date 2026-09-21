@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "6.2"
+version: "6.3"
 title: "Repository Status"
 source_basis:
   - S01
@@ -17,15 +17,28 @@ source_basis:
 ---
 # Repository Status
 
-Version 6.2 retains the **kOA Power Show** and cross-domain Power Surface while strengthening adversarial resilience around founder authority, epistemic credibility, and plural Kristal branches.
+Version 6.3 retains the **kOA Power Show** and cross-domain Power Surface while strengthening adversarial resilience around founder authority, epistemic credibility, and plural Kristal branches.
 
 ## Presentation architecture
 
-> **Why kOA is powerful → Power Surface → Composition → Closure → Compounding → Cross-Domain Conversion → Power Routing → Constitution → Evolution**
+> **Why kOA is powerful → Power Surface → Composition → Closure → Compounding → Propagation → Cross-Domain Conversion → Power Routing → Constitution → Evolution**
 
 The analytical engine remains:
 
 > **ontology × dynamics × domains**
+
+## Major v6.3 changes
+
+- added `PROPAGATION.md` as the canonical map for propagation and coupled feedback loops;
+- formally separated **compounding** from **propagation**;
+- added `propagation/` with adoption barriers, coupled loops, cross-branch returns, distribution surfaces, founder-absence tests, damping, metrics, and a kOA loop catalog;
+- added `dynamics/13-propagation-and-coupled-loops.md`;
+- added `koa/propagation-adoption.md` and `showcase/15-propagation-engine.md`;
+- added `assessment/propagation-audit.md`;
+- added `feedback-loop` and `coupled-loop` schemas;
+- recorded architect-confirmed propagation tooling / design notes as S29, including Worlds, cinematic demonstrations, machine-readable documentation, multilingual scale, cross-branch returns, movement self-use, and founder exposure optionality;
+- made the epistemic distinction `contacted ≠ familiar ≠ supportive`, `simulation ≠ evidence`, and `persona optionality ≠ system resilience` explicit;
+- added the canonical propagation condition: **healthy propagation increases distributed capability faster than terminal dependency**.
 
 ## Major v6.2 changes
 
@@ -56,7 +69,7 @@ The analytical engine remains:
 
 - `Resource → Potential → Capacity → Puissance → Power Relation → Effect → Return`;
 - `Know → Choose → Act → Remember → Know better`;
-- Breadth × Composition × Closure × Memory × Compounding × Replication × Routing;
+- Breadth × Composition × Closure × Memory × Compounding × Propagation × Replication × Routing;
 - political power as a pre-political-through-execution chain;
 - economic puissance and allocation power;
 - monetary power as rail / issuance / liquidity / settlement / credit power;

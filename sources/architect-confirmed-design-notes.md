@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "USER-CONFIRMED-DESIGN"
 scope: "kOA"
-version: "6.1"
+version: "6.3"
 title: "Architect-Confirmed Design Notes"
 source_basis:
 ---
@@ -77,3 +77,24 @@ Current intention:
 > A deliberately false flat-Earth Kristal branch should be used as an adversarial epistemic stress test to study how weak, dependent, misleading, or fabricated authority signals can accumulate into apparent credibility and consensus.
 
 The primary intended output is a postmortem taxonomy of corruption patterns and detection failures. This note records the threat-model direction, not an operational procedure for deceiving external institutions or audiences.
+
+
+## Propagation and coupled loops
+
+Current intention:
+
+> kOA should be analyzed not only as a set of compounding capabilities but as a network of partially independent propagation loops whose returns can be reused across branches.
+
+Examples include:
+
+- revenue → shared development capacity;
+- evidence → credibility → institutional access;
+- training → independent operator → more deployments;
+- integration → wider capability → more integration demand;
+- language support → community access → contribution → improved language assets;
+- documentation → lower review cost → feedback → better documentation;
+- founder knowledge → protocol / tools / documentation → reduced founder bottleneck.
+
+The design requirement is that positive feedback increase distributed capability without automatically increasing terminal authority or dependency at the same rate.
+
+See `sources/propagation-design-notes.md` for the current detailed record.

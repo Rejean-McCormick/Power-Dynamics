@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "6.1"
+version: "6.3"
 title: "Principles"
 source_basis:
   - S01
@@ -143,3 +143,16 @@ Power Dynamics begins from an affirmative premise: **people and collectives shou
 82. **Forkability does not imply epistemic equivalence.** Incompatible worldviews may coexist while evidence, provenance, contradiction, uncertainty, and lineage remain comparable.
 83. **Apparent multiplicity is not independent confirmation.** Source and credibility systems should distinguish surface count from causal independence where provenance permits.
 84. **A reference branch must remain a reference, not a monopoly on reality.** Stewardship can maintain coherence without eliminating the right to branch, contest, reinterpret, or simulate alternatives.
+
+## Propagate capability without propagating dependency
+
+- **Compounding and propagation are distinct.** A system can become more capable without making capability easier to activate elsewhere.
+- **Reusable returns should cross branch boundaries when doing so increases common capability without silently transferring unrelated authority.**
+- **Healthy propagation lowers activation barriers for other actors.** It should not merely increase dependence on a central operator.
+- **Cross-loop coupling must be legible.** If revenue, credibility, evidence, brand, tooling, or standards feed another domain, the conversion path should be inspectable.
+- **Positive feedback requires governors.** Growth in expertise, brand, money, integration, federation, AI output, or founder recognition must not automatically become terminal sovereignty.
+- **Founder absence is a capability test.** A mature system should continue to operate, reproduce, teach, contest, and evolve without requiring continuous founder intervention.
+- **Simulation and demonstration are not adoption evidence.** Worlds, scenarios, and cinematic tours must remain epistemically separate from real use.
+- **Contact is not endorsement.** Outreach may create future recognition, but `contacted ≠ read ≠ familiar ≠ supportive ≠ partner`.
+- **Multiplicity at the periphery; simplicity at the center.** Many cultural, technical, linguistic, or institutional entry paths should converge on the same inspectable architecture and evidence.
+- **The goal is not maximum acceleration.** The system should preserve the ability to pause, remain local, defer federation, fork, or operate at a sustainable pace.

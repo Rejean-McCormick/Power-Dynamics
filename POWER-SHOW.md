@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "kOA"
-version: "6.0"
+version: "6.3"
 title: "The kOA Power Show"
 source_basis:
   - S02
@@ -30,7 +30,7 @@ Then ask what happens when those capabilities become socially consequential.
 
 kOA is immensely powerful because it can connect **meaning, knowledge, AI, discovery, credibility, networks, deliberation, political choice, economic allocation, coordination, execution, memory, infrastructure, federation, and institutional evolution** inside a recursive loop. The result is not merely more information. It is the possibility of turning distributed resources into collective agency, preserving the returns of action, reinvesting them, reproducing the capability elsewhere, and routing important forms of leverage away from terminal ownership.
 
-> **Breadth × Composition × Closure × Memory × Compounding × Replication × Routing**
+> **Breadth × Composition × Closure × Memory × Compounding × Propagation × Replication × Routing**
 
 ## 1. Breadth — many forms of puissance
 
@@ -126,6 +126,25 @@ Puissance
 Returns can include knowledge, code, tools, data, credibility, network, reputation, money, infrastructure, access, and optionality.
 
 This is the **compounding engine**.
+
+
+## 5A. Propagation — returns can activate capability elsewhere
+
+A system can compound internally without becoming easier for anyone else to reproduce or adopt.
+
+Propagation begins when reusable returns cross boundaries:
+
+```text
+revenue → development capacity
+pilot → evidence → credibility → institutional access
+training → operator → independent deployment
+documentation → lower review cost → external feedback
+integration → broader capability → new integration demand
+```
+
+When several such loops exchange returns, kOA can exhibit **coupled propagation**.
+
+See [`PROPAGATION.md`](PROPAGATION.md) and [`showcase/15-propagation-engine.md`](showcase/15-propagation-engine.md).
 
 ## 6. Cross-domain conversion — one capability unlocks another
 

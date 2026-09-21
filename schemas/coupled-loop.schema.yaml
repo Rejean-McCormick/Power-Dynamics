@@ -1,0 +1,57 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Coupled Feedback Loops
+type: object
+required:
+  - id
+  - loops
+  - transfers
+properties:
+  id:
+    type: string
+  name:
+    type:
+      - string
+      - 'null'
+  loops:
+    type: array
+    minItems: 2
+  transfers:
+    type: array
+    items:
+      type: object
+      required:
+        - from_loop
+        - to_loop
+        - asset
+      properties:
+        from_loop:
+          type: string
+        to_loop:
+          type: string
+        asset:
+          type: string
+        conversion_cost:
+          type:
+            - string
+            - number
+            - 'null'
+        provenance_preserved:
+          type:
+            - boolean
+            - 'null'
+        central_dependency:
+          type:
+            - string
+            - 'null'
+      additionalProperties: true
+  shared_dependencies:
+    type: array
+  systemic_failure_modes:
+    type: array
+  governors:
+    type: array
+  metrics:
+    type: array
+  evidence_state:
+    type: string
+additionalProperties: true

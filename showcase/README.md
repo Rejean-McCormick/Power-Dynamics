@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "kOA"
-version: "6.0"
+version: "6.3"
 title: "kOA Power Show"
 source_basis:
   - S13
@@ -39,5 +39,6 @@ It answers three questions in order:
 12. [`12-cross-domain-power-surface.md`](12-cross-domain-power-surface.md) — the multi-domain power map.
 13. [`13-political-economic-monetary-power.md`](13-political-economic-monetary-power.md) — explicit separation of political, economic, and monetary power.
 14. [`14-power-conversion-and-routing-map.md`](14-power-conversion-and-routing-map.md) — conversion firewalls and routing destinations.
+15. [`15-propagation-engine.md`](15-propagation-engine.md) — how returns cross branches and couple adoption, evidence, revenue, tooling, operators, language, integration, and founder decentering.
 
 The canonical full-surface summary is [`../POWER-SURFACE.md`](../POWER-SURFACE.md).

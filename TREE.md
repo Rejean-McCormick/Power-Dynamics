@@ -2,14 +2,14 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "6.2"
+version: "6.3"
 title: "Repository Tree"
 ---
 # Repository Tree
 
-The v6 reading hierarchy is intentionally different from the filesystem hierarchy:
+The v6.3 reading hierarchy is intentionally different from the filesystem hierarchy:
 
-> **Why kOA is powerful → Power Surface → Composition → Compounding → Conversion → Routing → Constitution → Evolution → Audit**
+> **Why kOA is powerful → Power Surface → Composition → Compounding → Propagation → Conversion → Routing → Constitution → Evolution → Audit**
 
 ```text
 Power-Dynamics-v6/
@@ -44,6 +44,7 @@ Power-Dynamics-v6/
 │   ├── power-balance-sheet.md
 │   ├── power-routing-audit.md
 │   ├── power-surface-audit.md
+│   ├── propagation-audit.md
 │   ├── README.md
 │   ├── system-profile.md
 │   └── temporal-evolution.md
@@ -111,6 +112,7 @@ Power-Dynamics-v6/
 │   ├── 10-transfer-succession-and-inheritance.md
 │   ├── 11-externalities-and-scale.md
 │   ├── 12-routing-sharing-and-devolution.md
+│   ├── 13-propagation-and-coupled-loops.md
 │   └── README.md
 ├── framework/
 │   ├── 00-field-definition.md
@@ -144,9 +146,21 @@ Power-Dynamics-v6/
 │   ├── orgo.md
 │   ├── README.md
 │   ├── returns-compounding.md
+│   ├── propagation-adoption.md
 │   ├── semantik-sentient.md
 │   ├── smartvote.md
 │   └── system-map.md
+├── propagation/
+│   ├── 00-field-definition.md
+│   ├── 01-coupled-feedback-loops.md
+│   ├── 02-adoption-stack.md
+│   ├── 03-cross-branch-returns.md
+│   ├── 04-distribution-surfaces.md
+│   ├── 05-autonomy-and-founder-absence.md
+│   ├── 06-damping-and-runaway-prevention.md
+│   ├── 07-metrics-and-falsification.md
+│   ├── 08-koa-loop-catalog.md
+│   └── README.md
 ├── puissance/
 │   └── README.md
 ├── relations/
@@ -172,6 +186,8 @@ Power-Dynamics-v6/
 │   ├── power-return.schema.yaml
 │   ├── power-routing.schema.yaml
 │   ├── power-surface.schema.yaml
+│   ├── feedback-loop.schema.yaml
+│   ├── coupled-loop.schema.yaml
 │   └── system-profile.schema.yaml
 ├── showcase/
 │   ├── 00-why-koa-is-immensely-powerful.md
@@ -189,6 +205,7 @@ Power-Dynamics-v6/
 │   ├── 12-cross-domain-power-surface.md
 │   ├── 13-political-economic-monetary-power.md
 │   ├── 14-power-conversion-and-routing-map.md
+│   ├── 15-propagation-engine.md
 │   └── README.md
 ├── sources/
 │   ├── architect-confirmed-design-notes.md
@@ -204,6 +221,7 @@ Power-Dynamics-v6/
 ├── GLOSSARY.md
 ├── LICENSE.md
 ├── POWER-ROUTING.md
+├── PROPAGATION.md
 ├── POWER-SHOW.md
 ├── POWER-SURFACE.md
 ├── PRINCIPLES.md

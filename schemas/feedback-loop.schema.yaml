@@ -1,0 +1,62 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Feedback Loop
+type: object
+required:
+  - id
+  - name
+  - stages
+properties:
+  id:
+    type: string
+  name:
+    type: string
+  scope:
+    type:
+      - string
+      - 'null'
+  loop_type:
+    type: string
+    enum:
+      - compounding
+      - propagation
+      - coupled
+      - damping
+      - mixed
+  input_assets:
+    type: array
+  stages:
+    type: array
+    minItems: 2
+  output_assets:
+    type: array
+  return_recipients:
+    type: array
+  feeds_into:
+    type: array
+  activation_barriers_reduced:
+    type: array
+  positive_feedback:
+    type: array
+  damping_mechanisms:
+    type: array
+  dependency_risks:
+    type: array
+  capture_risks:
+    type: array
+  founder_dependencies:
+    type: array
+  evidence_state:
+    type: string
+    enum:
+      - designed
+      - demonstrated
+      - used
+      - repeated
+      - independently_replicated
+      - federated
+      - unknown
+  metrics:
+    type: array
+  falsification_conditions:
+    type: array
+additionalProperties: true
