@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "6.3"
+version: "6.4"
 title: "Power Dynamics"
 source_basis:
   - S01
@@ -19,6 +19,7 @@ source_basis:
   - S25
   - S26
   - S28
+  - S30
 ---
 # Power Dynamics
 
@@ -37,11 +38,11 @@ People + knowledge + AI + networks + credibility + money + tools
                          ↓
                 STRUCTURE + CONNECT
                          ↓
-Meaning → Knowledge → Discovery → Credibility → Judgment
+Meaning → Knowledge → Discovery → Recognition → Credibility → Judgment
                          ↓
               Decision → Allocation
                          ↓
-            Coordination → Execution
+          Coordination → Execution
                          ↓
             Results → Memory → Returns
                          ↓
@@ -70,8 +71,8 @@ kOA can generate or amplify capability across many domains at once:
 | **Semantic** | define, relate, translate, version meaning | classification / framing / admissibility power |
 | **Cognitive / AI** | reason, synthesize, model, translate, plan | hidden framing / prioritization / dependency power |
 | **Information / attention** | publish, discover, rank, distribute | visibility / agenda / amplification power |
-| **Credibility / reputation** | make demonstrated expertise and contribution legible | standing / certification / opportunity power |
-| **Network / affiliation** | find people, collaborators, institutions, audiences | brokerage / inclusion / affiliation power |
+| **Recognition / credibility / reputation** | make demonstrated expertise and contribution legible, portable, and actionable | standing / certification / admissibility / opportunity power |
+| **Coordination / network / affiliation** | find and match needs, people, knowledge, collaborators, institutions, audiences | routing / brokerage / inclusion / affiliation power |
 | **Political / constitutional** | deliberate, advise, decide, amend, organize public standing | agenda / decision / mandate / legitimacy power |
 | **Economic** | mobilize money, assets, labor, funding, infrastructure | bargaining / property / allocation power |
 | **Monetary** | organize liquidity, payment rails, settlement, credit or currency functions | issuance / access / settlement / reserve power |
@@ -189,6 +190,40 @@ The result can be a network of coupled loops rather than one growth flywheel.
 
 See [`PROPAGATION.md`](PROPAGATION.md) and [`showcase/15-propagation-engine.md`](showcase/15-propagation-engine.md).
 
+
+## Recognition and coordination — power before production
+
+Power Dynamics v6.4 adds an upstream layer to the value chain. A system can shape outcomes before value is produced by controlling whether capacity becomes **recognized** and whether recognized capacity becomes **coordinated**.
+
+```text
+latent capacity
+→ evidence
+→ recognition
+→ access
+→ coordination
+→ action
+→ created value
+→ distribution / capture
+→ memory
+→ future credibility
+```
+
+This introduces two analytical objects:
+
+```text
+recognition wedge
+= bounded access / opportunity lost because relevant evidence is misrecognized
+
+coordination wedge
+= output lost because useful people, knowledge, timing, and resources fail to connect
+```
+
+These complement the existing extraction analysis: **capture concerns value already created; coordination friction can prevent value from being created at all.**
+
+The same infrastructure can increase **power to** and **power with** while also creating new **power over** if recognition, ranking, identity, or routing becomes unavoidable. The constitutional target is therefore not a perfect universal score. It is contextual evidence, plural readings, contestation, privacy, portability, explicit authority, and credible exit.
+
+See [`framework/11-recognition-coordination-and-value-routing.md`](framework/11-recognition-coordination-and-value-routing.md), [`assessment/recognition-coordination-audit.md`](assessment/recognition-coordination-audit.md), and [`showcase/16-recognition-coordination-power.md`](showcase/16-recognition-coordination-power.md).
+
 ## The third multiplication effect: cross-domain conversion
 
 Power rarely stays in one domain.
@@ -217,7 +252,7 @@ The strongest version of the project is not:
 
 It is:
 
-> **kOA generates immense puissance while deliberately routing much of that capability, optionality, authority, and return outward.**
+> **kOA generates immense puissance while deliberately routing much of that capability, recognition, optionality, authority, and return outward.**
 
 Examples:
 

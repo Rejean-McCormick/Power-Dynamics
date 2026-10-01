@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "6.3"
+version: "6.4"
 title: "Repository Status"
 source_basis:
   - S01
@@ -14,18 +14,33 @@ source_basis:
   - S18
   - S21
   - S25
+  - S30
 ---
 # Repository Status
 
-Version 6.3 retains the **kOA Power Show** and cross-domain Power Surface while strengthening adversarial resilience around founder authority, epistemic credibility, and plural Kristal branches.
+Version 6.4 retains the **kOA Power Show** and cross-domain Power Surface while adding recognition and coordination as first-class mechanisms between latent capacity and realized value.
 
 ## Presentation architecture
 
-> **Why kOA is powerful → Power Surface → Composition → Closure → Compounding → Propagation → Cross-Domain Conversion → Power Routing → Constitution → Evolution**
+> **Why kOA is powerful → Power Surface → Recognition / Coordination → Composition → Closure → Compounding → Propagation → Cross-Domain Conversion → Power Routing → Constitution → Evolution**
 
 The analytical engine remains:
 
 > **ontology × dynamics × domains**
+
+## Major v6.4 changes
+
+- added recognition power as a first-class upstream mechanism: who can make capacity, contribution, or claims legible, credible, admissible, and actionable;
+- added coordination power as the ability to connect needs, people, evidence, resources, timing, willingness, confidentiality, and workflow;
+- added `framework/11-recognition-coordination-and-value-routing.md`;
+- added `assessment/recognition-coordination-audit.md`;
+- added `showcase/16-recognition-coordination-power.md`;
+- proposed the **recognition wedge** and **coordination wedge** as bounded, falsifiable analytical objects;
+- formalized the credit / credibility bridge without reducing human credibility to solvency;
+- strengthened Koali / EkoH doctrine against universal ethical or social-credit scoring;
+- added the value-state distinction `created ≠ recognized ≠ monetized ≠ captured`;
+- made capability created in other people / organizations a first-class possible return;
+- recorded architect-confirmed design notes as S30.
 
 ## Major v6.3 changes
 
@@ -73,6 +88,7 @@ The analytical engine remains:
 - political power as a pre-political-through-execution chain;
 - economic puissance and allocation power;
 - monetary power as rail / issuance / liquidity / settlement / credit power;
+- recognition / coordination power and their conversion into access and action;
 - cross-domain conversion, stacking, and capture;
 - Power Conversion Firewalls;
 - deliberate routing of capability, authority, returns, and optionality;

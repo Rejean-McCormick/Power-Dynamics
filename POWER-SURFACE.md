@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "kOA"
-version: "6.0"
+version: "6.4"
 title: "The kOA Power Surface"
 source_basis:
   - S02
@@ -18,6 +18,7 @@ source_basis:
   - S25
   - S26
   - S28
+  - S30
 ---
 # The kOA Power Surface
 
@@ -35,8 +36,8 @@ The kOA Power Show is strongest when it makes the whole surface visible at once.
 | Semantic | structure concepts, categories, translation, ambiguity | classification, framing, admissibility | meaning → agenda / enforcement | versioned semantics, local governance, contestation |
 | Cognitive / AI | reasoning, synthesis, modeling, translation | hidden framing, prioritization, dependency | cognition → judgment / execution | AI under explicit governance, bounded authority |
 | Information / attention | publish, search, rank, distribute, amplify | visibility, agenda, moderation | attention → affiliation / legitimacy / funding | explicit discovery policies, alternatives, export |
-| Credibility / reputation | make evidence of competence/contribution legible | standing, certification, opportunity | credibility → visibility / access | domain-bounded signals, plural models, contestation |
-| Network / affiliation | association, brokerage, recruitment, diffusion | inclusion, exclusion, access | network → execution / opportunity | portable identity/relationships where feasible, plural networks |
+| Recognition / credibility / reputation | make evidence of competence/contribution legible and portable | standing, certification, admissibility, opportunity | recognition → access / visibility | domain-bounded evidence, plural models, contestation, portability |
+| Coordination / network / affiliation | match needs, people, knowledge, timing and relationships | routing, inclusion, exclusion, access | coordination → execution / opportunity | portable identity/relationships where feasible, plural networks |
 | Political / constitutional | deliberate, decide, authorize, amend, govern | mandate, veto, legitimacy, decision | political → administrative / allocation | political equality, scoped authority, contestation |
 | Economic | mobilize scarce resources, assets, labor, funding | bargaining, ownership, allocation | money → infrastructure / reach | democratic allocation, anti-pay-to-rule firewalls |
 | Monetary | liquidity, exchange, payment, credit, settlement | issuance, rail, reserve, access | monetary → economic / political dependency | treat high-stack monetary designs as constitutional risk |
@@ -115,7 +116,9 @@ Economic puissance includes the ability to mobilize:
 - philanthropy;
 - bargaining position.
 
-kOA can increase economic capability by improving coordination, credibility, discoverability, resource pooling, allocation, execution, and compounding.
+kOA can increase economic capability by improving coordination, recognition, credibility, discoverability, resource pooling, allocation, execution, and compounding.
+
+Power Dynamics now also distinguishes a **coordination wedge** — value not created because useful capability remains latent — from an **extraction wedge** — value created but disproportionately captured under constrained exit.
 
 ## Monetary surface
 
@@ -137,13 +140,14 @@ A monetary layer can become extraordinarily powerful because it conditions other
 
 For every surface, ask:
 
-1. **Who gains capability?**
-2. **Who gains authority?**
-3. **Who receives returns?**
-4. **Who gains optionality?**
-5. **What other domain can this convert into?**
-6. **What prevents that conversion from becoming arbitrary?**
-7. **Can affected actors verify, contest, substitute, exit, or fork?**
+1. **What capacity or contribution becomes recognized?**
+2. **Who gains capability?**
+3. **Who gains authority?**
+4. **Who receives returns?**
+5. **Who gains optionality?**
+6. **What other domain can this convert into?**
+7. **What prevents that conversion from becoming arbitrary?**
+8. **Can affected actors verify, contest, substitute, exit, or fork?**
 
 The desired architecture is not flatness. It is a **governable ecology of strong capabilities and non-terminal asymmetries**.
 

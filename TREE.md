@@ -2,14 +2,14 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "6.3"
+version: "6.4"
 title: "Repository Tree"
 ---
 # Repository Tree
 
-The v6.3 reading hierarchy is intentionally different from the filesystem hierarchy:
+The v6.4 reading hierarchy is intentionally different from the filesystem hierarchy:
 
-> **Why kOA is powerful → Power Surface → Composition → Compounding → Propagation → Conversion → Routing → Constitution → Evolution → Audit**
+> **Why kOA is powerful → Power Surface → Recognition / Coordination → Composition → Compounding → Propagation → Conversion → Routing → Constitution → Evolution → Audit**
 
 ```text
 Power-Dynamics-v6/
@@ -45,6 +45,7 @@ Power-Dynamics-v6/
 │   ├── power-routing-audit.md
 │   ├── power-surface-audit.md
 │   ├── propagation-audit.md
+│   ├── recognition-coordination-audit.md
 │   ├── README.md
 │   ├── system-profile.md
 │   └── temporal-evolution.md
@@ -126,6 +127,7 @@ Power-Dynamics-v6/
 │   ├── 08-constitutional-thesis.md
 │   ├── 09-power-routing-and-sharing.md
 │   ├── 10-cross-domain-power-conversion.md
+│   ├── 11-recognition-coordination-and-value-routing.md
 │   └── README.md
 ├── history/
 │   ├── central-correction-to-nondomination.md
@@ -185,6 +187,7 @@ Power-Dynamics-v6/
 │   ├── power-relation.schema.yaml
 │   ├── power-return.schema.yaml
 │   ├── power-routing.schema.yaml
+│   ├── recognition-coordination.schema.yaml
 │   ├── power-surface.schema.yaml
 │   ├── feedback-loop.schema.yaml
 │   ├── coupled-loop.schema.yaml
@@ -206,11 +209,14 @@ Power-Dynamics-v6/
 │   ├── 13-political-economic-monetary-power.md
 │   ├── 14-power-conversion-and-routing-map.md
 │   ├── 15-propagation-engine.md
+│   ├── 16-recognition-coordination-power.md
 │   └── README.md
 ├── sources/
 │   ├── architect-confirmed-design-notes.md
 │   ├── concept-origin-map.md
 │   ├── corpus-map.md
+│   ├── propagation-design-notes.md
+│   ├── recognition-coordination-value-notes.md
 │   ├── epistemic-rules.md
 │   ├── README.md
 │   ├── source-status.md

@@ -1,0 +1,109 @@
+$schema: "https://json-schema.org/draft/2020-12/schema"
+title: "Recognition and Coordination Record"
+type: object
+required:
+  - context
+  - recognition
+  - coordination
+properties:
+  context:
+    type: object
+    required: [domain, bounded_outcome]
+    properties:
+      domain:
+        type: string
+      bounded_outcome:
+        type: string
+      affected_actors:
+        type: array
+        items: {type: string}
+      legitimate_decision_authority:
+        type:
+          - string
+          - 'null'
+    additionalProperties: true
+  recognition:
+    type: object
+    properties:
+      subject:
+        type: string
+      evidence:
+        type: array
+        items: {type: string}
+      admissibility_rules:
+        type: array
+        items: {type: string}
+      contextual_credibility_readings:
+        type: array
+      provenance:
+        type: array
+      portability:
+        type: array
+      contestation_and_correction:
+        type: array
+      privacy_and_minimum_disclosure:
+        type: array
+      time_decay_or_expiry:
+        type: array
+      over_recognition_risks:
+        type: array
+      under_recognition_risks:
+        type: array
+      recognition_wedge:
+        type: object
+        properties:
+          outcome_measure: {type: string}
+          calibrated_counterfactual: {}
+          observed_outcome: {}
+          uncertainty: {}
+        additionalProperties: true
+    additionalProperties: true
+  coordination:
+    type: object
+    properties:
+      need:
+        type: string
+      capability_requirements:
+        type: array
+      availability_constraints:
+        type: array
+      willingness_and_consent:
+        type: array
+      confidentiality_constraints:
+        type: array
+      reliability_requirements:
+        type: array
+      routing_rules:
+        type: array
+      override_or_closure_authority:
+        type: array
+      fallback_routes:
+        type: array
+      coordination_wedge:
+        type: object
+        properties:
+          output_measure: {type: string}
+          lower_friction_counterfactual: {}
+          observed_output: {}
+          uncertainty: {}
+        additionalProperties: true
+    additionalProperties: true
+  power_balance:
+    type: object
+    properties:
+      power_to_gains:
+        type: array
+      power_with_gains:
+        type: array
+      power_over_created:
+        type: array
+      dependencies_created:
+        type: array
+      exit_and_substitution:
+        type: array
+    additionalProperties: true
+  evidence_of_effect:
+    type: array
+  limitations:
+    type: array
+additionalProperties: false

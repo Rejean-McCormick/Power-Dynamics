@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "6.3"
+version: "6.4"
 title: "Propagation and Coupled Loops"
 source_basis:
   - S13
@@ -10,6 +10,7 @@ source_basis:
   - S21
   - S25
   - S29
+  - S30
 ---
 # Propagation and Coupled Loops
 
@@ -41,6 +42,8 @@ The primary risks are:
 - positive feedback producing capture;
 - cross-loop hidden dependencies;
 - prestige / credibility self-reproduction;
+- recognition gatekeepers becoming mandatory;
+- coordination layers accumulating hidden assignment authority;
 - standards or interface choke points;
 - founder bottlenecks;
 - network effects that reduce exit;

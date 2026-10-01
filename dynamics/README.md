@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "6.3"
+version: "6.4"
 title: "Power Dynamics: Dynamic Processes"
 source_basis:
   - S01
@@ -11,6 +11,7 @@ source_basis:
   - S18
   - S25
   - S26
+  - S30
 ---
 # Dynamic Processes
 
@@ -18,13 +19,16 @@ The Power Show answers **what kOA can make possible**. This directory explains *
 
 The main dynamic sequence is:
 
-> **Formation → Mobilization → Composition → Conversion → Effects → Returns → Reinvestment → Compounding → Propagation → Concentration / Contestation → Diversification / Evolution → Decay / Transfer → Routing / Sharing**
+> **Formation → Mobilization → Recognition / Coordination → Composition → Conversion → Effects → Returns → Reinvestment → Compounding → Propagation → Concentration / Contestation → Diversification / Evolution → Decay / Transfer → Routing / Sharing**
 
 ## 1. Formation
 How resources become potential, capacity, and eventually effectively mobilizable puissance.
 
 ## 2. Mobilization
 How retained stocks are released, routed, distributed, mediated, amplified, or blocked. `Reservoir → Release → Flow → Mediation` is a mobilization model, not the whole theory.
+
+## 2A. Recognition and coordination
+How evidence becomes standing / access and how distributed capability is matched into viable collective action.
 
 ## 3. Composition and generated puissance
 How distinct capabilities combine to create higher-order individual or collective capability.

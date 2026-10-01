@@ -2,13 +2,14 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "6.0"
+version: "6.4"
 title: "Returns, Reinvestment, and Compounding"
 source_basis:
   - S13
   - S21
   - S25
   - S26
+  - S30
 ---
 # Returns, Reinvestment, and Compounding
 
@@ -33,3 +34,37 @@ can degrade into:
 `Recognition → Visibility → Opportunity → Recognition`
 
 where incumbency reproduces itself.
+
+
+## Recognition compounding
+
+Recognition can itself compound:
+
+```text
+evidence
+→ credibility
+→ access / opportunity
+→ action
+→ result
+→ more evidence
+```
+
+This can produce genuine learning about reliability or expertise. It can also produce cumulative advantage when opportunity is allocated mainly to those already recognized.
+
+The inverse loop matters equally:
+
+```text
+low recognition
+→ low access
+→ fewer opportunities to demonstrate capability
+→ weak evidence history
+→ continued low recognition
+```
+
+Portable evidence, plural discovery policies, bounded domains, and alternative ways to demonstrate capability can reduce this lock-in.
+
+## Capability created in others as a return
+
+A return need not be captured by the actor that generated the infrastructure. One of the most important possible returns is **increased effective capability in other people or organizations**.
+
+This distributed return can later generate knowledge, credibility, relationships, tools, institutional access, or other assets that propagate through the system.

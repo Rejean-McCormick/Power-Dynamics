@@ -19,6 +19,9 @@ properties:
   routing_dimensions:
     type: object
     properties:
+      recognition:
+        type: array
+        items: {type: string}
       capability:
         type: array
         items: {type: string}
@@ -35,6 +38,9 @@ properties:
         type: array
         items: {type: string}
       visibility:
+        type: array
+        items: {type: string}
+      coordination:
         type: array
         items: {type: string}
     additionalProperties: false

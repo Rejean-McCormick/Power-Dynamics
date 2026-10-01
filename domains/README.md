@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "6.0"
+version: "6.4"
 title: "Power Domains"
 source_basis:
   - S01
@@ -18,6 +18,7 @@ source_basis:
   - S22
   - S25
   - S26
+  - S30
 ---
 # Power Domains
 
@@ -38,7 +39,7 @@ The distinction matters because the mechanisms, mandates, risks, and counterpowe
 | Monetary / credit / liquidity | Who controls exchange rails, issuance, settlement, reserves, liquidity, or credit conditions? | [`03-monetary-credit.md`](03-monetary-credit.md) |
 | Epistemic / semantic | Who can shape what is knowable, valid, categorized, translated, or admissible? | [`04-epistemic-semantic.md`](04-epistemic-semantic.md) |
 | Information / attention / media | Who can make things visible, discoverable, amplified, ranked, or ignored? | [`05-information-attention-media.md`](05-information-attention-media.md) |
-| Credibility / reputation | Who can shape standing, trust signals, certification, or opportunity? | [`06-credibility-reputation.md`](06-credibility-reputation.md) |
+| Recognition / credibility / reputation | Who can shape standing, trust signals, certification, admissibility, or opportunity? | [`06-credibility-reputation.md`](06-credibility-reputation.md) |
 | Network / affiliation | Who can broker access, recruit, include, exclude, connect, or mobilize relationships? | [`07-network-affiliation.md`](07-network-affiliation.md) |
 | Administrative / operational | Who can route, assign, delay, approve, escalate, execute, or close? | [`08-administrative-operational.md`](08-administrative-operational.md) |
 | Technical / infrastructural | Who can build, update, host, sign, standardize, interoperate, or withdraw infrastructure? | [`09-technical-infrastructural.md`](09-technical-infrastructural.md) |
@@ -59,8 +60,9 @@ Avoid statements such as “X is more powerful than Y” without specifying:
 The most important questions often concern transitions between domains:
 
 ```text
+capacity → evidence → recognition
 knowledge → credibility
-credibility → visibility
+credibility → access / visibility
 visibility → agenda
 money → infrastructure
 infrastructure → dependency

@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "6.1"
+version: "6.4"
 title: "Cross-Domain Power Conversion"
 source_basis:
   - S01
@@ -15,6 +15,7 @@ source_basis:
   - S18
   - S25
   - S26
+  - S30
 ---
 # Cross-Domain Power Conversion
 
@@ -33,12 +34,16 @@ source resource / puissance
 Examples:
 
 ```text
+capacity / contribution → evidence → recognition → credibility
+credibility → access / opportunity → action
 knowledge → evidence of competence → credibility
 credibility → ranking / endorsement → visibility
 visibility → audience → opportunity
 money → purchase / funding → infrastructure
 infrastructure → dependency → bargaining leverage
 brand → affiliation → revenue
+recognition → access → opportunity
+coordination → activated collective capability → result
 founder / persona → trust → agenda leverage
 citation volume → apparent consensus → epistemic authority
 reference stewardship → canon visibility → truth-monopoly risk
@@ -101,6 +106,8 @@ Examples:
 - money → funding, not votes;
 - brand → attention, not truth;
 - credibility → discoverability, not unquestionable authority;
+- recognition → contextual access, not universal human ranking;
+- coordination → viable options, not hidden sovereign assignment;
 - infrastructure → capability, not ownership of users;
 - execution → mandate implementation, not mandate redefinition.
 

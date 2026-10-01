@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "6.3"
+version: "6.4"
 title: "Principles"
 source_basis:
   - S01
@@ -17,6 +17,7 @@ source_basis:
   - S22
   - S25
   - S28
+  - S30
 ---
 # Principles
 
@@ -156,3 +157,18 @@ Power Dynamics begins from an affirmative premise: **people and collectives shou
 - **Contact is not endorsement.** Outreach may create future recognition, but `contacted ≠ read ≠ familiar ≠ supportive ≠ partner`.
 - **Multiplicity at the periphery; simplicity at the center.** Many cultural, technical, linguistic, or institutional entry paths should converge on the same inspectable architecture and evidence.
 - **The goal is not maximum acceleration.** The system should preserve the ability to pause, remain local, defer federation, fork, or operate at a sustainable pace.
+## Recognize and coordinate without totalizing people
+
+85. **Recognition is a power surface.** The ability to make capacity, contribution, or claims legible can alter access before production begins.
+86. **Credibility is contextual.** It should not silently become a universal ranking of persons.
+87. **Credibility ≠ truth ≠ ethics ≠ competence ≠ legitimacy ≠ sovereignty.**
+88. **Solvency is not moral worth.** Financial creditworthiness must not silently become a general identity judgment.
+89. **Recognition should expose evidence and policy identity.** A useful signal should be inspectable, contestable, correctable, and portable where feasible.
+90. **High-impact access should not depend on one universal score.** Different contexts require different evidence and legitimate decision authorities.
+91. **Coordination can create power over.** A router that improves matching can still become a hidden allocator if alternatives disappear.
+92. **Coordination should preserve willingness.** Availability and capability do not imply consent to participate.
+93. **Minimum disclosure is a power constraint.** Matching should reveal no more personal information than the task requires.
+94. **Created value, recognized value, monetized value, and captured value are distinct.**
+95. **Capability created in others is a first-class return.** Value does not need to be owned by the infrastructure operator to be real.
+96. **Measure capability gain with dependency gain.** A pilot is incomplete if it reports throughput without the new gatekeeping power it creates.
+

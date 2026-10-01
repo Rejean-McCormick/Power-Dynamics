@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "6.0"
+version: "6.4"
 title: "Sources and Provenance"
 source_basis:
 ---
@@ -10,7 +10,7 @@ source_basis:
 
 The supplied corpus is the repository's primary evidence base.
 
-Source IDs are stable references to the 28 supplied files. They identify provenance, not endorsement or current status.
+Source IDs are stable provenance references. S01–S28 identify the supplied corpus; S29–S30 record architect-confirmed design notes created during repository development. They identify provenance, not endorsement or current status.
 
 The repo distinguishes:
 

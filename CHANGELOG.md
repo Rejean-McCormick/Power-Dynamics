@@ -2,10 +2,27 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "6.3"
+version: "6.4"
 title: "Changelog"
 ---
 # Changelog
+
+## 6.4 — Recognition, Coordination, and Value Activation
+
+- Added **recognition power**: control over whether capacity, contribution, claims, or histories become legible, credible, admissible, discoverable, or actionable.
+- Added **coordination power**: ability to connect needs, people, knowledge, resources, timing, willingness, confidentiality, and workflow into action.
+- Added `framework/11-recognition-coordination-and-value-routing.md`.
+- Added `assessment/recognition-coordination-audit.md`.
+- Added `showcase/16-recognition-coordination-power.md`.
+- Added S30 architect-confirmed design notes for the credit / credibility bridge, contextual EkoH, coordination friction, plural value surfaces, and capability-created-in-others.
+- Proposed a bounded **recognition wedge** rather than a universal "true value minus score" measure.
+- Proposed a **coordination wedge** for value not created because useful capacity remains latent.
+- Formalized recognition compounding: `evidence → credibility → access → opportunity → result → evidence`.
+- Strengthened the distinction `credibility ≠ truth ≠ competence ≠ ethics ≠ legitimacy ≠ sovereignty`.
+- Strengthened Koali / EkoH against universal ethical or social-credit scoring.
+- Added the value-state distinction `created ≠ recognized ≠ monetized ≠ captured`.
+- Made **capability created in others** an explicit possible return and pilot impact target.
+- Extended the Power Show with recognition / coordination as a layer before production and capture.
 
 ## 6.3 — Propagation & Coupled Loops
 

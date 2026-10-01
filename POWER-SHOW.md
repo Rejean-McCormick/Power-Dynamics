@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "kOA"
-version: "6.3"
+version: "6.4"
 title: "The kOA Power Show"
 source_basis:
   - S02
@@ -17,6 +17,7 @@ source_basis:
   - S22
   - S25
   - S26
+  - S30
 ---
 # The kOA Power Show
 
@@ -61,7 +62,7 @@ See [`POWER-SURFACE.md`](POWER-SURFACE.md).
 SemantiK / SenTient  → meaning
 Kristal              → knowledge + provenance + memory
 Konnaxion            → discovery + network + circulation
-Koali / EkoH         → credibility legibility
+Koali / EkoH         → recognition + credibility legibility
 SmartVote            → comparative judgment + decision support
 Orgo                 → operational execution
 AI                    → cognitive amplification
@@ -145,6 +146,35 @@ integration → broader capability → new integration demand
 When several such loops exchange returns, kOA can exhibit **coupled propagation**.
 
 See [`PROPAGATION.md`](PROPAGATION.md) and [`showcase/15-propagation-engine.md`](showcase/15-propagation-engine.md).
+
+
+## 5B. Recognition and coordination — activate what already exists
+
+A large amount of capability can remain latent because people, evidence, knowledge, needs, and timing fail to connect. kOA can therefore create value not only by adding resources, but by reducing the friction between existing resources.
+
+```text
+latent capacity
+→ evidence
+→ recognition
+→ discoverability
+→ access
+→ coordination
+→ action
+→ result
+→ memory
+→ future credibility
+```
+
+This adds two wedges to the analytical vocabulary:
+
+```text
+recognition wedge  → relevant capability is misrecognized or trapped behind proxy signals
+coordination wedge → useful capability exists but is not activated because matching fails
+```
+
+The same infrastructure can increase `power to` and `power with` while creating new `power over` if recognition or routing becomes unavoidable.
+
+See [`showcase/16-recognition-coordination-power.md`](showcase/16-recognition-coordination-power.md).
 
 ## 6. Cross-domain conversion — one capability unlocks another
 

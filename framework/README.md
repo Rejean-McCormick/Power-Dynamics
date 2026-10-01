@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "6.0"
+version: "6.4"
 title: "Framework"
 source_basis:
   - S01
@@ -12,6 +12,7 @@ source_basis:
   - S18
   - S21
   - S25
+  - S30
 ---
 # Framework
 
@@ -30,11 +31,12 @@ The framework is the analytical engine behind the kOA Power Show.
 9. [`08-constitutional-thesis.md`](08-constitutional-thesis.md)
 10. [`09-power-routing-and-sharing.md`](09-power-routing-and-sharing.md)
 11. [`10-cross-domain-power-conversion.md`](10-cross-domain-power-conversion.md)
+12. [`11-recognition-coordination-and-value-routing.md`](11-recognition-coordination-and-value-routing.md)
 
 ## Core model
 
 > **Resource / Asset → Potential → Capacity → Puissance → Power Relation → Effect → Return**
 
-The broader dynamics study how those states **form, mobilize, compose, convert, return, compound, concentrate, capture, contest, diversify, evolve, decay, transfer, scale, and route**.
+The broader dynamics study how those states **form, mobilize, recognize, coordinate, compose, convert, return, compound, concentrate, capture, contest, diversify, evolve, decay, transfer, scale, and route**.
 
 The domain axis is detailed in [`../domains/README.md`](../domains/README.md).

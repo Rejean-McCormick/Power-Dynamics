@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "6.2"
+version: "6.4"
 title: "Concept Origin Map"
 source_basis:
 ---
@@ -47,6 +47,13 @@ source_basis:
 | Political / Economic / Monetary separation | S09, S10, S11, S14, S15, S17, S18 + synthesis | ANALYTICAL-RECONSTRUCTION |
 | Cross-Domain Power Conversion | S10, S14, S15, S18, S26 + synthesis | NEW-CONCEPT / framework refinement |
 | Breadth × Composition × Closure × Memory × Compounding × Replication × Routing | corpus + Power Dynamics synthesis | NEW-CONCEPT / v6 summary formula |
+| Recognition power | S15, S26, S28, S30 + synthesis | NEW-CONCEPT / framework refinement |
+| Coordination power | S13, S18, S25, S30 + synthesis | NEW-CONCEPT / framework refinement |
+| Recognition wedge | S30 + Power Dynamics synthesis | PROPOSED-ANALYTICAL-MEASURE |
+| Coordination wedge | S30 + Power Dynamics synthesis | PROPOSED-ANALYTICAL-MEASURE |
+| Credit / credibility bridge | S03, S30 + synthesis | ANALYTICAL-RECONSTRUCTION |
+| Capability created in others as return | S13, S18, S25, S30 + synthesis | NEW-CONCEPT / impact layer |
+| Value created ≠ recognized ≠ monetized ≠ captured | S30 + prior value-capture work | NEW-CONCEPT / value-state distinction |
 | Academic lineage layer | external literature used for comparison / challenge, not presumed historical influence | EXTERNAL-RESEARCH / NON-ORIGINATING |
 | Installed-Base Power | standards / network-effects literature + Power Dynamics synthesis | PROPOSED-CONCEPT / external-research-informed |
 | Interface power | modularity / standards literature + Power Dynamics synthesis | PROPOSED-CONCEPT / external-research-informed |

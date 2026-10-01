@@ -13,6 +13,8 @@ properties:
     type: array
   returned_assets:
     type: array
+  capability_created_in_others:
+    type: array
   return_recipients:
     type: array
   reinvestment_paths:

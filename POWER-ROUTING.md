@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "kOA"
-version: "6.1"
+version: "6.4"
 title: "Power Routing, Sharing, and Devolution"
 source_basis:
   - S02
@@ -14,6 +14,7 @@ source_basis:
   - S21
   - S22
   - S25
+  - S30
 ---
 # Power Routing, Sharing, and Devolution
 
@@ -26,6 +27,7 @@ It asks:
 A system can empower users while still making its operator indispensable. Power routing therefore examines four destinations separately:
 
 ```text
+RECOGNITION→ whose capacity / contribution becomes legible and actionable?
 CAPABILITY → who can do more?
 AUTHORITY  → who can decide or control more?
 RETURNS    → who receives reusable value?
@@ -41,7 +43,8 @@ OPTIONALITY→ who can refuse, leave, reproduce, fork, or wait?
 | Reference knowledge branch | reference becomes truth monopoly | forkability, lineage, evidence comparison | plural epistemic capacity |
 | Narrative attention | founder/persona centrality | explicit ethics, self-critique, attribution, anti-domination | public principles, procedures, critical readers |
 | Brand | trademark becomes protocol sovereignty | brand stewardship separated from protocol | protocol commons + bounded official brand |
-| Koali credibility infrastructure | one owner defines standing | plural distributions, portable evidence, explicit policy identity | communities, domains, alternative operators |
+| Koali / EkoH recognition infrastructure | one owner or score defines standing and access | contextual evidence, plural distributions, portable history, explicit policy identity | communities, domains, alternative operators |
+| Coordination / matching | router becomes mandatory allocator | user filters, consent, local rules, multiple routes, fallback and exit | participants and local operators |
 | Expertise | expert becomes ruler | baseline + bounded advisory readings | informed public judgment |
 | Knowledge validation | one owner of truth | provenance, reader policies, competing Kristals | plural epistemic capability |
 | Infrastructure | operator becomes unavoidable | self-hosting, capsules, federation, rollback, substitution | local operators / communities |
@@ -132,11 +135,12 @@ For every important kOA mechanism:
 
 1. What puissance does it create?
 2. Where would that puissance naturally concentrate?
-3. What relational power does that concentration create?
-4. What capability can be routed outward instead?
-5. What authority must remain scoped?
-6. Who receives the returns?
-7. Who receives exit / substitution / fork optionality?
-8. What evidence proves that the routing is practical rather than merely formal?
+3. What recognition or routing role does it control?
+4. What relational power does that concentration create?
+5. What capability can be routed outward instead?
+6. What authority must remain scoped?
+7. Who receives the returns?
+8. Who receives exit / substitution / fork optionality?
+9. What evidence proves that the routing is practical rather than merely formal?
 
 See [`assessment/power-routing-audit.md`](assessment/power-routing-audit.md).

@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "6.3"
+version: "6.4"
 title: "Corpus Map"
 source_basis:
 ---
@@ -41,3 +41,4 @@ The repository uses stable source IDs. Source IDs identify provenance; they do n
 | S27 | `A Technosocial Architecture for Knowledge-to-Action.docx(20260902-205258).md` | CURRENT-ANALYTICAL | Integrated knowledge-to-action architecture, open knowledge, validation, collaboration and governance. |
 | S28 | `FINAL Domain-Bounded Collective Intelligence_ Merit, Safety, and Scale(5).md` | CURRENT-EXPERIMENTAL | Domain-bounded expertise weighting, evidence, time decay, ethics multipliers, audit and human oversight. |
 | S29 | `sources/propagation-design-notes.md` | CURRENT-DESIGN-NOTES | Architect-confirmed propagation mechanisms: cross-branch returns, Worlds, cinematic demonstrations, machine-readable documentation, multilingual scale, cultural diffusion, pre-exposure discipline, founder optionality, and movement self-use. |
+| S30 | `sources/recognition-coordination-value-notes.md` | CURRENT-DESIGN-NOTES | Architect-confirmed recognition / credibility / credit bridge, coordination friction, EkoH contextuality, plural value surfaces, capability-created-in-others, and proposed recognition / coordination wedges. |
