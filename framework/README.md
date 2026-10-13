@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "6.4"
+version: "6.5"
 title: "Framework"
 source_basis:
   - S01
@@ -32,6 +32,7 @@ The framework is the analytical engine behind the kOA Power Show.
 10. [`09-power-routing-and-sharing.md`](09-power-routing-and-sharing.md)
 11. [`10-cross-domain-power-conversion.md`](10-cross-domain-power-conversion.md)
 12. [`11-recognition-coordination-and-value-routing.md`](11-recognition-coordination-and-value-routing.md)
+13. [`12-narrative-legitimacy-and-polycentric-trust.md`](12-narrative-legitimacy-and-polycentric-trust.md) — legitimacy, information selection, polycentric recognition and forkable institutions.
 
 ## Core model
 

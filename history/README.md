@@ -29,3 +29,7 @@ Broadly:
 6. **Power Dynamics synthesis: capability creation plus constitutionalized evolution**.
 
 The repository preserves tensions instead of retroactively making all documents agree.
+
+
+- [`gather-to-liberate.md`](gather-to-liberate.md) — historical context, civilizer analogy, and polycentric institutional replacement.
+

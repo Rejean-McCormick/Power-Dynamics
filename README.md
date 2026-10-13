@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "6.4"
+version: "6.5"
 title: "Power Dynamics"
 source_basis:
   - S01
@@ -223,6 +223,23 @@ These complement the existing extraction analysis: **capture concerns value alre
 The same infrastructure can increase **power to** and **power with** while also creating new **power over** if recognition, ranking, identity, or routing becomes unavoidable. The constitutional target is therefore not a perfect universal score. It is contextual evidence, plural readings, contestation, privacy, portability, explicit authority, and credible exit.
 
 See [`framework/11-recognition-coordination-and-value-routing.md`](framework/11-recognition-coordination-and-value-routing.md), [`assessment/recognition-coordination-audit.md`](assessment/recognition-coordination-audit.md), and [`showcase/16-recognition-coordination-power.md`](showcase/16-recognition-coordination-power.md).
+
+## Gather to Liberate: understanding, plural authority, and credible exit
+
+The architect's October 2026 clarification extends the Power Show into a concrete **polycentric recognition** thesis: independent institutions may issue attestations, selectively recognize one another by domain, revoke that recognition, and coexist with compatible forked implementations. **Centers of competence are welcome; terminal ownership of the recognition infrastructure is not.**
+
+This also adds a narrative-power lens: a true success story can mislead when presented without base rates; news channels may disagree because they select different measures, evidence, causal claims or trust policies. The target is **inspectable provenance and claim-level comparison**, not a popularity vote on truth or a centrally imposed narrative.
+
+UCKK aims at understanding rather than merely exchanging beliefs; kOA aims to translate understanding into independent collective agency. **Gather to Liberate** names their proposed relationship, with open formats, contestability, forkability and effective exit as practical tests.
+
+- [`framework/12-narrative-legitimacy-and-polycentric-trust.md`](framework/12-narrative-legitimacy-and-polycentric-trust.md) — integrated conceptual model.
+- [`koa/polycentric-attestation.md`](koa/polycentric-attestation.md) — scoped, reciprocal recognition and delegation limits.
+- [`cases/contested-media-claim.md`](cases/contested-media-claim.md) — fictional media-evidence comparison.
+- [`assessment/polycentric-trust-audit.md`](assessment/polycentric-trust-audit.md) — adversarial test matrix.
+- [`history/gather-to-liberate.md`](history/gather-to-liberate.md) — long historical framing and myth analogy limits.
+- [`sources/conversation-2026-10-11-design-notes.md`](sources/conversation-2026-10-11-design-notes.md) — S31 architect-confirmed intentions vs analytical inferences.
+
+**Status:** design direction. No implementation, UNESCO participation, institutional endorsements, or empirical outcome is asserted.
 
 ## The third multiplication effect: cross-domain conversion
 

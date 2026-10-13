@@ -13,3 +13,6 @@ source_basis:
 Status is not truth ranking. A legacy proposal can still expose a useful mechanism, and a recent analytical document is not automatically a canonical technical specification.
 
 See [`corpus-map.md`](corpus-map.md) for per-source classification.
+
+
+S31 is also `CURRENT-DESIGN-NOTES` and does not establish a deployed trust protocol or any named institutional participation.

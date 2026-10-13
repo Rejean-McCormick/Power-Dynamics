@@ -62,3 +62,6 @@ The architecture must therefore make emerging power legible before it becomes te
 Useful centers are compatible with this model. The issue is not centrality itself but whether the rest of the system remains practically capable without permanent submission to that center.
 
 - [`power-redirection-sharing.md`](power-redirection-sharing.md) — redirecting leverage before it becomes terminal and sharing capability through protocolization, plurality, and devolution.
+
+
+**Polycentric recognition refinement:** useful authority centers may persist and be widely recognized, but recognition must be selectively contestable. Forking common infrastructure must not silently clone legal mandates, and compatible protocols must not require identical belief systems. See [`../koa/polycentric-attestation.md`](../koa/polycentric-attestation.md).

@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "kOA"
-version: "6.3"
+version: "6.5"
 title: "kOA as a Capability and Power Ecology"
 source_basis:
   - S13
@@ -49,6 +49,7 @@ Power Dynamics then asks:
 The primary system map is [`system-map.md`](system-map.md). The broader showcase is [`../POWER-SHOW.md`](../POWER-SHOW.md).
 
 - [`koali-protocolization.md`](koali-protocolization.md) — Koali as a power-sharing test: from personal property toward plural interoperable distributions.
+- [`polycentric-attestation.md`](polycentric-attestation.md) — independently chosen recognition policies, bounded delegation, portability, and non-transitive institutional trust.
 
 ## Power-surface reading
 

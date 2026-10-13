@@ -26,3 +26,6 @@ This includes three distinct branch types that should not be conflated:
 Forkability does not imply equal evidentiary support. A system can permit a branch to exist while still making provenance, contradiction, uncertainty, validation policy, and source independence visible.
 
 The strongest technical audit still requires direct current specifications for trust roots, policies, registries, signatures, and federation behavior.
+
+
+See [`polycentric-attestation.md`](polycentric-attestation.md) for the proposed distinction between claim support, issuer authenticity, local reader policies, delegation, and legal authority. A widely recognized reference source does not own truth.

@@ -1,0 +1,30 @@
+# FICTIONAL policy. Example issuers are placeholders, not endorsements or deployed identities.
+policy_id: urn:example:local-university:policy:education-v1
+policy_version: '1.0.0'
+reader_id: urn:example:local-university
+effective_from: '2026-10-11T14:00:00Z'
+description: Recognize selected course credentials while declining unrelated claims.
+default_decision: manual_review
+recognition_rules:
+  - rule_id: accept-academic-credentials
+    issuer_id: urn:example:university-a
+    domains: [education]
+    claim_types: [degree-award, course-completion]
+    decision: accept
+    required_evidence: [issuer-authentication, non-revoked-status]
+    delegation:
+      enabled: false
+      max_depth: 0
+  - rule_id: reject-product-marketing-claims
+    issuer_id: urn:example:vendor-b
+    domains: [product-marketing]
+    claim_types: [superiority-claim]
+    decision: manual_review
+    delegation:
+      enabled: false
+      max_depth: 0
+exclusions:
+  - issuer_id: urn:example:university-a
+    claim_type: political-endorsement
+    domain: electoral-politics
+    reason: Outside the reader's educational credential acceptance policy.

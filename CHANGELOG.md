@@ -2,10 +2,21 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "6.4"
+version: "6.5"
 title: "Changelog"
 ---
 # Changelog
+
+## 6.5 — Narrative Power, Gather to Liberate, and Polycentric Recognition
+
+- Added S31 architect-confirmed conversation provenance, separating explicit design intentions from unverified implementation and analytical inferences.
+- Connected UCKK's understanding-oriented emancipation with kOA's federated, practical empowerment and the **Gather to Liberate** framing.
+- Formulated direction-specific, partial, versioned recognition policies, explicit bounded delegation, non-transitivity by default, and revocation with history.
+- Clarified **institutional forkability vs legal authority**: code and open artifacts can be reproduced, but an institution's identity, mandates, trademarks, and legitimacy do not clone automatically.
+- Added a narrative-power model for survivorship bias, selection, framing, omission and repeated dependent sources; distinguished truth, authenticity, recognition and popularity.
+- Added a fictional media comparison, polycentric-trust audit, illustrative schema and sample policy, plus historical framing.
+- Retained all statements about UNESCO, universities, health bodies, labs and technology companies as **hypothetical policy illustrations**, not participating partners.
+- No runtime implementation or external validation is claimed in this documentation release.
 
 ## 6.4 — Recognition, Coordination, and Value Activation
 

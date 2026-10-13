@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "6.4"
+version: "6.5"
 title: "Sources and Provenance"
 source_basis:
 ---
@@ -20,3 +20,6 @@ The repo distinguishes:
 - **LEGACY-PROPOSAL** material preserved for genealogy and stress testing.
 
 The source corpus contains real internal tensions. These should not be silently reconciled.
+
+
+S31 is the architect-confirmed October 2026 discussion on UCKK, Gather to Liberate, Open Good, forkability, partial/reciprocal institutional recognition, and media-claim comparison. Its interpretation and non-claims are documented in [`conversation-2026-10-11-design-notes.md`](conversation-2026-10-11-design-notes.md).

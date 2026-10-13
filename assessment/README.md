@@ -2,7 +2,7 @@
 maturity: "CURRENT-CORE"
 claim_type: "ANALYTICAL-RECONSTRUCTION"
 scope: "GENERAL"
-version: "6.4"
+version: "6.5"
 title: "Assessment"
 source_basis:
   - S13
@@ -27,6 +27,7 @@ Assessment converts Power Dynamics into repeatable audits.
 - [`dependency-exit-audit.md`](dependency-exit-audit.md) — distinguish formal from effective exit.
 - [`power-balance-sheet.md`](power-balance-sheet.md) — assets, dependencies, liabilities, and optionality.
 - [`recognition-coordination-audit.md`](recognition-coordination-audit.md) — audit recognition, contextual credibility, matching, coordination friction, and social-credit failure modes.
+- [`polycentric-trust-audit.md`](polycentric-trust-audit.md) — test reciprocal/partial recognition, delegation, evidence independence, media framing, and effective institutional exit.
 - [`constitutional-tests.md`](constitutional-tests.md) — test non-domination and terminality.
 - [`branch-comparison.md`](branch-comparison.md) — compare alternatives without assuming one final metric.
 - [`temporal-evolution.md`](temporal-evolution.md) — inspect change, drift, succession, and compounding over time.

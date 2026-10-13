@@ -13,6 +13,7 @@ properties:
     - ANALYTICAL-RECONSTRUCTION
     - NEW-CONCEPT
     - EXTERNAL-RESEARCH
+    - USER-CONFIRMED-DESIGN
   maturity:
     type: string
   source_basis:
